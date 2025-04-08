@@ -1,0 +1,4101 @@
+AthleteGUID,AthleteName,AthleteGender,Nationality
+1469674,Allan Ngitsi Chirwa,M         ,MAW
+1469199,Aleksandr Salahudinov,M         ,KGZ
+1464577,Onisio Pereia,M         ,MOZ
+1452109,Prestina Ochonogor,W         ,NGR
+1441632,Hein Htet Aung,M         ,MYA
+1434371,Abdisa Fayisa,M         ,ETH
+1431912,Christian Salvador,M         ,ECU
+1416606,Emelyne Izabayo,W         ,RWA
+1412593,Jerry Jokinen,M         ,FIN
+1405434,Nicolas Daru,M         ,FRA
+1393216,Martin Machura,M         ,CZE
+1387617,Steven Richter,M         ,GER
+1384666,Samira Awal,W         ,NIG
+1370522,Faith Cherotich,W         ,KEN
+1370480,Daiki Ogawa,M         ,JPN
+1370338,Simon Spiteri,M         ,MLT
+1369126,Salaheddine Ben Yazide,M         ,MAR
+1486999,Matthias Kyburz,M         ,SUI
+1470820,Kidane Andemikael,M         ,ERI
+1470728,Aleksander Tekleweld,M         ,ERI
+1448616,Aayush Kunwar,M         ,NEP
+1437311,Therence Bizoza,M         ,BDI
+1437260,Samwel Nyamae,M         ,KEN
+1433377,Musa Sulimann,M         ,SUD
+1433199,Emeline Imanizabayo,W         ,RWA
+1430871,Joseph Green,M         ,NULL
+1427495,Jiang Zhichao,W         ,CHN
+1418486,Xiong Shiqi,W         ,CHN
+1414992,Amna Bakhit Barsham,W         ,SUD
+1411467,Kethobogile Haingura,M         ,BOT
+1409595,Beppe Grillo,M         ,MLT
+1408691,Paramjeet Singh Bisht,M         ,IND
+1400768,Samuel Ogazi,M         ,NGR
+1470754,Hermon Habtemicael,M         ,ERI
+1469677,Mohammed Dwedar,M         ,PLE
+1459422,Seco Camara,M         ,GBS
+1453858,Marcos Santos,M         ,ANG
+1452271,Terrone Webster,M         ,AIA
+1429882,Misganaw Wakuma,M         ,ETH
+1427971,Abdul-Rasheed Saminu,M         ,GHA
+1418969,Pahal Kiran,W         ,IND
+1404549,Adam Ibadulla,M         ,MDV
+1403337,Sha Mahmood Noor Zahi,M         ,AFG
+1393217,Siegfried Wentz,M         ,GER
+1393214,Aleksandr Nevskiy,M         ,UKR
+1393209,Dariusz Ludwig,M         ,POL
+1393208,Trond Skramstad,M         ,NOR
+1393207,Steffen Grummt,M         ,GER
+1393206,Uwe Freimuth,M         ,GER
+1388795,Raynold Cheruiyot,M         ,KEN
+1482591,Biniam Mehary,M         ,ETH
+1465754,Perina Lokure Nakang,W         ,SSD
+1464982,Brian Komen,M         ,KEN
+1456837,Georgiana Sesay,W         ,SLE
+1456110,Jonash Moncherry,M         ,SEY
+1440807,Addy Wiley,W         ,USA
+1434175,Macarena Gimenez,W         ,PAR
+1432026,Koitatoi Kidali,M         ,KEN
+1411552,Yalemget Yaregal,W         ,ETH
+1410250,Davonte Howell,M         ,CAY
+1405772,Juliane Hvid,W         ,DEN
+1404744,Yeral Nuñez,M         ,DOM
+1401610,Matheus Lima,M         ,BRA
+1474685,Waisake Tewa,M         ,FIJ
+1469076,Mokulubete Blandina Makatsi,W         ,LES
+1463537,Aline De Freitas,W         ,BRA
+1441602,Zaid Al Awamleh,M         ,JOR
+1441177,James Corrigan,M         ,USA
+1430072,Mohammed Msaad,M         ,MAR
+1423411,Birke Haylom,W         ,ETH
+1420873,Maher Ben Hlima,M         ,POL
+1405379,Annie Saugstrup,W         ,DEN
+1395704,Rigbe Habteselassie,W         ,ERI
+1393221,Stefan Niklaus,M         ,SUI
+1393213,Guido Kratschmer,M         ,GER
+1393210,Jürgen Hingsen,M         ,GER
+1371478,Tharushi Karunarathna,W         ,SRI
+1369757,Seare Dawit,M         ,ERI
+1368456,Ferenc Soma Kovács,M         ,HUN
+1367176,Alessandra Gasparelli,W         ,SMR
+1366619,Erik Erlandsson,M         ,SWE
+1365973,Erin Reese,W         ,USA
+1364597,Pauline Stey,W         ,FRA
+1360584,Teresia Gateri,W         ,KEN
+1356149,Ermiyas Girma,M         ,ETH
+1354570,César Alberto Herrera,M         ,COL
+1352161,Wanya McCoy,M         ,BAH
+1352144,Marione Fourie,W         ,RSA
+1398080,Graham Pellegrini,M         ,MLT
+1395697,Dominique Lasconi Mulamba,M         ,COD
+1370830,Jackline Chepkoech,W         ,KEN
+1370494,Egide Ntakarutimana,M         ,BDI
+1369618,José Andrés Salazar,M         ,ESA
+1368600,Pau Blasi,M         ,AND
+1367762,Medina Eisa,W         ,ETH
+1367103,Lurdes Gloria Manuel,W         ,CZE
+1366183,Favoris Muzrapov,M         ,TJK
+1371471,Ronal Longa,M         ,NULL
+1370946,Tapiwa Makarawu,M         ,ZIM
+1370663,Purity Chepkirui,W         ,KEN
+1370497,Ronald A. Mencia,M         ,CUB
+1370328,Stefan Nillessen,M         ,NED
+1368174,Luca Sito,M         ,ITA
+1364982,Mika Sosna,M         ,GER
+1364287,Nick Griggs,M         ,IRL
+1361620,Djamel Sedjati,M         ,ALG
+1393219,Torsten Voss,M         ,GER
+1393211,Joško Vlašic,M         ,CRO
+1393205,Conny Silfver,M         ,SWE
+1387572,Petr Meindlschmid,M         ,CZE
+1386594,Abdullah Al-Yaari,M         ,YEM
+1384656,Camara Seco,M         ,GBS
+1371354,Mohamed Al Hammadi,M         ,UAE
+1371292,Phooripol Bunson,M         ,THA
+1370124,Simon Koech,M         ,KEN
+1366288,Štěpán Schubert,M         ,CZE
+1356154,Addisu Yihune,M         ,ETH
+1356095,Makanakaishe Charamba,M         ,ZIM
+1353752,Véronique Kossenda Rey,W         ,CMR
+1351797,Collen Kebinatshipi,M         ,BOT
+1365318,Niels Laros,M         ,NED
+1361702,Dexter Mayorga,M         ,NCA
+1353379,Zheng Ninali,W         ,CHN
+1353326,Jonathan Javier Amores,M         ,ECU
+1352978,Roshawn Clarke,M         ,JAM
+1352342,Francois Prinsloo,M         ,RSA
+1351990,Jaydon Hibbert,M         ,JAM
+1351612,Håvard Bentdal Ingvaldsen,M         ,NOR
+1350366,Grace Nawowuna,W         ,KEN
+1349077,Habtom Samuel,M         ,ERI
+1347990,Jean Marie Bukuru,M         ,BDI
+1347266,Mariandre Chacón,W         ,GUA
+1343211,Paula Milena Torres,W         ,ECU
+1343021,Kiriakí Filtisákou,W         ,GRE
+1327501,Tigist Girma,W         ,ETH
+1327185,Jun Kasai,M         ,JPN
+1308716,Emmanuel Wanyonyi,M         ,KEN
+1365383,Manuel Mordi,M         ,GER
+1364865,Saguirou Badamassi,M         ,NIG
+1357359,Cacisile Sosibo,W         ,RSA
+1356915,Parker Valby,W         ,USA
+1356071,Samuel Firewu,M         ,ETH
+1355172,Kayinsola Ajayi,M         ,NGR
+1352171,Antoine Andrews,M         ,BAH
+1351503,Mohamed Attaoui,M         ,ESP
+1350542,Ishmael Kipkurui,M         ,KEN
+1194566,Arshad Nadeem,M         ,PAK
+1472422,Stella Rutto,W         ,ROU
+1459735,Thi Nhi Yen Tran,W         ,VIE
+1458532,Guillem Arderiu,M         ,AND
+1430681,Larissa Moreira,W         ,BRA
+1425925,Alex Orlando Macuacua,M         ,MOZ
+1422808,Nicolae Alexandru Soare,M         ,ROU
+1417813,Frank Hoye Moukoula Wissy,M         ,GAB
+1416324,Valentin Soca,M         ,URU
+1412357,Valters Kreišs,M         ,LAT
+1408085,Gabriela De Sousa Muniz,W         ,BRA
+1401742,Craig Gill,M         ,GIB
+1395675,Elie Bacari,M         ,BEL
+1393361,Debbie Donald,W         ,NZL
+1393222,Thrainn Hafsteinsson,M         ,ISL
+1393220,Daley Thompson,M         ,GBR
+1393212,Robert De Wit,M         ,NED
+1386593,Marc Anthony Ibrahim,M         ,LBN
+1371116,Jun Jie Calvin Quek,M         ,SGP
+1361595,Briana Scott,W         ,CAN
+1360325,Prisca Chesang,W         ,UGA
+1360319,Rogers Kibet,M         ,UGA
+1360185,Ralford Mullings,M         ,JAM
+1353425,Hana Burzalová,W         ,SVK
+1350857,Rahel Daniel,W         ,ERI
+1350760,Muzala Samukonga,M         ,ZAM
+1349486,Andrew Boniface,M         ,TAN
+1348928,Cian Oldknow,W         ,RSA
+1329006,Fanni Rapai,W         ,HUN
+1327955,Luke Micallef,M         ,MLT
+1350512,Craig Thorne,M         ,CAN
+1350134,Anna Yusupova,W         ,AZE
+1347393,Diu Chun Hei,M         ,HKG
+1327706,Dillon Cassar,M         ,MLT
+1327274,Cesar Almiron,M         ,PAR
+1327007,Werkwuha Getachew,W         ,ETH
+1323230,Andrea Cosi,M         ,ITA
+1308881,Megan Keith,W         ,GBR
+1308481,Ella Onojuvwevwo,W         ,NGR
+1308320,Taiga Yokochi,M         ,JPN
+1305289,Ken Toyoda,M         ,JPN
+1179631,Anderson Peters,M         ,GRN
+1304509,Alexa Sulyán,W         ,NULL
+1298637,Hana Moll,W         ,USA
+1308674,Weldon Kipkirui,M         ,KEN
+1308416,Maria Lucineida Da Silva,W         ,BRA
+1307874,Ole Jakob Høsteland Solbu,M         ,NOR
+1303009,Johanna Göring,W         ,GER
+1298709,Zerei Mezngi,M         ,NOR
+1298440,Samuel Pihlström,M         ,SWE
+1298197,Francesco Pernici,M         ,ITA
+1296500,Joel Ibler Lillesø,M         ,DEN
+1295605,Miranda Coetzee,W         ,RSA
+1349971,Bhawna Jat,W         ,IND
+1349396,Ethan Olivier,M         ,NZL
+1347450,Graham Blanks,M         ,USA
+1346297,Alexander Ogando,M         ,DOM
+1328771,Yaseen Abdalla,M         ,SUD
+1328414,John Cabang,M         ,PHI
+1327327,Renan Correa,M         ,BRA
+1370381,Alaa Journi,M         ,LBA
+1367499,Jakub Dudycha,M         ,CZE
+1366173,Nigeria,M         ,NGR
+1365217,Feng Peiyou,M         ,CHN
+1361591,Aydee Huaman,W         ,PER
+1360278,Peter Maru,M         ,UGA
+1359855,Paul McGrath,M         ,NULL
+1356409,Ethan Katzberg,M         ,CAN
+1355518,Liu Junxi,M         ,CHN
+1353260,Jorge Luis Cruz,M         ,MEX
+1352711,Asimenye Simwaka,W         ,MAW
+1298476,Valentin Gondouin,M         ,FRA
+1298028,Antony Pesela,M         ,BOT
+1294877,Phoebe Gill,W         ,GBR
+1294298,Saly Sarr,W         ,SEN
+1293899,Paulo Amotun Lokoro,M         ,SSD
+1293721,Wang Fang,W         ,CHN
+1292144,Daniel Mateiko,M         ,KEN
+1291700,Tayleb Willis,M         ,AUS
+1290437,Kyle Swan,M         ,AUS
+1287915,Rowan Hamilton,M         ,CAN
+1285768,Johnatas De Oliveira,M         ,BRA
+1285732,Plamena Mitkova,W         ,BUL
+1326284,Ayane Yanai,W         ,JPN
+1323123,Marc Brian Louis,M         ,SGP
+1323039,Sören Klose,M         ,GER
+1308742,Mohamed Daouda Tolo,M         ,KSA
+1308694,Marta Serrano,W         ,ESP
+1308485,Ezekiel Nathaniel,M         ,NGR
+1308141,John Heymans,M         ,BEL
+1305450,Adriana Vilagoš,W         ,SRB
+1176334,Neeraj Chopra,M         ,IND
+1303059,Bozhidar Saraboyukov,M         ,BUL
+1294387,Yalemzerf Yehualaw,W         ,ETH
+1293275,Brynn King,W         ,USA
+1291822,Dakotah Lindwurm,W         ,USA
+1290243,Ami Yamamoto,W         ,JPN
+1289665,Akira Akasaki,M         ,JPN
+1289506,Cornelius Kemboi,M         ,KEN
+1289055,Nikola Horowska,W         ,POL
+1288638,Linda Angounou,W         ,CMR
+1288051,Jana Koščak,W         ,CRO
+1286949,Mosese Foliaki,M         ,TGA
+1286104,Mudhawi Al-Shammari,W         ,KUW
+1285731,Erin Shaw,W         ,AUS
+1284953,Levente Szemerei,M         ,HUN
+1284837,Weronika Nagięć,W         ,POL
+1284762,Shajar Abbas,M         ,PAK
+1282940,Anna Tóth,W         ,HUN
+1281667,Grace Konrad,W         ,CAN
+1280063,Merel Maes,W         ,BEL
+1279636,Yves Cherubin,M         ,HAI
+1327259,Luis Reyes,M         ,CHI
+1308184,Fabio Correia,M         ,BRA
+1306595,Yusaku Kodama,M         ,JPN
+1306184,Ammar Ismail Yahya Ibrahim,M         ,QAT
+1305290,Hiroki Yanagita,M         ,JPN
+1305024,Haruka Kokai,W         ,JPN
+1304706,Jakub Szymański,M         ,POL
+1304473,Herve Toumandji,M         ,CAF
+1294636,Naomi Korir,W         ,KEN
+1294346,Filip Rak,M         ,POL
+1285640,Dina Aulia,W         ,INA
+1284747,Leonid Latsepov,M         ,EST
+1284540,Claire Azzopardi,W         ,MLT
+1283145,Yanis Meziane,M         ,FRA
+1283125,Audrey Werro,W         ,SUI
+1281930,Heath Baldwin,M         ,USA
+1142960,Johannes Vetter,M         ,GER
+1279467,Sidonie Fiadanantsoa,W         ,MAD
+1278229,Hussain Mohsen Al-Farisi,M         ,OMA
+1352560,Xu Zhuoyi,M         ,CHN
+1352126,Hobbs Kessler,M         ,USA
+1350145,Farida Abaroge,W         ,ETH
+1349457,Martín Sáenz,M         ,CHI
+1305295,Rachid Muratake,M         ,JPN
+1298218,Christine Mboma,W         ,NAM
+1297022,Letsile Tebogo,M         ,BOT
+1298806,Magnus Tuv Myhre,M         ,NOR
+1298003,Jalen Lisse,M         ,SUR
+1297338,Mykolas Alekna,M         ,LTU
+1297286,Denisha Cartwright,W         ,NULL
+1296835,Anej Čurin Prapotnik,M         ,SLO
+1295974,Evin Demir,W         ,TUR
+1295180,Cristina Montesinos,W         ,ESP
+1295096,Claudia Hollingsworth,W         ,AUS
+1294980,Bryan Levell,M         ,JAM
+1294948,Zandrion Barnes,M         ,JAM
+1295201,Mostafa El Faid,M         ,MAR
+1293362,Chhun Bunthorn,M         ,CAM
+1293027,Yonathan Kapitolnik,M         ,ISR
+1292704,Tiaan Whelpton,M         ,NZL
+1291399,Tsige Gebreselama,W         ,ETH
+1290940,Daniela Torres,W         ,MEX
+1290130,Ondřej Macík,M         ,CZE
+1278153,Eduardo Moreira,M         ,BRA
+1277755,Mátyás Németh,M         ,HUN
+1277328,Navasky Anderson,M         ,JAM
+1276767,Andrew Rotich Kwemoi,M         ,UGA
+1275153,Lionel Spitz,M         ,SUI
+1273644,Mohammed Al-Suleimani,M         ,OMA
+1272204,Samantha Harrison,W         ,GBR
+1271380,Ryo Hamanishi,M         ,JPN
+1271227,Jamaa Mohamed Abdullahi,M         ,SOM
+1270877,Trevor Bassitt,M         ,USA
+1278169,Leonie Beu,W         ,PNG
+1278119,Juliette Whittaker,W         ,USA
+1276603,Ayşe Tekdal,W         ,TUR
+1275686,Rahul Rohila,M         ,IND
+1275007,Kenza Sosse,W         ,QAT
+1274760,Angelina Topić,W         ,SRB
+1274298,Judith Korir,W         ,KEN
+1273654,Udodi Onwuzurike,M         ,NGR
+1273270,Jacob Krop,M         ,KEN
+1294495,Yeykell Romero,M         ,NCA
+1294322,Ilona Mononen,W         ,FIN
+1293801,Eva Kubícková,W         ,CZE
+1293043,Oskar Edlund,M         ,SWE
+1292357,Michael Joseph,M         ,LCA
+1290743,Louie Hinchliffe,M         ,GBR
+1289438,Balázs Tóth,M         ,HUN
+1289107,Jente Hauttekeete,M         ,BEL
+1289047,Deandre Watkin,M         ,JAM
+1287600,Amal Al-Roumi,W         ,KUW
+1285222,Daniel Ebenyo,M         ,KEN
+1271915,Noah Bibi,M         ,MRI
+1270413,Sven Roosen,M         ,NED
+1270256,Anjali Devi,W         ,IND
+1269801,Ackeem Blake,M         ,JAM
+1294146,Eduard Kubelík,M         ,CZE
+1293834,Matheus Gabriel Correa,M         ,BRA
+1291798,Joel Bengtsson,M         ,SWE
+1291452,Joshua Zeller,M         ,GBR
+1291052,Martin Kiprotich,M         ,UGA
+1289915,Fatmata Awolo,W         ,SLE
+1287976,Rosie Elliott,W         ,NZL
+1287718,Yuma Yamamoto,W         ,JPN
+1286123,Timothy Kiplagat,M         ,KEN
+1283824,Benji Richardson,M         ,RSA
+1282857,Enzo Diessl,M         ,AUT
+1280759,Filmon Teklebrhan,M         ,GER
+1280532,Amos Serem,M         ,KEN
+1269102,Dániel Huller,M         ,HUN
+1269051,Chenoult Coetzee,M         ,NAM
+1269044,Mark Bujnowski,M         ,CAN
+1268902,Marcela Cristina Gómez,W         ,ARG
+1267822,Julián Molina,M         ,ARG
+1267631,Guadalupe Torrez,W         ,BOL
+1266778,Mateo Vargas,M         ,PAR
+1264998,Thomas Willems,M         ,AUS
+1264856,Mgondzashe Ncube,M         ,ZIM
+1264163,Margaux Sieracki,W         ,FRA
+1263703,Poliníki Emmanouilídou,W         ,GRE
+1263653,Mikaelle Assani,W         ,GER
+1270770,Valentina Rosamilia,W         ,SUI
+1270384,Evelin Inga,W         ,PER
+1269373,Berke Akçam,M         ,TUR
+1269162,Li Yandong,M         ,CHN
+1268644,Cole Hocker,M         ,USA
+1267625,Naomi Akakpo,W         ,TOG
+1289588,Erriyon Knighton,M         ,USA
+1289471,Ildar Akhmadiyev,M         ,TJK
+1288651,Fayez Abdullah Al-Subaie,M         ,KSA
+1288276,Samia Hassan Nour,W         ,DJI
+1287674,Diego Patricio Arévalo,M         ,ECU
+1285977,Tobias Grønstad,M         ,NOR
+1285868,Rubén Arando,M         ,BOL
+1266164,Yared Nuguse,M         ,USA
+1266028,Slavko Stević,M         ,SRB
+1265421,Andrés Olivas,M         ,MEX
+1265368,Carolina Wikström,W         ,SWE
+1265313,Han Il Ryong,M         ,NULL
+1265154,Robin Emig,M         ,FRA
+1264167,Reynaldo R. Espinosa,M         ,CUB
+1263884,Jacob Boutera,M         ,NOR
+1262452,Cordell Tinch,M         ,USA
+1262218,Fiordaliza Cofil,W         ,DOM
+1285281,Nico Young,M         ,USA
+1285240,Aidan Murphy,M         ,AUS
+1284646,Árpád Bánóczy,M         ,HUN
+1282239,Hiroto Jusho,M         ,JPN
+1281831,Beatrice Masilingi,W         ,NAM
+1281674,Lorenzo Ndele Simonelli,M         ,ITA
+1281338,Cheikh Tidiane Diouf,M         ,SEN
+1281129,Abel Kipsang,M         ,KEN
+1284132,Wu Quanming,W         ,CHN
+1283626,Elissa Legault,W         ,CAN
+1283415,Abdulselam Imük,M         ,TUR
+1283307,Idow Hassan Ali,M         ,SOM
+1282639,Elína Tzénggo,W         ,GRE
+1282411,Abdelrahman Mahmoud,M         ,BRN
+1281996,Laura Raquel Müller,W         ,GER
+1281970,Jayden Ulrich,W         ,USA
+1281453,Natalia Linares,W         ,COL
+1281024,Jyothi Yarraji,W         ,IND
+1280608,Francesco Sansovini,M         ,SMR
+1261967,Mélissa Gutschmidt,W         ,SUI
+1261419,Michelle Harrison,W         ,CAN
+1261369,Yang Liujing,W         ,CHN
+1261240,Romaine Beckford,M         ,JAM
+1257299,Wang Zhaozhao,M         ,CHN
+1257020,Tsegaye Kidanu,M         ,NULL
+1255519,Andrea Bonilla,W         ,ECU
+1255083,Kenneth Rooks,M         ,USA
+1279653,Takele Bikila,M         ,ETH
+1279230,Brandon Miller,M         ,USA
+1278026,Anvar Anvarov,M         ,UZB
+1277339,Zhao Jie,W         ,CHN
+1277016,Jamal Abdelmaji Eisa Mohammed,M         ,SUD
+1276155,Glenda Estefanía Morejón,W         ,ECU
+1276154,Layla Al-Masry,W         ,PLE
+1275859,Matic Ian Guček,M         ,SLO
+1275837,Towa Uzawa,M         ,JPN
+1254906,Torrie Lewis,W         ,AUS
+1254899,He Wuga,W         ,CHN
+1254598,Simon Sibeko,M         ,RSA
+1253888,Silvia Patricia Ortiz,W         ,ECU
+1253663,Rasheem Brown,M         ,CAY
+1253279,Hanna Shеvchuk,W         ,UKR
+1252102,Esraa Owis,W         ,EGY
+1251723,Marthe Yankurije,W         ,RWA
+1251625,Markus Rooth,M         ,NOR
+1095198,Jakub Vadlejch,M         ,CZE
+1280688,Agate De Sousa,W         ,POR
+1280209,Marie Perrier,W         ,MRI
+1278725,Mieke Gorissen,W         ,BEL
+1277412,Favour Ashe,M         ,NGR
+1277128,Sander Aae Skotheim,M         ,NOR
+1263610,Rose Loga,W         ,FRA
+1262992,Imaobong Nse Uko,W         ,NGR
+1262351,Leonard Bett,M         ,KEN
+1262041,Oleh Doroshchuk,M         ,UKR
+1262005,Dicki-Terry Mael,M         ,VAN
+1260870,Stephanie Davis,W         ,GBR
+1091544,Magnus Kirt,M         ,EST
+1259492,Enni Nurmi,W         ,FIN
+1280215,Hiromichi Yoshida,M         ,JPN
+1278968,Elvira Khasanova,W         ,RUS
+1278427,Zerfe Wondemagegn,W         ,ETH
+1278133,Santoshi Shrestha,W         ,NEP
+1277958,Yasiel Brayan Sotero,M         ,ESP
+1277374,Cui Lihong,M         ,CHN
+1276939,Abraham Seme,M         ,ETH
+1274591,Owen Ansah,M         ,GER
+1274442,Tachlowini Gabriyesos,M         ,ERI
+1272000,Stern Noel Liffa,M         ,MAW
+1271398,Petra Sicaková,W         ,CZE
+1271173,Rose Yeboah,W         ,GHA
+1270782,Abdelatif Sadiki,M         ,MAR
+1275545,Sanu Jallow,W         ,GAM
+1275527,Gladymar Torres,W         ,PUR
+1275049,Agate Caune,W         ,LAT
+1274975,Ryuji Miura,M         ,JPN
+1273471,Alejandro A. Parada,M         ,CUB
+1273446,Connor Bell,M         ,NZL
+1272001,Rhema Otabor,W         ,BAH
+1251408,Marcela Joglová,W         ,CZE
+1250722,Abdulaziz Salim Mohamed,M         ,QAT
+1250230,Cathelijn Peeters,W         ,NED
+1276936,Ftaw Zeray,W         ,ETH
+1276619,Tsehay Gemechu,W         ,ETH
+1275556,Kazuki Kurokawa,M         ,JPN
+1275207,Hüseyin Can,M         ,TUR
+1249987,José González,M         ,DOM
+1249737,Joe Waskom,M         ,USA
+1248817,Mathieu Jaquet,M         ,SUI
+1248522,Matthew Wilkinson,M         ,USA
+1248456,Bassem Hemeida,M         ,QAT
+1247604,Miné De Klerk,W         ,RSA
+1247519,Thea Löfman,W         ,SWE
+1246269,Kristina Ovchinnikova,W         ,KAZ
+1245851,Filip Jakob Demšar,M         ,SLO
+1245248,Sara Benfarès,W         ,GER
+1245213,Sarah Chelangat,W         ,UGA
+1270504,Zhang Mingkun,M         ,CHN
+1270103,Zhang Man,W         ,CHN
+1269936,Xenia Noreen Hiebert,W         ,PAR
+1269386,Henriette Jæger,W         ,NOR
+1268675,Lidio Feliz,M         ,DOM
+1267640,Olivia Gürth,W         ,GER
+1266686,Riccardo Orsoni,M         ,ITA
+1266318,Bayapo Ndori,M         ,BOT
+1271982,Gracelyn Larkin,W         ,CAN
+1271640,Hussein Ali Al-Khafaji,M         ,IRQ
+1270320,Louis François Mendy,M         ,SEN
+1269988,Xenia Benach,W         ,ESP
+1267963,Nanako Fujii,W         ,JPN
+1267565,Jonah Harris,M         ,NRU
+1266444,Maciej Wyderka,M         ,POL
+1265274,Dario Dester,M         ,ITA
+1258966,Lamecha Girma,M         ,ETH
+1258072,Emmanuel Eseme,M         ,CMR
+1257252,Pedro Buaró,M         ,POR
+1256299,Ankita Dhiyani,W         ,IND
+1256164,Dubem Nwachukwu,M         ,NGR
+1265801,Kishane Thompson,M         ,JAM
+1264563,Attila Molnár,M         ,HUN
+1264269,Diribe Welteji,W         ,ETH
+1255931,Rachel Glenn,W         ,USA
+1255905,Shaili Singh,W         ,IND
+1254763,Dorota Skřivanová,W         ,CZE
+1254551,Yana Smerdova,W         ,RUS
+1254503,Mohamed Ali Gouaned,M         ,ALG
+1253844,Qin Weibo,M         ,CHN
+1252532,Till Steinforth,M         ,GER
+1252064,Rodrigue Kwizéra,M         ,BDI
+1244606,Briana Williams,W         ,JAM
+1242974,Favour Ofili,W         ,NGR
+1242826,Magdalena Shauri,W         ,TAN
+1242782,Abdessamad Oukhelfen,M         ,ESP
+1242225,Ludovica Cavalli,W         ,ITA
+1273753,Ky Robinson,M         ,AUS
+1272733,Nazareno Sasia,M         ,ARG
+1272463,Oleksandr Pohorilko,M         ,UKR
+1271513,David Kenny,M         ,IRL
+1270341,Konstadínos Záltos,M         ,GRE
+1269564,Russell Robinson,M         ,USA
+1269456,Tsegaye Getachew,M         ,ETH
+1267875,Franko Burraj,M         ,ALB
+1267059,Muhd Azeem Fahmi,M         ,MAS
+1266876,Worknesh Mesele,W         ,ETH
+1242124,Filip Ostrowski,M         ,POL
+1241570,Ethan Cormont,M         ,FRA
+1241528,Luke McCann,M         ,IRL
+1240274,Melese Nberet,M         ,ETH
+1239958,Malik James-King,M         ,JAM
+1144987,Julian Weber,M         ,GER
+1120272,Julius Yego,M         ,KEN
+1239491,Kaede Hagitani,W         ,JPN
+1239064,Alex Kipngetich,M         ,KEN
+1238881,Anja Lukić,W         ,SRB
+1238093,Netsanet Desta,W         ,ETH
+1236851,Dolshi Tesfu,W         ,ERI
+1265788,Moa Granat,W         ,SWE
+1265118,Viktória Forster,W         ,SVK
+1264959,Jovan Stojoski,M         ,MKD
+1264518,Li Yuting,W         ,CHN
+1264409,Edmund Du Plessis,M         ,RSA
+1264351,Joe Fahnbulleh,M         ,LBR
+1236825,Diego Lacamoire,M         ,ARG
+1236756,Louise Maraval,W         ,FRA
+1236593,Anass Essayi,M         ,MAR
+1236457,Rhonex Kipruto,M         ,KEN
+1236199,Malachi Murray,M         ,CAN
+1236056,Vít Hlaváč,M         ,CZE
+1234266,Emil Nana Kwame Agyekum,M         ,GER
+1233473,Nickisha Pryce,W         ,JAM
+1264017,Sabastian Sawe,M         ,KEN
+1263916,Benjamin Azamati,M         ,GHA
+1263797,Hrístos Frantzeskákis,M         ,GRE
+1262803,Leo Köpp,M         ,GER
+1262510,Anni-Linnea Alanen,W         ,FIN
+1233088,Alicia Monson,W         ,USA
+1233074,Guy Maganga Gorra,M         ,GAB
+1232079,Nelly Chepchirchir,W         ,KEN
+1231979,Moussa Zaroumeye,M         ,NIG
+1231142,Jemima Montag,W         ,AUS
+1265258,Zahra Tatar,W         ,ALG
+1263837,Tim Verbaandert,M         ,NED
+1261515,Anthony Ammirati,M         ,FRA
+1261146,Federico Riva,M         ,ITA
+1260972,Zhu Shenglong,M         ,CHN
+1260168,Tim Vincent,M         ,AUS
+1256199,Yves Nimubona,M         ,RWA
+1256140,Martynas Alekna,M         ,LTU
+1255739,Joceline Wind,W         ,SUI
+1255706,Tadese Worku,M         ,ETH
+1255681,Berihu Aregawi,M         ,ETH
+1251978,Felisberto De Deus,M         ,TLS
+1251786,Tom Dradiga,M         ,UGA
+1250952,João Ricardo Coelho,M         ,POR
+1250448,Moitalel Mpoke,M         ,KEN
+1249447,Chris Borzor,M         ,HAI
+1249146,J. Jeswin Aldrin,M         ,IND
+1248944,Vincent Keter,M         ,KEN
+1263728,Nibret Melak,M         ,ETH
+1263219,Jules Pommery,M         ,FRA
+1263170,Ditiro Nzamani,M         ,BOT
+1262032,Meryem Bekmez,W         ,TUR
+1261665,Larissa Iapichino,W         ,ITA
+1261012,Melody Julien,W         ,FRA
+1260303,Olivier Mwimba,M         ,COD
+1259691,Mikdat Sevler,M         ,TUR
+1261695,Paola Vazquez,W         ,PUR
+1261549,Lucas da Silva,M         ,BRA
+1261524,Sofiya Yaremchuk,W         ,ITA
+1261391,Leyanis Pérez,W         ,CUB
+1261065,Chituru Ali,M         ,ITA
+1260189,Nadale Buntin,M         ,SKN
+1258425,Catherine Relin,W         ,KEN
+1258307,Yauheni Bahutski,M         ,BLR
+1257256,Albert Komański,M         ,POL
+1230742,Hiromu Yamauchi,M         ,JPN
+1230726,Zhang Jun,M         ,CHN
+1229865,Jessica Moreira,W         ,BRA
+1229680,Alaba Akintola,M         ,NGR
+1228703,Declan Tingay,M         ,AUS
+1228175,Clemence Beretta,W         ,FRA
+1228168,Geiner Moreno,M         ,COL
+1228118,Adam Spencer,M         ,AUS
+1227255,Pietro Arese,M         ,ITA
+1256051,Xie Zhiyu,M         ,CHN
+1255384,Grace Nwokocha,W         ,NGR
+1254241,Temitope Simbiat Adeshina,W         ,NGR
+1253636,Randolph Ross,M         ,USA
+1253630,Alegna Gonzalez,W         ,MEX
+1252904,Corentin Le Clezio,M         ,FRA
+1252784,Sinesipho Dambile,M         ,RSA
+1255279,Terrence Jones Jr.,M         ,BAH
+1254511,Pablo Mateo,M         ,FRA
+1254160,Connor Murphy,M         ,AUS
+1253811,Tibo De Smet,M         ,BEL
+1252397,Lythe Pillay,M         ,RSA
+1251101,Jaida Ross,W         ,USA
+1250749,Simen Guttormsen,M         ,NOR
+1250732,Gergely Török,M         ,HUN
+1249273,Noelia Vargas,W         ,CRC
+1247081,Mouad Mohamed Ibrahim,M         ,QAT
+1246891,Daniel Roberts,M         ,USA
+1246765,Velten Schneider,M         ,GER
+1246639,Mindia Endeladze,M         ,GEO
+1246555,Thalía Valdivia,W         ,PER
+1245570,Boglárka Takács,W         ,HUN
+1259148,El Hassane Moujahid,M         ,MAR
+1258545,Courtney Lindsey,M         ,USA
+1257844,István Palkovits,M         ,HUN
+1256935,Chris Bailey,M         ,USA
+1256924,Christopher Dryden,M         ,NZL
+1256482,Juho Alasaari,M         ,FIN
+1255296,Simone Plourde,W         ,CAN
+1255187,Tom Reux,M         ,FRA
+1254718,Israel Olatunde,M         ,IRL
+1254552,Bernando Uriel Barrondo,M         ,GUA
+1254544,Maia Ramsden,W         ,NZL
+1227141,Maoko Takashima,W         ,JPN
+1227114,Samuel Fitwi Sibhatu,M         ,GER
+1226579,Callum Wilkinson,M         ,GBR
+1226203,Elián Larregina,M         ,ARG
+1225946,Chris Douglas,M         ,AUS
+1225743,Alida van Daalen,W         ,NED
+1225702,Rutendo Nyahora,W         ,ZIM
+1225520,Julien Alfred,W         ,LCA
+1247258,Şilan Ayyıldız,W         ,TUR
+1247017,Lu Jiawen,W         ,CHN
+1246512,Sven Jansons,M         ,NED
+1244534,Karmen Bruus,W         ,EST
+1244508,Damion Thomas,M         ,JAM
+1244216,Simon Ehammer,M         ,SUI
+1225370,Saskia Feige,W         ,GER
+1225185,Lia Apostolovski,W         ,SLO
+1245510,Trevor Hofbauer,M         ,CAN
+1245186,Karl Erik Nazarov,M         ,EST
+1242863,Nora Lindahl,W         ,SWE
+1242362,Alice Muraro,W         ,ITA
+1242095,Chang Po-Ya,W         ,TPE
+1241749,Ibrahim Ayorinde,M         ,CAN
+1241441,Oblique Seville,M         ,JAM
+1252517,Victor Ntweng,M         ,BOT
+1252176,Zhong Tao,M         ,CHN
+1250520,Reece Holder,M         ,AUS
+1250238,Artūrs Pastors,M         ,LAT
+1249534,Emilia Kangas,W         ,FIN
+1249160,Nils Voigt,M         ,GER
+1248843,Daniela Garcia,W         ,ESP
+1247899,Adrian Piperi,M         ,USA
+1247623,Handal Roban,M         ,VIN
+1247229,Orlando Bennett,M         ,JAM
+1253551,Shainer Reginfo,M         ,CUB
+1253065,Ditaji Kambundji,W         ,SUI
+1251760,Christian Birch Okkels,M         ,DEN
+1251058,Carolina Costa,W         ,POR
+1250417,Nursultan Keneshbekov,M         ,KGZ
+1249098,Héctor Garibay,M         ,BOL
+1247491,Greta Karinauskaitė,W         ,LTU
+1246973,Akashdeep Singh,M         ,IND
+1246582,Mouhcine Outalha,M         ,MAR
+1246111,Edwin Kurgat,M         ,KEN
+1245527,Thomas Gogois,M         ,FRA
+1245344,Klaudia Kazimierska,W         ,POL
+1245326,Jacqueline Madogo,W         ,CAN
+1245095,Ellie Beer,W         ,AUS
+1244926,Mary Zenaida Granja,W         ,ECU
+1243404,Deresa Geleta,M         ,ETH
+1242886,Delphine Nkansa,W         ,BEL
+1242727,Saga Vanninen,W         ,FIN
+1242410,Tatsuhiko Ito,M         ,JPN
+1241925,Aaro Davidila,M         ,FIN
+1241819,Cameron Avery,M         ,NZL
+1224732,Janka Molnár,W         ,HUN
+1224710,Rory Linkletter,M         ,CAN
+1224659,Enoch Adegoke,M         ,NGR
+1223270,Patricio Castillo,M         ,MEX
+1222938,Shaun Gill,M         ,BIZ
+1221649,Ririka Hironaka,W         ,JPN
+1220872,Kate Current,W         ,CAN
+1220848,Alexis Holmes,W         ,USA
+1244151,Ilse Guerrero,W         ,MEX
+1243487,JuVaughn Harrison,M         ,USA
+1243247,Elena Kulichenko,W         ,CYP
+1242680,Jodie McCann,W         ,IRL
+1241401,Elvin Josué Canales,M         ,ESP
+1241306,Kaito Tsutsue,M         ,JPN
+1241000,Spiridoúla Karídi,W         ,GRE
+1239871,Aminatou Seyni,W         ,NIG
+1239178,Tereza Ďurdiaková,W         ,CZE
+1239079,Wang Qi,M         ,CHN
+1238176,Enrique Llopis,M         ,ESP
+1246466,Aleksandra Płocińska,W         ,POL
+1246099,Anaís Hernández,W         ,CHI
+1245132,Azeddine Habz,M         ,FRA
+1244807,Emmanuel Ihemeje,M         ,ITA
+1244679,Alastair Chalmers,M         ,GBR
+1238009,Leo Neugebauer,M         ,GER
+1236897,Ida Kathrine Karstoft,W         ,DEN
+1240705,Malcolm Clemons,M         ,USA
+1238499,Thomas Fafard,M         ,CAN
+1238156,Aimará Nazareno,W         ,ECU
+1238151,Maicon Da Silva,M         ,BRA
+1237397,Nicolas Navarro,M         ,FRA
+1237379,Shing Cho Yan,W         ,HKG
+1237356,Bendere Oboya,W         ,AUS
+1237140,Jean Paul Bredau,M         ,GER
+1236998,Tshepiso Masalela,M         ,BOT
+1240892,Avinash Sable,M         ,IND
+1240240,Antonio Watson,M         ,JAM
+1239537,Adelaide Aquilla,W         ,USA
+1239505,Finley Gaio,M         ,SUI
+1238599,Beatrice Chebet,W         ,KEN
+1220139,Jean-Simon Desgagnés,M         ,CAN
+1219910,Carey McLeod,M         ,JAM
+1219880,Johannes Erm,M         ,EST
+1243285,Benele Simphiwe Dlamini,M         ,SWZ
+1243267,Keira D'Amato,W         ,USA
+1243201,Mykhaylo Kokhan,M         ,UKR
+1242689,Isaac Nader,M         ,POR
+1219686,Niesha Burgher,W         ,JAM
+1236395,Daiana Ocampo,W         ,ARG
+1234839,Silja Kosonen,W         ,FIN
+1234673,Rohan Watson,M         ,JAM
+1233739,Leeroy Kamau,M         ,PNG
+1233338,Dániel Szenderffy,M         ,HUN
+1232984,Loubna Benhadja,W         ,ALG
+1232315,Raphael Mohamed,M         ,FRA
+1231321,Narve Gilje Nordås,M         ,NOR
+1236980,Kieran Lumb,M         ,CAN
+1236856,Andamlak Belihu,M         ,ETH
+1235493,Cooper Teare,M         ,USA
+1235226,Samantha Borutta,W         ,GER
+1235157,Samuel Tanner,M         ,NZL
+1234906,Melikhaya Frans,M         ,RSA
+1234397,Gustav Lundholm Nielsen,M         ,DEN
+1234380,Fouad Idbafdil,M         ,MAR
+1234214,Neheng Khatala,W         ,LES
+1233756,Luis Avilés,M         ,MEX
+1238577,Lalu Muhammad Zohri,M         ,INA
+1238576,Selamawit Teferi,W         ,ISR
+1238318,Telahun Haile,M         ,ETH
+1238251,Salih Korkmaz,M         ,TUR
+1237865,Adam Fogg,M         ,GBR
+1237799,Rija Vatomanga Gardiner,M         ,MAD
+1236923,Dominik Černý,M         ,SVK
+1242266,Efrem Mekonnen,M         ,ETH
+1242130,Adrian Wildschutt,M         ,RSA
+1241228,Thomas Vanoppen,M         ,BEL
+1239748,Isabel Guadalupe Oropeza Vazquez,W         ,MEX
+1239290,Charlotte Afriat,W         ,MON
+1238354,Zoltán Wahl,M         ,HUN
+1238247,Samantha Dale,W         ,AUS
+1237895,George Manangoi,M         ,KEN
+1237737,Shunsuke Izumiya,M         ,JPN
+1237559,Claudio Romero,M         ,CHI
+1219058,Elena Loyo,W         ,ESP
+1217980,Alexis Phelut,M         ,FRA
+1216596,Dan Golubovic,M         ,AUS
+1216327,Shafiqua Maloney,W         ,VIN
+1231306,David Hurtado,M         ,ECU
+1231247,Léonie Cambours,W         ,FRA
+1229895,Irene Kimais,W         ,KEN
+1234656,Erik Portillo,M         ,MEX
+1234056,Eveline Saalberg,W         ,NED
+1233069,Léonie Pointet,W         ,SUI
+1232426,Hellen Makumba,W         ,ZAM
+1232291,Sasha Zhoya,M         ,FRA
+1232081,Davor Aaron Bienenfeld,M         ,GER
+1231254,Julien Bonvin,M         ,SUI
+1231157,Noel Ali Chama,M         ,MEX
+1230488,Dario Castro,M         ,MEX
+1233571,N'ketia Seedo,W         ,NED
+1233413,Turner Washington,M         ,USA
+1232494,Ejgayehu Taye,W         ,ETH
+1232140,Ahmed Al-Yaari,M         ,YEM
+1231708,Constantin Preis,M         ,GER
+1231690,Tomáš Němejc,M         ,CZE
+1237143,Marco Arop,M         ,CAN
+1236891,Haftom Welday,M         ,GER
+1236565,Salem Saleh El-Jerbi,M         ,OMA
+1236315,Fred Moudani-Likibi,M         ,FRA
+1235754,Caroline Tomaz,W         ,BRA
+1235671,Raphael Bouju,M         ,NED
+1235563,Courtney Wayment,W         ,USA
+1216019,Eulalio Munoz,M         ,ARG
+1215777,Alice Finot,W         ,FRA
+1215331,S.P.Aruna Darshana,M         ,SRI
+1215232,Silinda Morales,W         ,CUB
+1214897,Bojana Bjeljac,W         ,CRO
+1214847,Marta García,W         ,ESP
+1214782,Amos Kipruto,M         ,KEN
+1214380,Ahmed Abdelwahed,M         ,ITA
+1229870,Ren Tazawa,M         ,JPN
+1229642,José Maita,M         ,VEN
+1229551,Yuta Koga,M         ,JPN
+1228429,Whittni Morgan,W         ,USA
+1227847,Mekides Abebe,W         ,ETH
+1226777,Noura Ennadi,W         ,MAR
+1226234,Yann Chaussinand,M         ,FRA
+1226183,Ragnar Carlsson,M         ,SWE
+1228740,Vasiliy Mizinov,M         ,RUS
+1228464,Nicole Caicedo,W         ,ECU
+1227639,Koki Ikeda,M         ,JPN
+1227453,Tolesa Bodena,M         ,ETH
+1227270,Hosea Kiplangat,M         ,UGA
+1227186,Maxim Răileanu,M         ,MDA
+1226527,Carla Scicluna,W         ,MLT
+1226166,Sofie Dokter,W         ,NED
+1235547,Tia Clayton,W         ,JAM
+1235489,Ismael Kone,M         ,CIV
+1235413,Giorgi Mujaridze,M         ,GEO
+1235296,Vittoria Fontana,W         ,ITA
+1235113,Jacob McCorry,M         ,AUS
+1234929,Ruth Chepngetich,W         ,KEN
+1234400,Oskar Stachnik,M         ,POL
+1234041,Tsige Duguma,W         ,ETH
+1233709,He Jie,M         ,CHN
+1233456,Jose Santana Marin,M         ,MEX
+1231624,David Vivas,M         ,VEN
+1231097,Praveen Chithravel,M         ,IND
+1231087,Ketiley Batista,W         ,BRA
+1230369,Anna Purchase,W         ,GBR
+1230227,Mohamed Hassan Al-Noubi,M         ,UAE
+1229976,Roje Stona,M         ,JAM
+1229326,Koki Ueyama,M         ,JPN
+1228780,Bukayaw Malede,M         ,ISR
+1225399,Clayton Young,M         ,USA
+1224788,Catalin Tecuceanu,M         ,ITA
+1224471,Ramsey Angela,M         ,NED
+1224453,Jerod Elcock,M         ,TTO
+1224412,Catriona Bisset,W         ,AUS
+1214255,Samuel Tefera,M         ,ETH
+1214069,Mohamed Katir,M         ,ESP
+1213069,Chengetayi David Mapaya,M         ,ZIM
+1212231,Victor Kiplangat,M         ,UGA
+1225933,Peter Herzog,M         ,AUT
+1225321,Henrik Janssen,M         ,GER
+1225188,Jessy Franco,M         ,GIB
+1224780,Joella Lloyd,W         ,ANT
+1228473,Mehdi Pirjahan,M         ,IRI
+1228179,Just Kwaou-Mathey,M         ,FRA
+1228149,Jan Štefela,M         ,CZE
+1227697,César Augusto Rodríguez,M         ,PER
+1227076,Tshepo Tshite,M         ,RSA
+1226985,Marie-Julie Bonnin,W         ,FRA
+1211228,Su Wen,M         ,CHN
+1210703,Jemal Yimer,M         ,ETH
+1210554,Thomas Carmoy,M         ,BEL
+1210428,Robin Hendrix,M         ,BEL
+1210345,Yaser Salem Bagharab,M         ,QAT
+1210008,Hanne Mjøen Maridal,W         ,NOR
+1209385,KC Lightfoot,M         ,USA
+1209298,Živilė Vaiciukevičiūtė,W         ,LTU
+1208798,Karel Tilga,M         ,EST
+1224195,Nathalie Blomqvist,W         ,FIN
+1223887,Susan Ejore,W         ,KEN
+1223468,Moath Al-Khawaldeh,M         ,JOR
+1223299,Tom Gale,M         ,GBR
+1222968,Peng Jianhua,M         ,CHN
+1222558,Jovana Ilić,W         ,SRB
+1222070,José Alejandro Barrondo,M         ,GUA
+1221536,Oliver Dustin,M         ,GBR
+1221212,Dario Ivanovski,M         ,MKD
+1232306,Grace Fetherstonhaugh,W         ,CAN
+1231351,Erna Sóley Gunnarsdóttir,W         ,ISL
+1230866,Samuel Chapple,M         ,NED
+1230676,Margot Chevrier,W         ,FRA
+1230531,Ryiem Forde,M         ,JAM
+1230473,Brooke Overholt,W         ,CAN
+1230182,Nora Szabó,W         ,HUN
+1230025,Yuliya Loban,W         ,UKR
+1229546,Ana da Silva,W         ,BRA
+1223115,Ouassim Oumaiz,M         ,ESP
+1222942,Gemima Joseph,W         ,FRA
+1221205,Tumo Nkape,M         ,BOT
+1220870,Tereza Petržilková,W         ,CZE
+1220460,Cyrena Samba-Mayela,W         ,FRA
+1226936,Alin Ionut Anton,M         ,ROU
+1226553,Talitha Diggs,W         ,USA
+1226450,Mohammad Jahir Rayhan,M         ,BAN
+1226417,Elien Vekemans,W         ,BEL
+1226309,Ma Zhenxia,W         ,CHN
+1226009,McKenzie Long,W         ,USA
+1225908,Isayah Boers,M         ,NED
+1225197,Fabrice Dabla Kokoutse,M         ,TOG
+1224962,Kaito Kawabata,M         ,JPN
+1224354,Megan Moss,W         ,BAH
+1134991,Keshorn Walcott,M         ,TTO
+1244641,Luiz Da Silva,M         ,BRA
+1208691,Clara Evans,W         ,GBR
+1220720,Kira Wittmann,W         ,GER
+1220708,Dominik Illovszky,M         ,HUN
+1219391,Jake Doran,M         ,AUS
+1219264,Pamela Amaechi,W         ,NGR
+1219166,Mia Gross,W         ,AUS
+1219089,Olin Hacker,M         ,USA
+1218656,Alessandro Sibilio,M         ,ITA
+1218472,Jhoselyn Jéssica Camargo,W         ,BOL
+1218052,Yoveiny Mota,W         ,VEN
+1217929,Lilian Odira,W         ,KEN
+1228861,Veronica Besana,W         ,ITA
+1228771,Alisher Sadulayev,M         ,TKM
+1228721,Rachel Pellaud,W         ,SUI
+1228402,Fancy Cherono,W         ,KEN
+1226857,Dominic Lokinyomo Lobalu,M         ,SUI
+1226855,Baptiste Thiery,M         ,FRA
+1226766,Collins Kipruto,M         ,KEN
+1226763,Sofia Thøgersen,W         ,DEN
+1225869,Ashley Anumba,W         ,NGR
+1225570,Adisu Girma,M         ,ETH
+1225344,Shana Grebo,W         ,FRA
+1225093,Mary Moraa,W         ,KEN
+1219851,Slimane Moula,M         ,ALG
+1218572,Marcus Thomsen,M         ,NOR
+1218539,Francky Mbotto,M         ,CAF
+1218405,Amine Bouanani,M         ,ALG
+1224002,Alberto Gonzalez Mindez,M         ,GUA
+1223936,Rajindra Campbell,M         ,JAM
+1223174,Carlos Andrés San Martín,M         ,COL
+1222823,Eloisa Coiro,W         ,ITA
+1222699,Dai Qianqian,W         ,CHN
+1222641,Camryn Newton-Smith,W         ,AUS
+1222347,Kyle Blignaut,M         ,RSA
+1206360,Fuga Sato,M         ,JPN
+1205783,Fode Sissoko,M         ,MLI
+1205541,Josh Thompson,M         ,USA
+1205363,Jean Marie Vianney Niyomukiza,M         ,BDI
+1205028,Marlie Viljoen,W         ,RSA
+1204995,Vikash Singh,M         ,IND
+1204856,Sokwakhana Zazini,M         ,RSA
+1204627,Khrystyna Yudkina,W         ,UKR
+1204369,Ackelia Smith,W         ,JAM
+1224216,Jacory Patterson,M         ,USA
+1223999,Robyn Brown,W         ,PHI
+1223849,Kesa Molotsane,W         ,RSA
+1223454,Ferdinand Omanyala,M         ,KEN
+1217869,Zhanna Mamazhanova,W         ,KAZ
+1217434,Grace Stark,W         ,USA
+1217209,Citlali Moscote,W         ,MEX
+1217191,Max Batista Dos Santos,M         ,BRA
+1217009,Melany Matheus,W         ,CUB
+1215855,Allie Wilson,W         ,USA
+1215160,Pia Skrzyszowska,W         ,POL
+1213823,Simone Ferraz,W         ,BRA
+1212830,Zahria Allers-Liburd,W         ,SKN
+1212563,Hugo Catrileo,M         ,NULL
+1212494,Brielle Erbacher,W         ,AUS
+1212372,Barbora Malíková,W         ,CZE
+1211252,Alma Cortes,W         ,MEX
+1211075,Jasmine Moore,W         ,USA
+1218321,Benson Kipruto,M         ,KEN
+1217708,Jaime Guerra,M         ,ESP
+1216950,Ossama Meslek,M         ,ITA
+1216346,Mariano Garcia,M         ,ESP
+1215026,Ryuma Aoki,M         ,JPN
+1213482,Aurora Berton,W         ,ITA
+1222002,Hizkel Tewelde,M         ,ERI
+1221734,Mahamed Mahamed,M         ,GBR
+1221448,Aleksandra Śmiech,W         ,POL
+1220931,Erik Felipe Cardoso,M         ,BRA
+1220888,Martina Weil,W         ,CHI
+1220864,Stacey-Ann Williams,W         ,JAM
+1219894,Yuma Maruyama,M         ,JPN
+1222020,Simon Sundström,M         ,SWE
+1221965,Darragh McElhinney,M         ,IRL
+1221912,Sae Takemoto,W         ,JPN
+1221587,Keely Hodgkinson,W         ,GBR
+1221171,Tsao Chun-Yu,W         ,TPE
+1220996,Jimmy Gressier,M         ,FRA
+1220533,Ricardo Ortiz,M         ,MEX
+1219985,Miroslav Úradník,M         ,SVK
+1219375,Thabang Mosiako,M         ,RSA
+1219112,Roza Dereje,W         ,ETH
+1218712,Ayden Owens-Delerme,M         ,PUR
+1210524,Yupun Abeykoon,M         ,SRI
+1209772,Abdirahman Saeed Hassan,M         ,QAT
+1209494,Mariam Mamdouh Farid,W         ,QAT
+1209070,Pieter Sisk,M         ,BEL
+1208651,Belinda Chemutai,W         ,UGA
+1208151,Eric Favors,M         ,IRL
+1208076,Joshua Hartmann,M         ,GER
+1207766,Lena Pressler,W         ,AUT
+1218503,Zoë Sedney,W         ,NED
+1218070,William Reais,M         ,SUI
+1217083,Sarvesh Anil Kushare,M         ,IND
+1045302,Vítězslav Veselý,M         ,CZE
+1216447,Lauren Gale,W         ,CAN
+1216400,Getnet Wale,M         ,ETH
+1213157,Gabriel Bordier,M         ,FRA
+1213065,Jeremiah Davis,M         ,USA
+1212880,David Holý,M         ,CZE
+1212689,Dániel Rába,M         ,HUN
+1212588,Marcelo Laguera,M         ,MEX
+1212464,Yohanes Gebregergish,M         ,ERI
+1212003,John Gay,M         ,CAN
+1211503,Veronica Fraley,W         ,USA
+1211435,Valeriya Zhandarova,W         ,RUS
+1211151,Tonosa Hiko,M         ,IRL
+1210940,Thelma Davies,W         ,USA
+1209721,Samsom Amare,M         ,ERI
+1216124,John Kelly,M         ,IRL
+1215479,Kieran Tuntivate,M         ,THA
+1215352,Gerda Steyn,W         ,RSA
+1214184,Dillon Maggard,M         ,USA
+1213232,Britany Anderson,W         ,JAM
+1204060,José Fernando Santana,M         ,BRA
+1203526,Prudence Sekgodiso,W         ,RSA
+1209612,Jorge Castelblanco,M         ,PAN
+1208661,Addy Townsend,W         ,CAN
+1208545,Lester Lescay,M         ,CUB
+1208384,Kemba Nelson,W         ,JAM
+1208040,Sam Parsons,M         ,GER
+1207690,Maki Saito,W         ,JPN
+1207589,Rok Ferlan,M         ,SLO
+1207307,Lomi Muleta,W         ,ETH
+1207013,Arnovis Dalmero,M         ,COL
+1206113,Yelizaveta Matveyeva,W         ,KAZ
+1205560,Oratile Nowe,W         ,BOT
+1203259,Valeriy Litanyuk,M         ,UKR
+1203140,Zach Bradford,M         ,USA
+1201561,Rikkoi Brathwaite,M         ,IVB
+1201204,Brandon Miller,M         ,USA
+1200149,Buse Savaşkan,W         ,TUR
+1200081,Gudbjörg Jóna Bjarnadóttir,W         ,ISL
+1199757,Gabby Thomas,W         ,USA
+1207567,Kyle Garland,M         ,USA
+1207029,Stanley Waithaka,M         ,KEN
+1187059,Toni Keränen,M         ,FIN
+1206503,Joseph Brown,M         ,USA
+1206394,Rogail Joseph,W         ,RSA
+1206314,Samuele Ceccarelli,M         ,ITA
+1205592,Agueda Marques,W         ,ESP
+1219719,Wycliffe Kinyamal,M         ,KEN
+1218941,Maja Åskag,W         ,SWE
+1218659,Yulesy Angulo,W         ,ECU
+1218642,Emma Zapletalová,W         ,SVK
+1217381,Jonathan Sacoor,M         ,BEL
+1216442,Brian Faust,M         ,USA
+1216178,Irene Van Der Reijken,W         ,NED
+1215943,Joe Ferguson,M         ,GBR
+1215276,Majida Maayouf,W         ,ESP
+1214573,Emile Cairess,M         ,GBR
+1213091,Fernando Daniel Martinez,M         ,MEX
+1212546,Hanga Klekner,W         ,HUN
+1212521,Charokee Young,W         ,JAM
+1212402,Hleb Dudarau,M         ,BLR
+1212363,Anjelina Nadai Lohalith,W         ,SSD
+1212043,Fernando Vega,M         ,MEX
+1211885,Gabriela Leon,W         ,USA
+1211102,Daily M. Cooper,W         ,CUB
+1210004,Masatora Kawano,M         ,JPN
+1205269,Deborah Acquah,W         ,GHA
+1205150,Silke Lemmens,W         ,SUI
+1204960,Roman Kokoshko,M         ,UKR
+1204709,Musulman Dzholomanov,M         ,KGZ
+1203210,Sha'Carri Richardson,W         ,USA
+1202453,Helena Ponette,W         ,BEL
+1202353,Ngan Ngoc Nghia,M         ,VIE
+1202274,Matěj Ščerba,M         ,CZE
+1201841,Max Burgin,M         ,GBR
+1199438,Nadia Battocletti,W         ,ITA
+1199096,Amane Beriso,W         ,ETH
+1198856,Lissandra Campos,W         ,BRA
+1198638,Adriana Rodríguez,W         ,CUB
+1198522,Annik Kälin,W         ,SUI
+1205035,Deborah Schöneborn,W         ,GER
+1204932,Nicolas Montañez,M         ,USA
+1204918,Nora Monie,W         ,CMR
+1204798,Fantu Worku,W         ,ETH
+1204781,Nikoleta Jíchová,W         ,CZE
+1204364,Momone Ueda,W         ,JPN
+1204332,Odisséas Mouzenídis,M         ,GRE
+1203547,Ilari Manninen,M         ,FIN
+1203063,Vilém Stráský,M         ,CZE
+1203062,Mohamed Abdilaahi,M         ,GER
+1214088,Krissy Gear,W         ,USA
+1213810,Kazuya Nishiyama,M         ,JPN
+1213520,Eldhose Paul,M         ,IND
+1212758,Ersu Şaşma,M         ,TUR
+1211724,Trumaine Jefferson,M         ,USA
+1211630,Abel Chebet,M         ,UGA
+1211306,Yaroslava Mahuchikh,W         ,UKR
+1201807,Martha Araujo,W         ,COL
+1201785,Melissa Jefferson,W         ,USA
+1201216,Mouad Zahafi,M         ,MAR
+1201080,Samson Colebrooke,M         ,BAH
+1198353,Leodan Torrealba,M         ,VEN
+1198269,Jessica-Bianca Wessolly,W         ,GER
+1197976,Yitayew Abuhay,M         ,ISR
+1197919,Robert Farken,M         ,GER
+1200372,Malique Smith,M         ,ISV
+1200370,Teddese Lemi,M         ,ETH
+1200196,Thibaut Collet,M         ,FRA
+1198724,Gillian Ladwig,M         ,GER
+1198633,Ri Kwang Ok,W         ,PRK
+1197907,Jael Bestue,W         ,ESP
+1202769,Albert Chemutai,M         ,UGA
+1202561,Hanne Verbruggen,W         ,BEL
+1200395,Pauline Hondema,W         ,NED
+1199760,Rose Harvey,W         ,GBR
+1199450,Rafael Vicente,M         ,ECU
+1199401,Britton Wilson,W         ,USA
+1199049,Marcin Wrotyński,M         ,POL
+1198766,Roneisha McGregor,W         ,JAM
+1198749,Ngoni Makusha,M         ,ZIM
+1198049,Magdalena Stefanowicz,W         ,POL
+1211231,Berhane Tesfay,M         ,NULL
+1211154,Klara Lukan,W         ,SLO
+1209842,Joseph Amoah,M         ,GHA
+1209381,Matthew Clarke,M         ,AUS
+1209058,Dwight St. Hillaire,M         ,TTO
+1208633,Tom Campagne,M         ,FRA
+1208582,Mario A. Díaz,M         ,CUB
+1208481,Trey Cunningham,M         ,USA
+1209404,Ignacio Carballo,M         ,ARG
+1208786,Sinead Noonan,W         ,AUS
+1208709,Mario García,M         ,ESP
+1208117,Edoardo Scotti,M         ,ITA
+1207974,Emmanuel Korir,M         ,KEN
+1197472,Nia Akins,W         ,USA
+1196902,Eric Harrison,M         ,TTO
+1196768,Vanessa Kamga,W         ,SWE
+1196545,Maksim Nedasekau,M         ,BLR
+1196470,Sergio López,M         ,ESP
+1196317,Tomoki Ota,M         ,JPN
+1195860,Ondřej Kopecký,M         ,CZE
+1195106,Melat Kejeta,W         ,GER
+1197298,Matt Ludwig,M         ,USA
+1196840,Matěj Krsek,M         ,CZE
+1196304,Samuel Zeleke,M         ,ETH
+1195413,Simone Barontini,M         ,ITA
+1194561,Yasemin Can,W         ,TUR
+1194324,Laura Valette,W         ,FRA
+1194107,Michael Obasuyi,M         ,BEL
+1206563,Adrian Brzeziński,M         ,POL
+1206470,Wang Zhen,M         ,CHN
+1206135,Makenson Gletty,M         ,FRA
+1205569,Josh Griffiths,M         ,GBR
+1204232,Jevaughn Powell,M         ,JAM
+1204156,Armin Sinančević,M         ,SRB
+1207646,Pablo Andrés Ibáñez,M         ,ESA
+1207627,Manuel Sanders,M         ,GER
+1207270,Monae' Nichols,W         ,USA
+1207095,Meline Rollin,W         ,FRA
+1206675,Ed Goddard,M         ,AUS
+1206351,Mo Jiadie,W         ,CHN
+1204680,Stephanie Ratcliffe,W         ,AUS
+1204134,Tajay Gayle,M         ,JAM
+1197345,Andrijana Pop Arsova,W         ,MKD
+1197279,Topi Raitanen,M         ,FIN
+1196871,Sheila Chelangat,W         ,KEN
+1196642,Kamalpreet Kaur,W         ,IND
+1196433,Carley Thomas,W         ,AUS
+1196295,Nika Glojnarič,W         ,SLO
+1195525,Kim Jang-Woo,M         ,KOR
+1195514,Eva Pepelnak,W         ,SLO
+1195130,Diana Ana Maria Ion,W         ,ROU
+1193882,Fédra Fekete,W         ,HUN
+1193105,Murali Sreeshankar,M         ,IND
+1192671,Andri Oberholzer,M         ,SUI
+1192445,Sharon Lokedi,W         ,KEN
+1192387,Francine Niyomukunzi,W         ,BDI
+1192352,Zhang Deshun,W         ,CHN
+1194848,Dotun Ogundeji,M         ,NGR
+1194789,Ibrahim Hassan Bouh,M         ,DJI
+1194704,Sophie O'Sullivan,W         ,IRL
+1194663,Lauren Ryan,W         ,AUS
+1194431,Steffin McCarter,M         ,USA
+1194239,Aleksa Kijanović,M         ,SRB
+1194144,Vagner Noronha,M         ,BRA
+1194060,Nadezhda Dubovitskaya,W         ,KAZ
+1203894,Philippe Parrot-Migas,M         ,CAN
+1203810,Emanuel Archibald,M         ,GUY
+1203617,Amere Lattin,M         ,USA
+1202207,Owaab Barrow,M         ,QAT
+1200895,Szabina Szűcs,W         ,HUN
+1200775,Niu Wenchao,M         ,CHN
+1195005,Lore Hoffmann,W         ,SUI
+1194815,Patryk Sieradzki,M         ,POL
+1194480,Maykel D. Massó,M         ,CUB
+1194464,Maggie Barrie,W         ,SLE
+1194297,Halle Hazzard,W         ,GRN
+1194246,Tinotenda Matiyenga,M         ,ZIM
+1194020,Amalie Manshus Sæten,W         ,NOR
+1203378,Edward Trippas,M         ,AUS
+1203264,Vladyslav Lavskyy,M         ,UKR
+1202746,Edward Osei-Nketia,M         ,NZL
+1201547,Joe Klecker,M         ,USA
+1201531,Sara Gallego,W         ,ESP
+1200740,Onesphoré Nzikwinkunda,M         ,BDI
+1200161,Rita Récsei,W         ,HUN
+1199644,Jason Joseph,M         ,SUI
+1199562,Mariana Machado,W         ,POR
+1199393,Joselyn Daniely Brea,W         ,VEN
+1198850,Asier Martínez,M         ,ESP
+1192220,Luminosa Bogliolo,W         ,ITA
+1192203,Irina Ivanova,W         ,RUS
+1192101,Karla Jaramillo,W         ,ECU
+1191886,Laura Zialor,W         ,GBR
+1191341,Uziel Muñoz,M         ,MEX
+1190522,Patrizia van der Weken,W         ,LUX
+1193645,Kojo Musah,M         ,DEN
+1192264,Torben Brandt,M         ,GER
+1191958,Gianluca Picchiottino,M         ,ITA
+1191774,Roisin Flanagan,W         ,IRL
+1191497,Auriana Lazraq-Khlass,W         ,FRA
+1191446,Elisabeth Pihela,W         ,EST
+1193910,Andrea Dallavalle,M         ,ITA
+1192217,Sheeren Samson Vallabouy,W         ,MAS
+1191847,Rochelle Rodgers,W         ,AUS
+1191177,Isaiah Jewett,M         ,USA
+1190885,Cara Feain-Ryan,W         ,AUS
+1190793,Frederik Ruppert,M         ,GER
+1190768,Gorete Semedo,W         ,STP
+1190703,Sarah Madeleine,W         ,FRA
+1190001,Mária Pérez,W         ,ESP
+1198607,Tariku Novales,M         ,ESP
+1198472,Elisa Maria Di Lazzaro,W         ,ITA
+1198450,Rodney Rowe,M         ,USA
+1198141,Pierce LePage,M         ,CAN
+1190439,Yemane Haileselassie,M         ,ERI
+1190124,Darius Carbin,M         ,USA
+1189280,Jack Rowe,M         ,GBR
+1116672,Kim Amb,M         ,SWE
+1247116,Kishore Kumar Jena,M         ,IND
+1188325,Claudia Conte,W         ,ESP
+1200541,Agnes Ngetich,W         ,KEN
+1200410,Suttoali Khoarahlima,M         ,LES
+1199933,Rani Rosius,W         ,BEL
+1199773,David Yefremov,M         ,KAZ
+1199705,Anavia Battle,W         ,USA
+1199630,Raymond Ekevwo,M         ,NGR
+1199173,Hanna Barakat,W         ,PLE
+1199112,Alia Armstrong,W         ,USA
+1191437,Champion Allison,M         ,USA
+1190987,Michele Antonelli,M         ,ITA
+1190877,Mohammed Tindoufti,M         ,MAR
+1190844,Brian Williams,M         ,USA
+1188915,Rafael Henrique Pereira,M         ,BRA
+1189113,Joel Clarke-Khan,M         ,GBR
+1188741,Gabby Scott,W         ,PUR
+1188737,Payton Otterdahl,M         ,USA
+1188649,Jaqueline Beatriz Weber,W         ,BRA
+1188629,Matthew Ramsden,M         ,AUS
+1084878,Lassi Etelätalo,M         ,FIN
+1197219,Parul Chaudhary,W         ,IND
+1188257,Nele Weßel,W         ,GER
+1187959,Gabija Galvydytė,W         ,LTU
+1187956,María Vicente,W         ,ESP
+1187859,Mirela de Andrade,W         ,BRA
+1187414,Celliphine Chespol,W         ,KEN
+1187055,Robyn Stevens,W         ,USA
+1186396,Julian Wagner,M         ,GER
+1198703,Glória Privilétzio,W         ,GRE
+1197827,Marija Tolj,W         ,CRO
+1197808,Allie Ostrander,W         ,USA
+1197391,Takele Nigate,M         ,ETH
+1197243,Usheoritse Itsekiri,M         ,NGR
+1196708,Andy Hechavarría,M         ,CUB
+1196245,Michał Rozmys,M         ,POL
+1186253,Ebrahima Camara,M         ,GAM
+1185853,Eric Nzikwinkunda,M         ,BDI
+1185215,Yervand Mkrtchyan,M         ,ARM
+1185160,Pietro Riva,M         ,ITA
+1185048,Karyna Demidik,W         ,BLR
+1184866,Yasmin Giger,W         ,SUI
+1188905,Risper Gesabwa,W         ,MEX
+1188656,Taha Hussein Yaseen,M         ,IRQ
+1188530,Seifu Tura,M         ,ETH
+1188365,Abedin Mujezinovic,M         ,BIH
+1188356,Eliza Megger,W         ,POL
+1187938,Vitoria Alves,W         ,BRA
+1187350,Jonathan Jones,M         ,BAR
+1187287,Paulo André de Oliveira,M         ,BRA
+1188346,Aron Kifle,M         ,ERI
+1187534,Olli Hoare,M         ,AUS
+1187343,Niu Chunge,W         ,CHN
+1187049,Mao Ichiyama,W         ,JPN
+1186767,Yuka Suzuki,W         ,JPN
+1186674,Dafni Georgiou,W         ,CYP
+1186464,Ashtin Zamzow-Mahler,W         ,USA
+1195897,Gashau Ayale,M         ,ISR
+1195689,Patrick Schneider,M         ,GER
+1195688,Ned Justeen Dino Azemia,M         ,SEY
+1195380,Todiasoa Franck Rabearison,M         ,MAD
+1194986,Chris Nilsen,M         ,USA
+1194783,Kayla White,W         ,USA
+1194752,Jade O'Dowda,W         ,GBR
+1184791,Martyna Kotwiła,W         ,POL
+1183722,Serhiy Perevoznikov,M         ,UKR
+1182893,Maria Sagnes Wågan,W         ,NOR
+1182617,Ruth Usoro,W         ,NGR
+1182478,Vanessa Scaunet,W         ,BEL
+1182459,Andréas Pantazís,M         ,GRE
+1182025,Simas Bertašius,M         ,LTU
+1181990,Benard Keter,M         ,USA
+1181908,Patrícia Silva,W         ,POR
+1180963,Santhosh Kumar Tamilarasan,M         ,IND
+1180870,Adrianna Sułek-Schubert,W         ,POL
+1180554,James Preston,M         ,NZL
+1180329,Gaia Sabbatini,W         ,ITA
+1180135,Ambdoul Karim Riffayn,M         ,COM
+1179725,Klaudia Wojtunik,W         ,POL
+1179611,Christopher O'Donnell,M         ,IRL
+1179068,Lina Nielsen,W         ,GBR
+1179023,Zarinae Sapong,W         ,NMA
+1178876,Melanie Myrand,W         ,CAN
+1178867,Ali Udou Hassan,M         ,SOM
+1178324,Nicholas Andrews,M         ,AUS
+1196819,Mike Foppen,M         ,NED
+1196610,Lionnel Muteba,M         ,COD
+1196385,Chen Xiang Ang,M         ,SGP
+1195215,Moira Stewartová,W         ,CZE
+1195114,Bence Boros,M         ,HUN
+1194571,Marwa Bouzayani,W         ,TUN
+1193863,Paige Campbell,W         ,AUS
+1192968,Ehab El-Sandali,M         ,CAN
+1192759,Boniface Abel Sikowo,M         ,UGA
+1192274,Kristina Knott,W         ,PHI
+1183851,Adva Cohen,W         ,ISR
+1183616,Aurore Fleury,W         ,FRA
+1183576,Hugo Hay,M         ,FRA
+1183566,Tim Van De Velde,M         ,BEL
+1183399,Ryan Smeeton,M         ,CAN
+1183198,Fred Musobo,M         ,UGA
+1183090,Ko Seung-Hwan,M         ,KOR
+1183017,Milica Emini,W         ,SRB
+1182421,Kayhan Özer,M         ,TUR
+1182273,Jerome Vega,M         ,PUR
+1182081,Patrick Dever,M         ,GBR
+1187061,Sarah Mitton,W         ,CAN
+1186857,Michael Somers,M         ,BEL
+1186180,Ashley Moloney,M         ,AUS
+1182046,Petra Beáta Banhidi-Farkas,W         ,HUN
+1181301,Eilish Flanagan,W         ,IRL
+1181076,Pablo Sánchez-Valladares,M         ,ESP
+1181041,Margarita Koczanowa,W         ,POL
+1180667,Aaron Kangas,M         ,FIN
+1180660,Lada Vondrová,W         ,CZE
+1180643,Nicholas Kipkorir,M         ,KEN
+1194669,Beyonce De Freitas,W         ,IVB
+1194609,Leonardo Fabbri,M         ,ITA
+1248650,D. Prakasha Manu,M         ,IND
+1145797,Andrian Mardare,M         ,MDA
+1162082,Oliver Helander,M         ,FIN
+1183052,Aliaksei Katkavets,M         ,BLR
+1145016,Norbert Rivasz-Tóth,M         ,HUN
+1193914,Lanae-Tava Thomas,W         ,JAM
+1186064,Yuki Hashioka,M         ,JPN
+1185256,José Luís Mandros,M         ,PER
+1185137,Jorinde van Klinken,W         ,NED
+1193672,Audrey Leduc,W         ,CAN
+1193633,Tori West,W         ,AUS
+1193299,Ryan Clarke,M         ,NED
+1193239,Lamara Distin,W         ,JAM
+1192995,Mara Ribeiro,W         ,POR
+1192911,Thando Dlodlo,M         ,RSA
+1191549,Emily Mackay,W         ,USA
+1192133,Rik Taam,M         ,NED
+1191983,Tristan James,M         ,DMA
+1191813,Jacob Kiplimo,M         ,UGA
+1191763,Jakob Ingebrigtsen,M         ,NOR
+1178140,Amya Clarke,W         ,SKN
+1177915,Tiffani Marinho,W         ,BRA
+1177169,Tara Davis-Woodhall,W         ,USA
+1176937,Nelson Ito,M         ,PER
+1176635,Yolandi Stander,W         ,RSA
+1176209,Yancarlos Martinez,M         ,DOM
+1179881,Gabriela Gajanová,W         ,SVK
+1179722,Solène Ndama,W         ,FRA
+1179039,Simon Hansen,M         ,DEN
+1184980,Cravont Charleston,M         ,USA
+1184793,Molly Caudery,W         ,GBR
+1184619,Femke Bol,W         ,NED
+1191442,Hicham Akankam,M         ,MAR
+1190697,Derrick Mokaleng,M         ,RSA
+1190449,Abbey Caldwell,W         ,AUS
+1189873,Bryce Hoppel,M         ,USA
+1176025,Sopo Shatirishvili,W         ,GEO
+1175918,Djamal Abdi Dirieh,M         ,DJI
+1175857,Beatrix Szabó,W         ,HUN
+1175658,Shiann Salmon,W         ,JAM
+1175597,Jacob Thomson,M         ,USA
+1175381,Akeem Bloomfield,M         ,JAM
+1175174,Angelika Sarna,W         ,POL
+1175149,Mykola Nyzhnyk,M         ,UKR
+1174937,Erin Wallace,W         ,GBR
+1174587,Zaida Dina Ramos,W         ,PER
+1174506,Kumari Taki,M         ,KEN
+1191415,Enzo Hodebar,M         ,FRA
+1191319,Jacqueline Otchere,W         ,GER
+1191064,Jessica Schilder,W         ,NED
+1178755,Fotyen Tesfay,W         ,NULL
+1178060,Trinity Tutti,W         ,CAN
+1177565,Hamish Kerr,M         ,NZL
+1177492,Géraldine Ruckstuhl,W         ,SUI
+1177159,Neja Filipič,W         ,SLO
+1189270,Pål Haugen Lillefosse,M         ,NOR
+1189128,Sophia Junk,W         ,GER
+1189027,Felix Chemonges,M         ,UGA
+1189011,Jasmine Jones,W         ,USA
+1188927,Isaiah Harris,M         ,USA
+1188719,Andrea Ercolani Volta,M         ,SMR
+1188457,Agathe Guillemot,W         ,FRA
+1184384,Lemlem Hailu,W         ,ETH
+1183393,Meritxell Soler,W         ,ESP
+1183006,Erika Seyama,W         ,SWZ
+1182913,Glenrose Xaba,W         ,RSA
+1182872,Annette Echikunwoke,W         ,USA
+1181989,Vít Müller,M         ,CZE
+1181861,Julian Spence,M         ,AUS
+1181136,Mohamed Amine Jihnaoui,M         ,TUN
+1180935,Toshikazu Yamanishi,M         ,JPN
+1180891,Mercyline Chelangat,W         ,UGA
+1190746,Safina Sadullayeva,W         ,UZB
+1190701,Gabriela Anahí Suárez,W         ,ECU
+1190512,Birhanu Balew,M         ,BRN
+1174379,Janeek Brown,W         ,JAM
+1174028,Justyn Knight,M         ,CAN
+1174012,Abderrahmane Samba,M         ,QAT
+1173920,Imogen Ayris,W         ,NZL
+1173660,Taylon Bieldt,W         ,RSA
+1188185,Amy Hunt,W         ,GBR
+1187658,Tissanna Hickling,W         ,JAM
+1187550,Yu Yuzhen,W         ,CHN
+1187530,Rosalina Santos,W         ,POR
+1187214,Mohammadreza Abootorabi,M         ,SWE
+1187106,Wellington Morais,M         ,BRA
+1186788,Shona Heaslip,W         ,IRL
+1186546,Laeticia Bapte,W         ,FRA
+1186230,Charisma Taylor,W         ,BAH
+1172899,Leni Shida,W         ,UGA
+1172808,Donavan Brazier,M         ,USA
+1172448,Fred Kerley,M         ,USA
+1172039,Majtie Kolberg,W         ,GER
+1171906,Nikólaos Andrikópoulos,M         ,GRE
+1171569,Abdulla Narangolintevida,M         ,IND
+1170986,Chris McAlister,M         ,GBR
+1170720,Stefano Sottile,M         ,ITA
+1170508,Hakeem Huggins,M         ,SKN
+1170032,Filip Šnejdr,M         ,CZE
+1169851,Cameron Proceviat,M         ,CAN
+1189401,Zachery Panning,M         ,USA
+1098765,Ihab Abdelrahman,M         ,EGY
+1188411,Jye Edwards,M         ,AUS
+1188354,Emmanuel Arowolo,M         ,NGR
+1187895,Brigid Kosgei,W         ,KEN
+1187721,Katarzyna Zdziebło,W         ,POL
+1187627,Berhane Tsegay,M         ,ERI
+1187387,Diane van Es,W         ,NED
+1187308,Sondre Guttormsen,M         ,NOR
+1180792,Winfred Yavi,W         ,BRN
+1180659,Manuel Guijarro,M         ,ESP
+1180134,Mariya Yefremova,W         ,KAZ
+1179548,Zeney Geldenhuys,W         ,RSA
+1176897,Katharina Maisch,W         ,GER
+1176763,M.P. Jabir,M         ,IND
+1176321,Christoph Kessler,M         ,GER
+1176097,Eveliina Rouvali,W         ,FIN
+1175871,Gabriela DeBues-Stafford,W         ,CAN
+1175729,Alanah Yukich,W         ,AUS
+1175378,Masaki Ejima,M         ,JPN
+1185603,Cavaline Nahimana,W         ,BDI
+1184549,Roksana Khudoyarova,W         ,UZB
+1184480,Amy Cashin,W         ,AUS
+1184474,Olena Sobchuk,W         ,UKR
+1183453,Sveva Gerevini,W         ,ITA
+1169843,Maboundou Koné,W         ,CIV
+1169742,Angela Tanui,W         ,KEN
+1168312,Remi Tsuruta,W         ,JPN
+1168294,Duan Asemota,M         ,CAN
+1168221,Aminat Yusuf Jamal Odeyemi,W         ,BRN
+1167859,Leungo Scotch,M         ,BOT
+1187101,Eliana Bandeira,W         ,POR
+1122849,Cheng Chao-Tsun,M         ,TPE
+1185922,Azreen Nabila Alias,W         ,MAS
+1185729,Thierry Ndikumwenayo,M         ,ESP
+1185565,Peruth Chemutai,W         ,UGA
+1185347,Henrik Larsson,M         ,SWE
+1167803,Ben Preisner,M         ,CAN
+1166798,Zeng Rui,W         ,CHN
+1166667,Luis Ostos,M         ,PER
+1166592,Akira Aizawa,M         ,JPN
+1166156,Maja Nilsson,W         ,SWE
+1165294,Daniel do Nascimento,M         ,BRA
+1165172,Kohei Futaoka,M         ,JPN
+1165161,Elle St. Pierre,W         ,USA
+1183368,Ella Connolly,W         ,AUS
+1183330,Julian Ranc,M         ,FRA
+1183321,Emma Oosterwegel,W         ,NED
+1179512,Shelby McEwen,M         ,USA
+1179505,Andrew Buchanan,M         ,AUS
+1179236,Claudia Payton,W         ,SWE
+1179063,Keenon Laine,M         ,USA
+1178571,Jerome Blake,M         ,CAN
+1178520,Louis Gilavert,M         ,FRA
+1178067,Zoe Sherar,W         ,CAN
+1177635,Mizuki Tanimoto,W         ,JPN
+1177349,Simon Bayer,M         ,GER
+1177108,Jesús Vega,M         ,MEX
+1176672,Failuna Abdi Matanga,W         ,TAN
+1176563,Yann Schrub,M         ,FRA
+1176362,Maryan Zakalnytskyy,M         ,UKR
+1167954,Alexandru Novac,M         ,ROU
+1175677,Thomas Mardal,M         ,NOR
+1175379,Nick Christie,M         ,USA
+1175225,Armand Duplantis,M         ,SWE
+1175118,Chen Jiamin,W         ,CHN
+1174651,Vitali Zhuk,M         ,BLR
+1174500,Grete Ahlberg,W         ,SWE
+1174323,Nozomi Tanaka,W         ,JPN
+1184604,Karissa Schweizer,W         ,USA
+1184595,Olivia McTaggart,W         ,NZL
+1184571,Rafailía Spanoudáki-Hatziríga,W         ,GRE
+1165093,Axelina Johansson,W         ,SWE
+1165052,Kurtis Marschall,M         ,AUS
+1164929,Jonathan Hilbert,M         ,GER
+1164601,Gilles Anthony Afoumba,M         ,CGO
+1164418,Alfina Tehupeiory,W         ,INA
+1164142,Joshua Abuaku,M         ,GER
+1175086,Kirara Shiraishi,M         ,JPN
+1175060,Nanaka Kori,W         ,JPN
+1175058,Delia Sclabas,W         ,SUI
+1174468,Muhammed Anees Yahya,M         ,IND
+1174459,Volodymyr Myslyvčuk,M         ,UKR
+1174358,Janet Richard,W         ,MLT
+1173237,Georgia Winkcup,W         ,AUS
+1172446,Jamie Webb,M         ,GBR
+1171609,Jochem Vermeulen,M         ,BEL
+1174267,Ajay Kumar Saroj,M         ,IND
+1174151,Maximilian Thorwirth,M         ,GER
+1174114,Martyna Galant,W         ,POL
+1174083,Suldan Hassan,M         ,SWE
+1174016,Paulien Couckuyt,W         ,BEL
+1184387,Agata Zupin,W         ,SLO
+1183967,Gabriel Tual,M         ,FRA
+1183659,Joseph Deng,M         ,AUS
+1183598,Celera Barnes,W         ,USA
+1183593,Laulauga Tausaga-Collins,W         ,USA
+1163965,Timothy Cheruiyot,M         ,KEN
+1163925,Daniel Rowden,M         ,GBR
+1182937,Viktoryia Rashchupkina,W         ,BLR
+1182634,Elliot Giles,M         ,GBR
+1182616,Omar Hassan,M         ,ETH
+1182424,Marino Bloudek,M         ,CRO
+1182007,Emil Danielsson,M         ,SWE
+1181791,Clemens Prüfer,M         ,GER
+1173407,Naoto Hasegawa,M         ,JPN
+1173289,Didier Kiki,M         ,BEN
+1173222,Julia Wennersten,W         ,SWE
+1172995,Yuta Bando,M         ,JPN
+1172989,Diana Vaisman,W         ,ISR
+1172528,Karl Bebendorf,M         ,GER
+1172402,Manuel Soto,M         ,COL
+1172336,Marcio Teles,M         ,BRA
+1172070,Linda Olivieri,W         ,ITA
+1181783,Bai Li,W         ,CHN
+1181489,Hellen Syombua,W         ,KEN
+1181105,Amandine Brossier,W         ,FRA
+1180855,Ryan Sanchez,M         ,PUR
+1179887,Cameron Murray,M         ,USA
+1179868,Zach McWhorter,M         ,USA
+1179603,Pol Moya,M         ,AND
+1179519,Felipe Bardi,M         ,BRA
+1163892,Matt Bilodeau,M         ,CAN
+1163766,Erin Teschuk,W         ,CAN
+1163717,Dieter Kersten,M         ,BEL
+1163626,Hibiki Tsuha,M         ,JPN
+1163433,Ajla Del Ponte,W         ,SUI
+1163332,Taymir Burnet,M         ,NED
+1163272,Sade Olatoye,W         ,NGR
+1183283,Abdelkarim Ben Zahra,M         ,MAR
+1182563,Bartłomiej Stój,M         ,POL
+1180994,Lorraine Martins,W         ,BRA
+1180834,Sindija Bukša,W         ,LAT
+1180532,Darryl Sullivan,M         ,USA
+1180183,Gilles Biron,M         ,FRA
+1180065,Kevona Davis,W         ,JAM
+1179872,Richard Diawara,M         ,MLI
+1179865,Eva Santidrian,W         ,ESP
+1143009,Pavel Mialeshka,M         ,BLR
+1115513,Genki Dean,M         ,JPN
+1120617,Marcin Krukowski,M         ,POL
+1179262,Lin Yuwei,W         ,CHN
+1179239,Mariia Sakharuk,W         ,UKR
+1179006,Segundo Jami,M         ,ECU
+1177752,Rhasidat Adeleke,W         ,IRL
+1177315,Abbabiya Simbassa,M         ,USA
+1177257,Dyland Sicobo,M         ,SEY
+1177241,Darya Maslova,W         ,KGZ
+1176548,Jacob Wooten,M         ,USA
+1176479,Kyra Constantine,W         ,CAN
+1176455,Josh Kerr,M         ,GBR
+1176445,Honami Maeda,W         ,JPN
+1176236,George Mills,M         ,GBR
+1171181,Kemar Mowatt,M         ,JAM
+1170606,Corinna Schwab,W         ,GER
+1170438,Gudni Valur Guðnason,M         ,ISL
+1170356,Anicka Newell,W         ,CAN
+1170179,Bianca Salming,W         ,SWE
+1170073,Nigel Ellis,M         ,JAM
+1170013,Aleksandar Askovic,M         ,GER
+1171958,Ma Yugui,W         ,CHN
+1171766,Dawit Fikadu,M         ,BRN
+1171565,Mostafa Smaili,M         ,MAR
+1171425,Adam Ali Musab,M         ,QAT
+1171317,Clayton Murphy,M         ,USA
+1170554,Maribel Caicedo,W         ,ECU
+1170332,Yehualeye Beletew,W         ,ETH
+1170137,Quincy Hall,M         ,USA
+1163023,Abdul Hakim Sani Brown,M         ,JPN
+1162656,Esther Chebet,W         ,UGA
+1162286,Raven Saunders,W         ,USA
+1162027,Alina Armas,W         ,NAM
+1161970,Marije van Hunenstijn,W         ,NED
+1161636,Jamaine Coleman,M         ,GBR
+1179483,Ben Buckingham,M         ,AUS
+1178407,Abadi Hadis,M         ,ETH
+1177821,Li Jiangyan,W         ,CHN
+1177104,Rose Davies,W         ,AUS
+1177044,Yevheniya Prokofyeva,W         ,UKR
+1176835,Tamirat Tola,M         ,ETH
+1176611,Charles Simotwo,M         ,KEN
+1176367,Christopher Belcher,M         ,USA
+1154191,Edis Matusevičius,M         ,LTU
+1176055,Sahin Senoduncu,M         ,TUR
+1176028,Yassin Bouih,M         ,ITA
+1175887,Abraham Kibiwot,M         ,KEN
+1175735,Geordie Beamish,M         ,NZL
+1175434,Demish Gaye,M         ,JAM
+1169972,Sarah Lagger,W         ,AUT
+1169869,Assia Raziki,W         ,MAR
+1169654,Lisa Gunnarsson,W         ,SWE
+1169637,Stewart McSweyn,M         ,AUS
+1169962,Samuel Gathimba,M         ,KEN
+1169927,Zane Weir,M         ,ITA
+1169872,Daniel Haugh,M         ,USA
+1169653,Claire Orcel,W         ,BEL
+1169351,Christian Pacheco,M         ,PER
+1169052,Yunisleidy García,W         ,CUB
+1176102,Madeleine Kelly,W         ,CAN
+1175940,Jun Yamashita,M         ,JPN
+1175893,Balázs Vindics,M         ,HUN
+1175283,Abdellatif El Guesse,M         ,MAR
+1161552,Elena Bellò,W         ,ITA
+1161202,Vitoria Cristina Rosa,W         ,BRA
+1161134,Abdallah Mande,M         ,UGA
+1160701,Tobia Bocchi,M         ,ITA
+1175304,Tilde Johansson,W         ,SWE
+1175000,Hamza Mohamed,M         ,EGY
+1174994,Gediminas Truskauskas,M         ,LTU
+1174818,Leticia Melo,W         ,BRA
+1174777,Krishna Bahadur Basnet,M         ,NEP
+1174769,Ciren Cuomu,W         ,CHN
+1174541,Julien Wanders,M         ,SUI
+1174233,Will Williams,M         ,USA
+1169520,Niklas Kaul,M         ,GER
+1175271,Rhodah Njobvu,W         ,ZAM
+1174962,Alisa Vainio,W         ,FIN
+1174905,Abdalelah Haroun,M         ,QAT
+1174463,Hlib Piskunov,M         ,UKR
+1174454,Bryce Deadmon,M         ,USA
+1174119,Sarah Healy,W         ,IRL
+1173988,Micha Powell,W         ,CAN
+1173902,Bismark Boateng,M         ,CAN
+1173570,Necati Er,M         ,TUR
+1168710,Lindon Victor,M         ,GRN
+1305177,Artur Felfner,M         ,UKR
+1160559,Twanisha Terry,W         ,USA
+1160465,Andrea Miklos,W         ,ROU
+1160082,Dzmitry Nabokau,M         ,BLR
+1160038,Rudy Winkler,M         ,USA
+1168685,Loi Im Lan,W         ,MAC
+1168667,Emmanouíl Karalís,M         ,GRE
+1168106,Sinclaire Johnson,W         ,USA
+1167875,Amálie Švábíková,W         ,CZE
+1167696,Viyaleta Skvartsova,W         ,BLR
+1167639,Yemisi Ogunleye,W         ,GER
+1173534,Priyanka Goswami,W         ,IND
+1173252,Sydney Siame,M         ,ZAM
+1173201,Hicham Bouhanoun,M         ,ALG
+1173058,Shi Yuhao,M         ,CHN
+1172423,Alexandra Emilianov,W         ,MDA
+1172105,Yohanes Chiappinelli,M         ,ITA
+1171870,Wu Yanni,W         ,CHN
+1171779,Ashanti Moore,W         ,JAM
+1171536,Munkhzaya Bayartsogt,W         ,MGL
+1174149,Gabbi Cunningham,W         ,USA
+1174039,Joaquín Gómez,M         ,ARG
+1173980,Ding Bangchao,M         ,CHN
+1173698,Miho Suzuki,W         ,JPN
+1173640,Héctor Santos,M         ,ESP
+1173624,Wang Qin,M         ,CHN
+1173105,Mario Lambrughi,M         ,ITA
+1172847,Yavuz Agrali,M         ,TUR
+1172735,Hyuga Endo,M         ,JPN
+1172686,Jung You-Sun,W         ,KOR
+1172605,Konrad Bukowiecki,M         ,POL
+1176089,Curtis Thompson,M         ,USA
+1169386,Jake Heyward,M         ,GBR
+1169179,Tomohiro Shinno,M         ,JPN
+1168961,Marvin Schlegel,M         ,GER
+1168850,Michael Norman,M         ,USA
+1160013,Sharlene Mawdsley,W         ,IRL
+1159824,Bachana Khorava,M         ,GEO
+1159520,Kenny Selmon,M         ,USA
+1158920,Alina Kenzel,W         ,GER
+1158604,Juliana Campos,W         ,BRA
+1158504,Andrew Coscoran,M         ,IRL
+1167563,Christopher Taylor,M         ,JAM
+1167473,Naomi Metzger,W         ,GBR
+1167466,Ana Carolina Azevedo,W         ,BRA
+1167372,Rob Napolitano,M         ,PUR
+1167289,Grant Holloway,M         ,USA
+1172403,Yury Vasilchanka,M         ,BLR
+1172244,Bence Venyercsán,M         ,HUN
+1171349,Greisys Roble,W         ,CUB
+1171308,Ken Mullings,M         ,BAH
+1168624,Heather MacLean,W         ,USA
+1168392,Torben Blech,M         ,GER
+1168016,Ariádni Adamopoúlou,W         ,GRE
+1167566,Destiny Smith-Barnett,W         ,LBR
+1166987,Arthur Gue Cissé,M         ,CIV
+1166904,Nathan Strother,M         ,USA
+1158295,Sam Dirks,W         ,BIZ
+1158208,Salome Lang,W         ,SUI
+1158167,Sam Prakel,M         ,USA
+1158149,Akihiro Higashida,M         ,JPN
+1157657,Cindy Sember,W         ,GBR
+1157642,Krystsina Tsimanouskaya,W         ,POL
+1171271,Fatima Ezzahra Gardadi,W         ,MAR
+1170879,Sara Lennman,W         ,SWE
+1170851,Carlos Mayo,M         ,ESP
+1170711,Melvin Raffin,M         ,FRA
+1170368,Norbert Kobielski,M         ,POL
+1170000,Gopi Thonakal,M         ,IND
+1169960,Vera Hoffmann,W         ,LUX
+1169718,Abdi Waiss Mouhyadin,M         ,DJI
+1169509,Sumire Hata,W         ,JPN
+1167239,Laura García-Caro,W         ,ESP
+1167081,Anna Tropina,W         ,RUS
+1167064,Willian Dourado,M         ,BRA
+1171141,Alexis Miellet,M         ,FRA
+1171065,Amos Bartelsmeyer,M         ,GER
+1170833,Habitam Alemu,W         ,ETH
+1170190,Gabriel Gerald Geay,M         ,TAN
+1170062,Mohd Noor Firdaus Idris,M         ,BRU
+1166888,Tamara Clark,W         ,USA
+1166537,Charles Hunter,M         ,AUS
+1166402,Melique Garcia,M         ,HON
+1166129,Domenika Mayer,W         ,GER
+1166042,Shadae Lawrence,W         ,JAM
+1165895,Viviane Lyra,W         ,BRA
+1165742,Yume Goto,W         ,JPN
+1165717,Visiline Jepkesho,W         ,KEN
+1165658,Amber Zimmerman,W         ,USA
+1165652,Travis Collins,M         ,GUY
+1157467,Humberto Mansilla,M         ,CHI
+1157407,Maggie Malone Hardin,W         ,USA
+1157323,Alexander Doom,M         ,BEL
+1156931,Anne Luijten,W         ,NED
+1169266,Mayra Gaviria,W         ,COL
+1169079,Elvira Hrabarenka,W         ,BLR
+1169023,Andre Ewers,M         ,JAM
+1168849,Brooke Andersen,W         ,USA
+1168586,Salwa Eid Naser,W         ,BRN
+1168271,Natalia Kaczmarek,W         ,POL
+1167054,Christian Coleman,M         ,USA
+1166856,Chiara Scherrer,W         ,SUI
+1166087,Anthony Zambrano,M         ,COL
+1165942,Urtė Baikštytė,W         ,LTU
+1169621,Eyob Ghebrehiwet Faniel,M         ,ITA
+1169493,Luca Mazzo,M         ,BRA
+1169201,Hanna Hermansson,W         ,SWE
+1167700,Miltiádis Tentóglou,M         ,GRE
+1166267,Eduardo Nápoles,M         ,CUB
+1168127,Ignacio Fontes,M         ,ESP
+1168085,Merle Homeier,W         ,GER
+1167985,Clarence Munyai,M         ,RSA
+1167385,Darcy Roper,M         ,AUS
+1166715,Julia Ritter,W         ,GER
+1156640,Titus Kipruto,M         ,KEN
+1156421,Nazim Babayev,M         ,AZE
+1156397,Vladyslav Mazur,M         ,UKR
+1156205,Aina Grikšaitė,W         ,LTU
+1156045,Samantha Hall,W         ,JAM
+1156030,Devon Williams,M         ,USA
+1155994,Desmond Mokgobu,M         ,RSA
+1155903,Ibrahim Renoud Al-Zafairi,M         ,KUW
+1155828,Álvaro de Arriba,M         ,ESP
+1155686,Ingar Bratseth-Kiplesund,M         ,NOR
+1155660,Kristian Uldbjerg Hansen,M         ,DEN
+1165643,Katherine Ruth Tisalema,W         ,ECU
+1165618,Tommi Holttinen,M         ,FIN
+1165415,Sydney McLaughlin-Levrone,W         ,USA
+1165198,Candice McLeod,W         ,JAM
+1166234,Benthe König,W         ,NED
+1165994,Shuhei Tada,M         ,JPN
+1165694,Sara Fantini,W         ,ITA
+1165540,Johnny Rentería,M         ,COL
+1165517,Lieke Klaver,W         ,NED
+1165892,Cristian Atanay Nápoles,M         ,CUB
+1165810,Dany Brand,M         ,SUI
+1165794,Bridget Williams,W         ,USA
+1165492,Josh Awotunde,M         ,USA
+1165351,Rohan Browning,M         ,AUS
+1166490,CJ Allen,M         ,USA
+1166489,Annet Chalangat,W         ,UGA
+1165979,Monika Jackiewicz,W         ,POL
+1165355,Clementine Mukandanga,W         ,RWA
+1165038,Natalia Hawthorn,W         ,CAN
+1164628,Eddie Garcia,M         ,ISV
+1164600,Mehdi Frere,M         ,FRA
+1164420,Marisa Howard,W         ,USA
+1164144,Lawrence Cherono,M         ,KEN
+1163901,Frántsi-Anastásios Latifllári,M         ,GRE
+1162932,Senja Mäkitörmä,W         ,FIN
+1162688,Mikhail Litvin,M         ,KAZ
+1155361,Luke Winder,M         ,USA
+1154640,Anna Cockrell,W         ,USA
+1154249,Filippo Randazzo,M         ,ITA
+1153914,Filip Sasínek,M         ,CZE
+1153880,Yuliya Levchenko,W         ,UKR
+1153723,Vitali Parakhonka,M         ,BLR
+1165493,Wu Ruiting,M         ,CHN
+1165458,Mauricia Prieto,W         ,TTO
+1165324,Kajetan Duszyński,M         ,POL
+1165308,Lyndsay Tessier,W         ,CAN
+1165242,Portious Warren,W         ,TTO
+1165217,Mehdi Belhadj,M         ,FRA
+1164472,Diana Zagainova,W         ,LTU
+1165126,Nathon Allen,M         ,JAM
+1164792,Iliass Aouani,M         ,ITA
+1164437,Simon Pettersson,M         ,SWE
+1164364,Maria Andrejczyk,W         ,POL
+1164181,Ilionis Guillaume,W         ,FRA
+1163896,Ellie Sanford,W         ,AUS
+1163736,Ce’Aira Brown,W         ,USA
+1164991,Filippo Tortu,M         ,ITA
+1164917,Sofiya Palkina,W         ,RUS
+1164840,Thapelo Phora,M         ,RSA
+1153570,Jesús López,M         ,MEX
+1153463,Réka Szilágyi,W         ,HUN
+1153446,Mikhail Akimenko,M         ,RUS
+1153287,Yulenmis Aguilar,W         ,CUB
+1153046,Haimro Alame,M         ,ISR
+1152661,Narcis Mihaila,M         ,ROU
+1152419,Oska Inkster-Baynes,M         ,NZL
+1152286,Lisa Marie Kwayie,W         ,GER
+1162673,Ryuichiro Sakai,M         ,JPN
+1162013,Eileen Demes,W         ,GER
+1161960,Mariya Pozdniakova,W         ,UKR
+1161643,Wilhem Belocian,M         ,FRA
+1164248,Chris Mitrevski,M         ,AUS
+1164112,Xia Yuyu,W         ,CHN
+1164048,Alperen Acet,M         ,TUR
+1163703,Lisa Rooms,W         ,BEL
+1163593,Dmitrijs Serjogins,M         ,LAT
+1163529,Paola Morán,W         ,MEX
+1163513,Carolina Krafzik,W         ,GER
+1163680,Hanna Green,W         ,USA
+1163228,Serhiy Svitlychnyy,M         ,UKR
+1163221,Natasha Cockram,W         ,GBR
+1162232,Lucía Rodríguez,W         ,ESP
+1162167,Paulina Ligarska,W         ,POL
+1161858,Hiroki Yamagishi,M         ,JPN
+1161582,Lauren Bruce,W         ,NZL
+1161207,Andrew Butchart,M         ,GBR
+1164800,Sada Williams,W         ,BAR
+1164725,Mohamed Ismail Ibrahim,M         ,DJI
+1164581,Eldred Henry,M         ,IVB
+1161554,Tetyana Melnyk,W         ,UKR
+1161091,Christina Honsel,W         ,GER
+1161043,Helene Rønningen,W         ,NOR
+1160810,Manuel Eitel,M         ,GER
+1140677,Ryohei Arai,M         ,JPN
+1160641,Beth Dobbin,W         ,GBR
+1160625,Andwuelle Wright,M         ,TTO
+1160322,Simo Lipsanen,M         ,FIN
+1160224,Jack Rayner,M         ,AUS
+1152194,Luke Mathews,M         ,AUS
+1152060,Tereza Hrochová,W         ,CZE
+1151533,Mackenzie Little,W         ,AUS
+1151123,Desi Jisa Mokonin,W         ,BRN
+1151116,Winnie Nanyondo,W         ,UGA
+1163145,Yomif Kejelcha,M         ,ETH
+1163059,Matija Gregurić,M         ,CRO
+1162636,Regan Yee,W         ,CAN
+1161964,Ola Stunes Isene,M         ,NOR
+1161549,Munyaradzi Jari,M         ,ZIM
+1161128,Jacob Fincham-Dukes,M         ,GBR
+1161090,Molly Seidel,W         ,USA
+1160945,Keturah Orji,W         ,USA
+1160652,Rodgers Kwemoi,M         ,KEN
+1160588,Angie Annelus,W         ,USA
+1160271,Neja Kršinar,W         ,SLO
+1160110,Luca Kozák,W         ,HUN
+1160089,Andreia Hessel,W         ,BRA
+1159931,Dawit Seyaum,W         ,ETH
+1159929,Ibrahim Chakir,M         ,ESP
+1159849,Aimee Pratt,W         ,GBR
+1159839,Ashraf Amjad Al-Saifi,M         ,QAT
+1159590,Militsa Mircheva,W         ,BUL
+1159511,Nils Brembach,M         ,GER
+1159381,Craig Engels,M         ,USA
+1159295,Dominik Kopeć,M         ,POL
+1164521,Yumi Tanaka,W         ,JPN
+1164507,Janee' Kassanavoid,W         ,USA
+1164120,Annemarie Nissen,W         ,DEN
+1163839,Aleksey Khudyakov,M         ,RUS
+1163653,Hilary Kpatcha,W         ,FRA
+1163311,Filip Pravdica,M         ,CRO
+1162259,Chala Beyo,M         ,ETH
+1260442,Dawid Wegner,M         ,POL
+1239604,Cameron McEntyre,M         ,AUS
+1132350,Rolands Štrobinders,M         ,LAT
+1161073,Mohammed Obaid Al-Saadi,M         ,OMA
+1160971,Kimberly García,W         ,PER
+1160948,Andy Díaz Hernández,M         ,ITA
+1160828,Amelia Campbell,W         ,GBR
+1160744,Ian Kerr,M         ,BAH
+1160354,Alex Hulley,W         ,AUS
+1160187,Rilwan Alowonle,M         ,NGR
+1160050,Yang Jiayu,W         ,CHN
+1160027,Junelle Bromfield,W         ,JAM
+1159942,Steven Bastien,M         ,USA
+1151049,Wilma Murto,W         ,FIN
+1150974,Huang Bokai,M         ,CHN
+1159221,Shanti Veronica Pereira,W         ,SGP
+1158696,Tony van Diepen,M         ,NED
+1158684,Kate O'Connor,W         ,IRL
+1159733,Ofonime Odiong,W         ,BRN
+1159482,Rachel Dincoff,W         ,USA
+1159467,Dmytro Nikitin,M         ,UKR
+1159168,Mihaíl Anastasákis,M         ,GRE
+1159151,Ronda Whyte,W         ,JAM
+1159092,Tuğba Güvenç,W         ,TUR
+1158897,Peter Bol,M         ,AUS
+1158866,Martin Marković,M         ,CRO
+1158708,Hannah Nuttall,W         ,GBR
+1158583,Rantso Mokopane,M         ,RSA
+1158454,Moroko Galefele,W         ,BOT
+1158446,Victoria Hudson,W         ,AUT
+1158315,Benjamin Kigen,M         ,KEN
+1158279,Adrine Monagi,W         ,PNG
+1158180,Hedda Hynne,W         ,NOR
+1158147,Samuel Freire,M         ,CPV
+1157989,Vanessa Clerveaux,W         ,HAI
+1157956,Denzel Comenentia,M         ,NED
+1157780,Jiří Sýkora,M         ,CZE
+1157661,Kyron McMaster,M         ,IVB
+1157589,Hilmar Örn Jónsson,M         ,ISL
+1157587,Olivia Fotopoulou,W         ,CYP
+1157538,Elise Vanderelst,W         ,BEL
+1157403,Abubaker Haydar Abdalla,M         ,QAT
+1157025,Roger Steen,M         ,USA
+1156942,Chioma Onyekwere,W         ,NGR
+1156703,Mayada Al-Sayad,W         ,PLE
+1156574,Lyudmyla Olyanovska,W         ,UKR
+1156327,Eléni-Klaoúdia Pólak,W         ,GRE
+1156142,Aurelien Quinion,M         ,FRA
+1156126,Isobel Batt-Doyle,W         ,AUS
+1155906,Diego Aldo Pettorossi,M         ,ITA
+1155731,Mason Ferlic,M         ,USA
+1155655,Zurian Hechavarría,W         ,CUB
+1161956,Andrea Purica,W         ,VEN
+1161506,Julio César Salazar,M         ,MEX
+1161505,Andrew Hudson,M         ,JAM
+1161474,Naomi Van Den Broeck,W         ,BEL
+1161416,Edose Ibadin,M         ,NGR
+1161322,Alioune Sène,M         ,FRA
+1161282,Kalle Berglund,M         ,SWE
+1154970,Dave Kendziera,M         ,USA
+1154953,Jemma Reekie,W         ,GBR
+1154920,Jorge Ureña,M         ,ESP
+1160786,Julie-Anne Staehli,W         ,CAN
+1160502,Hailemariyam Amare,M         ,ETH
+1160480,Alexander Mutiso,M         ,KEN
+1160426,Wakana Kabasawa,W         ,JPN
+1160037,Natalie Aranda,W         ,PAN
+1160028,Andrew Epperson,M         ,USA
+1159777,Rai Benjamin,M         ,USA
+1158667,Baptiste Mischler,M         ,FRA
+1158636,Alexsandro Melo,M         ,BRA
+1158459,Aurele Vandeputte,M         ,BEL
+1158437,Wellington Zaza,M         ,LBR
+1158402,Luis Zayas,M         ,CUB
+1158294,Ludvy Vaillant,M         ,FRA
+1150966,Anete Sietiņa,W         ,LAT
+1150629,Portia Bing,W         ,NZL
+1150547,Stamatía Skarvélis,W         ,GRE
+1150539,Adam Nowicki,M         ,POL
+1150288,Lonah Chemtai Salpeter,W         ,ISR
+1149979,Deborah Sananes,W         ,FRA
+1157944,Justino Pedro Da Silva,M         ,BRA
+1157890,Sophie Weißenberg,W         ,GER
+1157785,Georgia Griffith,W         ,AUS
+1149845,Farzaneh Fasihi,W         ,IRI
+1149546,Belén Casetta,W         ,ARG
+1148958,Madoka Nakano,W         ,JPN
+1148925,U.K. Nilani Rathnayake,W         ,SRI
+1148524,Joel Baden,M         ,AUS
+1148275,Molly Grabill,W         ,USA
+1148055,Brittany Crew,W         ,CAN
+1147941,Giada Carmassi,W         ,ITA
+1147674,Daisy Jepkemei,W         ,KAZ
+1159925,Nubia Soares,W         ,BRA
+1159908,Vitória Oliveira,W         ,POR
+1159653,Tori Peeters,W         ,NZL
+1159434,Milica Gardašević,W         ,SRB
+1159685,Kristiina Halonen,W         ,FIN
+1159533,Justin Kent,M         ,CAN
+1158765,Irina Velihanova,W         ,TKM
+1158755,Alin Alexandru Firfirica,M         ,ROU
+1158539,Harrison Williams,M         ,USA
+1157573,Mostafa Amer Hassan,M         ,EGY
+1157539,Liz Clay,W         ,AUS
+1157008,Mazen Al-Yassin,M         ,KSA
+1156755,Elise Cranny,W         ,USA
+1147607,Kyle Langford,M         ,GBR
+1147230,Annesofie Hartmann Nielsen,W         ,NULL
+1147195,Viktoriya Tkachuk,W         ,UKR
+1146961,Tia Adana Belle,W         ,BAR
+1146877,Sarah Atcho,W         ,SUI
+1154644,Nicolasa Condorí,W         ,PER
+1154479,Maria Żodzik,W         ,POL
+1153653,Ala Zoghlami,M         ,ITA
+1153566,Christine Bjelland Jensen,W         ,NOR
+1153342,Maru Teferi,M         ,ISR
+1153226,Kyle Greaux,M         ,TTO
+1158423,Andrea Carolina Vargas,W         ,CRC
+1158416,Reggie Jagers III,M         ,USA
+1158414,Mar Juárez,W         ,ESP
+1157905,Nabil Oussama,M         ,MAR
+1157845,Noah Lyles,M         ,USA
+1159234,Aaron Mallett,M         ,USA
+1159199,Ryoichi Akamatsu,M         ,JPN
+1159176,Marqueze Washington,M         ,USA
+1158998,Salomé Kora,W         ,SUI
+1158950,Ivan Zarco,M         ,HON
+1158932,Valdó Szűcs,M         ,HUN
+1158706,Lloydricia Cameron,W         ,JAM
+1158639,Yang Chun-Han,M         ,TPE
+1158616,Carina Viljoen,W         ,RSA
+1158541,Vidar Johansson,M         ,SWE
+1158429,Alex Beddoes,M         ,COK
+1158381,Tobias Potye,M         ,GER
+1158171,Woody Kincaid,M         ,USA
+1157747,Félicien Muhitira,M         ,RWA
+1157546,Rebecca Sartori,W         ,ITA
+1156670,TJ Holmes,M         ,USA
+1156581,Angela Castro,W         ,BOL
+1156428,Kelsey Bruce,W         ,USA
+1156178,Adam Thomas,M         ,GBR
+1156161,Chen Kuei-Ju,M         ,TPE
+1156145,Bence Halász,M         ,HUN
+1146327,Angelica Moser,W         ,SUI
+1146235,Taioh Kanai,M         ,JPN
+1146228,Jessica Hull,W         ,AUS
+1157479,Zouhair Talbi,M         ,MAR
+1157428,Cecilia Tamayo,W         ,MEX
+1157294,Aneta Konieczek,W         ,POL
+1157179,Daniel Pintado,M         ,ECU
+1157129,Liang Xiaojing,W         ,CHN
+1153207,Eduardo Rodrigues,M         ,BRA
+1152642,Reece Prescod,M         ,GBR
+1152588,Rodrigo do Nascimento,M         ,BRA
+1152505,Ihor Musiyenko,M         ,UKR
+1152491,Kinsey Middleton,W         ,CAN
+1152391,Ernest John Obiena,M         ,PHI
+1152262,Mariela Luisa Real,W         ,MEX
+1151964,Kaela Edwards,W         ,USA
+1151253,Anežka Drahotová,W         ,CZE
+1151143,Sandra Arenas,W         ,COL
+1150750,Federica Del Buono,W         ,ITA
+1150686,Sérgio Fernández,M         ,ESP
+1150676,Luís Alberto Amezcua,M         ,ESP
+1146202,Leul Gebrselassie,M         ,ETH
+1146077,Artur Mastianica,M         ,LTU
+1145108,Katrine Koch Jacobsen,W         ,NULL
+1145041,Samuli Samuelsson,M         ,FIN
+1159456,Michael Shuey,M         ,USA
+1144881,Garrett Scantling,M         ,USA
+1157695,Ellie Baker,W         ,GBR
+1156044,Yemaneberhan Crippa,M         ,ITA
+1155876,Soufiane El Bakkali,M         ,MAR
+1156992,Ben Broeders,M         ,BEL
+1156900,Mizuki Matsuda,W         ,JPN
+1156658,Miguel Francis,M         ,GBR
+1156576,Rino Goshima,W         ,JPN
+1156335,Nikol Tabačková,W         ,CZE
+1156299,John Alexander Castañeda,M         ,COL
+1155540,María Fernanda Murillo,W         ,COL
+1155499,Brannon Kidder,M         ,USA
+1155472,Shoutarou Shiroyama,M         ,JPN
+1156978,Nick Percy,M         ,GBR
+1156950,Khishigsaikhan Galdabrakh,W         ,MGL
+1156766,Ferguson Rotich,M         ,KEN
+1156184,Ge Manqi,W         ,CHN
+1156093,Amalie Hammild Iuel,W         ,NOR
+1206963,Rohit Yadav,M         ,IND
+1144772,Ivana Gallardo,W         ,CHI
+1144181,Nick Miller,M         ,GBR
+1143902,Isaac Kimeli,M         ,BEL
+1150577,Anita Horvat,W         ,SLO
+1150350,Lukáš Gdula,M         ,CZE
+1150042,Syuusei Nomoto,M         ,JPN
+1150009,Alena Trus,W         ,BLR
+1150000,Gulshanoy Satarova,W         ,KGZ
+1149924,Patrick Tiernan,M         ,AUS
+1149642,Benjamin Lobo,M         ,DEN
+1149471,Henry Smith,M         ,AUS
+1149399,Lamont Marcell Jacobs,M         ,ITA
+1155751,Stephen Kissa,M         ,UGA
+1155504,Lázaro Martínez,M         ,CUB
+1155453,Alice Mangione,W         ,ITA
+1155318,Alicja Konieczek,W         ,POL
+1155133,Ojie Edoburun,M         ,GBR
+1154969,Barbara Oláh,W         ,HUN
+1155464,Jaheel Hyde,M         ,JAM
+1155062,Karin Strametz,W         ,AUT
+1154887,Marc Reuther,M         ,GER
+1154863,Tim Nowak,M         ,GER
+1154854,Klaudia Kardasz,W         ,POL
+1155932,Ronald Kwemoi,M         ,KEN
+1155865,Alex Young,M         ,USA
+1155840,Samory Fraga,M         ,BRA
+1155730,Sophie Becker,W         ,IRL
+1155688,Tobi Amusan,W         ,NGR
+1143897,Elina Lampela,W         ,FIN
+1143637,Mekdes Woldu,W         ,FRA
+1143261,Reetta Hurske,W         ,FIN
+1142725,Lawrence Okoye,M         ,GBR
+1149079,Sade McCreath-Tardiel,W         ,CAN
+1148828,Gabriele dos Santos,W         ,BRA
+1148343,Valeriy Pronkin,M         ,RUS
+1148244,Iryna Klymets,W         ,UKR
+1154927,Luka Janežič,M         ,SLO
+1154717,Fredrik Samuelsson,M         ,SWE
+1154265,Alana Barber,W         ,NZL
+1154257,Annika Fuchs,W         ,GER
+1111266,Timothy Herman,M         ,BEL
+1154013,Gabriel Bitan,M         ,ROU
+1154000,Zoe Hobbs,W         ,NZL
+1155515,Armando Machava Creve,M         ,MOZ
+1155199,Lynna Irby-Jackson,W         ,USA
+1155173,Ján Volko,M         ,SVK
+1142139,Wang Chunyu,W         ,CHN
+1141913,Jamal Al-Hayrani,M         ,QAT
+1141680,María Belén Toimil,W         ,ESP
+1141262,José Montaña,M         ,COL
+1141097,Yao Jie,M         ,CHN
+1141055,Pieter Braun,M         ,NED
+1140738,Alexandros Poursanidis,M         ,CYP
+1140585,Mokulube Makatise,W         ,LES
+1140462,Ben Flanagan,M         ,CAN
+1140326,Hagen Pohle,M         ,GER
+1155072,Maria Isabel Pérez,W         ,ESP
+1155055,Grant Fisher,M         ,USA
+1154947,Gianna Woodruff,W         ,PAN
+1139936,Rouguy Diallo,W         ,FRA
+1139825,Robeilys Peinado,W         ,VEN
+1139784,Revee Walcott-Nolan,W         ,GBR
+1139501,Aleksandra Lisowska,W         ,POL
+1139467,Ewa Swoboda,W         ,POL
+1154694,Alex Amankwah,M         ,GHA
+1154386,Riley Day,W         ,AUS
+1154355,Jordan Gusman,M         ,MLT
+1153986,Michaela Hrubá,W         ,CZE
+1153920,Peres Jepchirchir,W         ,KEN
+1153826,Amanal Petros,M         ,GER
+1153726,Chase Jackson,W         ,USA
+1153669,Gift Leotlela,M         ,RSA
+1153823,Hannah Jones,W         ,AUS
+1153747,Keiso Pedriks,M         ,EST
+1153715,Gudaf Tsegay,W         ,ETH
+1148004,Michał Haratyk,M         ,POL
+1147979,Karsten Warholm,M         ,NOR
+1153329,Kazuya Shiojiri,M         ,JPN
+1153077,Sean McGorty,M         ,NULL
+1152885,Eda Tuğsuz,W         ,TUR
+1152592,Vashti Cunningham,W         ,USA
+1152553,Nawal Meniker,W         ,FRA
+1147960,Quach Thi Lan,W         ,VIE
+1147803,Samuel Barata,M         ,POR
+1147577,Cedric Dubler,M         ,AUS
+1154586,Madeline Price,W         ,CAN
+1154011,Jordan Scott,M         ,JAM
+1153683,Steven Gardiner,M         ,BAH
+1153625,Andrei Toader,M         ,ROU
+1153344,Shuhei Ishikawa,M         ,JPN
+1153118,Jacinta Beecher,W         ,AUS
+1152258,Sayaka Sato,W         ,JPN
+1152161,Khallifah Rosser,M         ,USA
+1152026,David King,M         ,GBR
+1151684,Johannes Motschmann,M         ,GER
+1151334,Javianne Oliver,W         ,USA
+1151332,Yevgeniy Korotovskiy,M         ,RUS
+1151258,Kolothum Thodi Irfan,M         ,IND
+1151250,Neil Gourley,M         ,GBR
+1139441,Shadrack Kipchirchir,M         ,USA
+1139381,Renelle Lamote,W         ,FRA
+1139357,Auriol Dongmo,W         ,POR
+1153142,Gloria Kite,W         ,KEN
+1152449,Jānis Višķers,M         ,LAT
+1152046,Divine Oduduru,M         ,NGR
+1151677,Eliza McCartney,W         ,NZL
+1151646,Zach Ziemek,M         ,USA
+1117500,Andreas Hofmann,M         ,GER
+1147392,Jarinter Mwasya,W         ,KEN
+1147242,Kim Ji Hyang,W         ,PRK
+1147051,Jessica Woodard,W         ,USA
+1146664,Valarie Allman,W         ,USA
+1146623,Fionnuala Ross,W         ,IRL
+1146480,Jorge Armando Ruiz,M         ,COL
+1146397,Anastasiya Kalamoyets,W         ,BLR
+1145995,Andre De Grasse,M         ,CAN
+1150980,Xaysa Anousone,M         ,LAO
+1150947,Gatis Čakšs,M         ,LAT
+1150821,Gina Lückenkemper,W         ,GER
+1153093,Fabian Heinle,M         ,GER
+1152848,Lorena Martin,W         ,ESP
+1152563,Dimitriana Bezede,W         ,MDA
+1152532,Solomon Simmons,M         ,USA
+1152456,Adrianna Laskowska,W         ,POL
+1152329,Roberta Groner,W         ,USA
+1152324,Cole Walsh,M         ,USA
+1139249,Marybeth Sant-Price,W         ,USA
+1139181,Lucirio Antonio Garrido,M         ,VEN
+1139030,Ibrahim Ezzaydouni,M         ,ESP
+1138641,Tigist Gashaw,W         ,BRN
+1138630,Natosha Rogers,W         ,USA
+1138607,Caterina Granz,W         ,GER
+1138121,Jonathan Bardotier,M         ,MRI
+1137996,Shim Jong-Sub,M         ,KOR
+1137804,Daryll Neita,W         ,GBR
+1151186,Ese Brume,W         ,NGR
+1151170,Matt Denny,M         ,AUS
+1145920,Lorea Ibarzabal,W         ,ESP
+1145539,Jake Wightman,M         ,GBR
+1152215,Gaylord Silly,M         ,SEY
+1152165,Carla Mendes,W         ,CPV
+1151880,Sarah McDonald,W         ,GBR
+1151862,Ryan Crouser,M         ,USA
+1151647,Esther Conde-Turpin,W         ,FRA
+1151544,Chidi Okezie,M         ,NGR
+1151388,Alyona Lutkovskaya,W         ,RUS
+1137704,Ischke Senekal,W         ,RSA
+1137000,Gunta Vaičule,W         ,LAT
+1150730,Mateus de Sá,M         ,BRA
+1150613,Taliyah Brooks,W         ,USA
+1150470,Mesud Pezer,M         ,BIH
+1150045,Eleonora Vandi,W         ,ITA
+1150035,Hussain Asim Al-Hizam,M         ,KSA
+1149987,Osama Zoghlami,M         ,ITA
+1150818,Jasmine Abrams,W         ,GUY
+1150786,Rutger Koppelaar,M         ,NED
+1150443,Matthew Hudson-Smith,M         ,GBR
+1149976,Dylan Borlée,M         ,BEL
+1151379,Angie Orjuela,W         ,COL
+1151212,Vitor dos Santos,M         ,BRA
+1150402,Gao Yang,W         ,CHN
+1150315,Trayvon Bromell,M         ,USA
+1149338,Andrés Arroyo,M         ,PUR
+1149237,Anamaria Nesteriuc,W         ,ROU
+1148505,Nikólaos Skarvélis,M         ,GRE
+1148472,Sam Mattis,M         ,USA
+1147860,Yassine Hathat,M         ,ALG
+1145538,Sarah Lahti,W         ,SWE
+1178650,Patriks Gailums,M         ,LAT
+1203706,Pedro Henrique Rodrigues,M         ,BRA
+1144977,Joao Capistrano M. Bussotti Neves Junior,M         ,ITA
+1144845,Elisa Molinarolo,W         ,ITA
+1147835,Emma Bates,W         ,USA
+1147711,Harry Coppell,M         ,GBR
+1147652,Megan Marrs,W         ,GBR
+1147628,Chan Ming Tai,M         ,HKG
+1147601,Ryo Sato,M         ,JPN
+1147567,Hanna Lindholm,W         ,SWE
+1147544,Maria Bernard,W         ,CAN
+1147491,Cátia Azevedo,W         ,POR
+1146548,Alysha Burnett,W         ,AUS
+1146330,Susan Jeptoo,W         ,FRA
+1144834,Jinson Johnson,M         ,IND
+1144558,Courtney Frerichs,W         ,USA
+1144344,Abbas Abubaker,M         ,BRN
+1144151,Álvaro Martín,M         ,ESP
+1143992,Salla Sipponen,W         ,FIN
+1143941,Yanis David,W         ,FRA
+1143583,Karolina Kołeczek,W         ,POL
+1146173,Salim Keddar,M         ,ALG
+1146056,Odile Ahouanwanou,W         ,BEN
+1145988,Christina Hering,W         ,GER
+1145889,Zharnel Hughes,M         ,GBR
+1149827,Fahad Mohamed Al-Subaie,M         ,KSA
+1149259,Xu Shuangshuang,W         ,CHN
+1149110,Ricarda Lobe,W         ,GER
+1149043,Serhiy Reheda,M         ,UKR
+1148632,Eider Arévalo,M         ,COL
+1148592,Lindsay Hanekom,M         ,RSA
+1148199,Pedrya Seymour,W         ,BAH
+1147490,Ricardo Dos Santos,M         ,POR
+1147414,Marina Saito,W         ,JPN
+1147379,Sigrid Borge,W         ,NOR
+1147345,Taika Koilahti,W         ,FIN
+1147096,Flavia de Lima,W         ,BRA
+1136950,Menno Vloon,M         ,NED
+1136266,Eiki Takahashi,M         ,JPN
+1136249,Robin Vanderbemden,M         ,BEL
+1136199,Hassane Fofana,M         ,ITA
+1136073,Özlem Alici,W         ,TUR
+1149782,Francine Niyonsaba,W         ,BDI
+1149524,Lorenzo Perini,M         ,ITA
+1149281,Susanne Gogl-Walli,W         ,AUT
+1148695,Sam Kendricks,M         ,USA
+1148570,Lea Meyer,W         ,GER
+1143556,Sara Klein,W         ,AUS
+1143374,Tsanko Arnaudov,M         ,POR
+1143255,Ayman Ratova,W         ,KAZ
+1142920,Abdessalem Ayouni,M         ,TUN
+1142746,Tristan Schwandke,M         ,GER
+1142411,Ivan Ivanov,M         ,KAZ
+1142394,Milan Trajkovic,M         ,CYP
+1145645,Shunya Takayama,M         ,JPN
+1145486,Kentaro Sato,M         ,JPN
+1135950,Rosie Clarke,W         ,GBR
+1135565,Kumiko Okada,W         ,JPN
+1135432,Andrew Evans,M         ,USA
+1135396,Darya Reznichenko,W         ,UZB
+1135390,Jacko Gill,M         ,NZL
+1135295,Alex Rose,M         ,SAM
+1134777,Volha Mazuronak,W         ,BLR
+1134227,Leslie Sexton,W         ,CAN
+1134103,Heta Tuuri,W         ,FIN
+1134100,Sara Schou Kristensen,W         ,NULL
+1133877,Carlos Nascimento,M         ,POR
+1133693,Loreta Kančytė,W         ,LTU
+1133516,Evelyn Aguilar,W         ,COL
+1142387,Joonas Rinne,M         ,FIN
+1142268,Eveliina Määttänen,W         ,FIN
+1142260,Christine Botlogetswe,W         ,BOT
+1142236,Ronald Musagala,M         ,UGA
+1142211,Yulimar Rojas,W         ,VEN
+1146861,Aiyanna Stiverne,W         ,CAN
+1146845,Hendrik Pfeiffer,M         ,GER
+1146637,Felipe Vinicius dos Santos,M         ,BRA
+1146585,Thobias Montler,M         ,SWE
+1148319,Adrijus Glebauskas,M         ,LTU
+1148269,Joan Camilo Chaverra,M         ,COL
+1148196,Axumawit Embaye,W         ,ETH
+1147199,Marta Pérez,W         ,ESP
+1146471,Ella Junnila,W         ,FIN
+1146361,Gerald Drummond,M         ,CRC
+1146292,Génesis Romero,W         ,VEN
+1145977,Elizabeth Bird,W         ,GBR
+1147110,Saul Ordóñez,M         ,ESP
+1147026,Wang Jianan,M         ,CHN
+1146942,Annie Kunz,W         ,USA
+1145322,Izmir Smajlaj,M         ,ALB
+1145203,Carolina Lozano,W         ,ARG
+1144962,Jessie Knight,W         ,GBR
+1144734,Woo Sang-Hyeok,M         ,KOR
+1144541,Ashley Spencer,W         ,USA
+1141919,Valdilene Silva,W         ,BRA
+1141836,Jillian Weir,W         ,CAN
+1141753,Stanley Kebenei,M         ,USA
+1141635,Thea LaFond,W         ,DMA
+1133407,Senni Salminen,W         ,FIN
+1133357,Michal Desenský,M         ,CZE
+1133200,Latario Collie-Minns,M         ,BAH
+1133057,Evan Dunfee,M         ,CAN
+1132932,Karol Zalewski,M         ,POL
+1132738,Daniel Arce,M         ,ESP
+1132505,Jasmine Todd,W         ,USA
+1132237,Jill Holterman,W         ,NED
+1132153,Valeriya Andreyeva,W         ,RUS
+1131680,Rikenette Steenkamp,W         ,RSA
+1145925,Félix Bour,M         ,FRA
+1145869,Lisa Brix Pedersen,W         ,NULL
+1145752,Shawn Rowe,M         ,JAM
+1145516,Marie-Therese Obst,W         ,NOR
+1145423,Maria Huntington,W         ,FIN
+1145048,Sandeep Kumar Sangwan,M         ,IND
+1144915,Daria Zabawska,W         ,POL
+1131304,Martina Strähl,W         ,SUI
+1131136,Wayde van Niekerk,M         ,RSA
+1131008,Yuliya Chumachenko,W         ,UKR
+1130633,Marcus Lawler,M         ,IRL
+1130557,Quentin Rew,M         ,NZL
+1130451,Sarah Carli,W         ,AUS
+1144865,Joaquín Arbe,M         ,ARG
+1144824,Jessica Turner,W         ,GBR
+1144649,Róbert Szikszai,M         ,HUN
+1144405,Andrenette Knight,W         ,JAM
+1144387,Evelise Veiga,W         ,POR
+1144273,Janek Õiglane,M         ,EST
+1146819,Toni Kuusela,M         ,FIN
+1130173,Sergey Shubenkov,M         ,RUS
+1130125,Rebecca Cheptegei,W         ,UGA
+1129474,Maggie Ewen,W         ,USA
+1129446,Abdi Hakin Ulad,M         ,DEN
+1129432,Sara Kolak,W         ,CRO
+1129405,Amel Tuka,M         ,BIH
+1146881,Stella Chesang,W         ,UGA
+1146616,Arturo Deliser,M         ,PAN
+1146383,Bolade Ajomale,M         ,CAN
+1146129,Ama Pipi,W         ,GBR
+1141317,Senbere Teferi,W         ,ETH
+1141226,Mariko Morimoto,W         ,JPN
+1140831,Loïc Gasch,M         ,SUI
+1140616,Lenuta Simiuc,W         ,ROU
+1140104,Oleg Zernikel,M         ,GER
+1139949,Philip Milanov,M         ,BEL
+1304532,Max Dehning,M         ,GER
+1144248,Hikaru Ikehata,M         ,JPN
+1144111,Jean-Marc Pontvianne,M         ,FRA
+1129262,Lukas Weißhaidinger,M         ,AUT
+1129181,Federico Bruno,M         ,ARG
+1129155,Gloria Hooper,W         ,ITA
+1129028,Sadam Koumi,M         ,SUD
+1128937,Maruša Mišmaš-Zrimsek,W         ,SLO
+1144349,Precious Mashele,M         ,RSA
+1144075,Irene Cheptai,W         ,KEN
+1143650,Jesús Arturo Esparza,M         ,MEX
+1143608,Nina Savina,W         ,BLR
+1143332,Filip Ingebrigtsen,M         ,NOR
+1143266,Jereem Richards,M         ,TTO
+1145964,Yelizaveta Tsareva,W         ,RUS
+1131222,Thomas Röhler,M         ,GER
+1162451,Shivpal Singh,M         ,IND
+1145779,Lemawork Ketema,M         ,AUT
+1145697,Hugues Fabrice Zango,M         ,BUR
+1144071,Andrea Seccafien,W         ,CAN
+1143795,Massimo Stano,M         ,ITA
+1189098,Manu Quijera,M         ,ESP
+1188678,Cyprian Mrzygłód,M         ,POL
+1142682,Elena Andreea Taloș,W         ,ROU
+1142649,Morgan Lake,W         ,GBR
+1139713,José Márcio da Silva,M         ,BRA
+1139578,Nadine Visser,W         ,NED
+1139387,Verena Mayr,W         ,AUT
+1128769,Marie Josée Ta Lou-Smith,W         ,CIV
+1139247,Noor Vidts,W         ,BEL
+1143204,Yin Jiaxing,M         ,CHN
+1143191,Katharina Trost,W         ,GER
+1142922,Grace Claxton,W         ,PUR
+1142830,Serghei Marghiev,M         ,MDA
+1142731,Lindsey Butterworth,W         ,CAN
+1142721,Sarah Pagano,W         ,USA
+1142547,Kevin Seaward,M         ,IRL
+1142320,Mosinet Geremew,M         ,ETH
+1142163,Rhydian Cowley,M         ,AUS
+1142145,Djilali Bedrani,M         ,FRA
+1141960,Xu Zhouzheng,M         ,CHN
+1141887,Jarrion Lawson,M         ,USA
+1145646,Silvan Wicki,M         ,SUI
+1145304,Liang Rui,W         ,CHN
+1145303,Bilal Tabti,M         ,ALG
+1145170,Tigst Assefa,W         ,ETH
+1144818,Roger V. Iribarne,M         ,CUB
+1144449,Liadagmis Povea,W         ,CUB
+1144377,Mohamed Hrezi,M         ,LBA
+1144252,Ismael Debjani,M         ,BEL
+1144090,Shakima Wimbley,W         ,USA
+1141867,Nadia Power,W         ,IRL
+1141842,Renée Eykens,W         ,BEL
+1141809,Mayra Carolina Herrera,W         ,GUA
+1141735,Andy Pozzi,M         ,GBR
+1141692,Ieva Gumbs,W         ,LTU
+1141601,Arialis Gandulla,W         ,POR
+1140907,Luis Castro,M         ,PUR
+1140272,Luz Mery Rojas,W         ,PER
+1142618,Mako Fukube,W         ,JPN
+1142382,Weldu Negash Gebretsadik,M         ,NOR
+1142008,Thomas De Bock,M         ,BEL
+1141648,Elmo Lakka,M         ,FIN
+1141113,Zakhar Makhrosenka,M         ,BLR
+1141047,Bob Bertemes,M         ,LUX
+1140679,Nataliya Strebkova,W         ,UKR
+1140637,Agnes Tirop,W         ,KEN
+1138998,Angela Tenorio,W         ,ECU
+1138908,Teresa Errandonea,W         ,ESP
+1138864,Boniface Mweresa,M         ,KEN
+1138748,Katie Burnett,W         ,USA
+1137978,Alycia Butterworth,W         ,CAN
+1137653,Muktar Edris,M         ,ETH
+1137543,Zhang Xinyan,W         ,CHN
+1137284,Helena Jiranová,W         ,CZE
+1128704,Chen Yang,W         ,CHN
+1128561,Aliyah Abrams,W         ,GUY
+1128493,Alyona Shut,W         ,UKR
+1128384,Mason Finley,M         ,USA
+1128209,Aleksi Ojala,M         ,FIN
+1127894,Francisco Belo,M         ,POR
+1127886,Abraham Rotich,M         ,BRN
+1127668,Sophie McKinna,W         ,GBR
+1127602,Nina Chydenius,W         ,FIN
+1127558,Johanna Bäcklund,W         ,SWE
+1126003,Giovanni Galbieri,M         ,ITA
+1125931,Alex Beck,M         ,AUS
+1125212,Camille Laus,W         ,BEL
+1125051,Kelsey-Lee Barber,W         ,AUS
+1137059,Danijel Furtula,M         ,MNE
+1136525,Solenn Compper,W         ,FRA
+1136292,Emil Blomberg,M         ,SWE
+1135773,Mohamed Belbachir,M         ,ALG
+1135766,Liveta Jasiūnaitė,W         ,LTU
+1135658,Piotr Lisek,M         ,POL
+1139954,Zak Seddon,M         ,GBR
+1139865,Nadzeya Darazhuk,W         ,BLR
+1139770,Olivia Baker,W         ,USA
+1139706,Caio Bonfim,M         ,BRA
+1138884,Suseendran Archana,W         ,IND
+1138518,Maryna Kylypko,W         ,UKR
+1138450,Jessica Ramsey,W         ,USA
+1138225,Alexie Alais,W         ,FRA
+1137925,Yanique Thompson,W         ,JAM
+1137789,Susanna Sullivan,W         ,USA
+1137751,Carlos Díaz,M         ,CHI
+1137716,Minami Yamanouchi,W         ,JPN
+1137104,Geoffrey Kirui,M         ,KEN
+1143898,Lucas Carvalho,M         ,BRA
+1143890,Morgan Mitchell,W         ,AUS
+1143825,Omar McLeod,M         ,JAM
+1143667,Inna Loseva,W         ,UKR
+1143658,Conseslus Kipruto,M         ,KEN
+1143590,Almir dos Santos,M         ,BRA
+1139237,Gina Bass,W         ,GAM
+1143589,Ana Peleteiro-Compaoré,W         ,ESP
+1143391,Vernon Norwood,M         ,USA
+1143314,Rachel McCoy,W         ,USA
+1143048,Chari Hawkins,W         ,USA
+1124257,Diana Mezuliáníková,W         ,CZE
+1124008,Georgi Tsonov,M         ,BUL
+1123972,Christy Yiu Kit Ching,W         ,HKG
+1123282,Wojciech Nowicki,M         ,POL
+1123229,Livia Avancini,W         ,BRA
+1123064,Síofra Cléirigh Büttner,W         ,IRL
+1135654,Jordin Andrade,M         ,CPV
+1134512,Malcolm Hicks,M         ,NZL
+1134303,Alex Wright,M         ,IRL
+1134161,Dzmitry Dziubin,M         ,BLR
+1134118,Georgiy Sheiko,M         ,KAZ
+1133658,Ihor Porozov,M         ,UKR
+1133266,Olivier Irabaruta,M         ,BDI
+1133131,Luo Na,W         ,CHN
+1132813,Michelle Jenneke,W         ,AUS
+1136962,Abdel-Kader Larrinaga,M         ,POR
+1136739,Nataliia Krol,W         ,UKR
+1155930,Kenji Ogura,M         ,JPN
+1136310,Wang Kaihua,M         ,CHN
+1136294,Sardana Trofimova,W         ,KGZ
+1136137,Kateryna Karpiuk,W         ,UKR
+1135860,Ferdinand Kvan Edman,M         ,NOR
+1135533,Nijel Amos,M         ,BOT
+1134631,Nicola Olyslagers,W         ,AUS
+1139230,Hayato Katsuki,M         ,JPN
+1139171,Diego Del Real,M         ,MEX
+1138895,Beatrice Chepkoech,W         ,KEN
+1138876,Satoshi Maruo,M         ,JPN
+1138860,Tyquendo Tracey,M         ,JAM
+1138735,Adam Keenan,M         ,CAN
+1138399,Thomas Barr,M         ,IRL
+1138336,Modesta Morauskaitė,W         ,LTU
+1122998,El Hassan El Abbassi,M         ,BRN
+1122845,Christin Hussong,W         ,GER
+1122770,Flor Dennis Ruiz,W         ,COL
+1122209,Goitom Kifle,M         ,ERI
+1120672,Lindsay Flanagan,W         ,USA
+1120448,Eleonora Giorgi,W         ,ITA
+1143012,Donald Scott,M         ,USA
+1142673,Carolle Zahi,W         ,FRA
+1142669,Daryia Paluektava,W         ,BLR
+1142488,Ninon Chapelle,W         ,FRA
+1142469,Jonielle Smith,W         ,JAM
+1132724,Bian Tongda,M         ,CHN
+1132591,Levon Aghasyan,M         ,ARM
+1132449,Hassan Saaid,M         ,MDV
+1132437,Máté Koroknai,M         ,HUN
+1132398,Caroline Kipkirui,W         ,KAZ
+1132380,Wu Xiangdong,M         ,CHN
+1132314,Shamier Little,W         ,USA
+1132256,Marike Steinacker,W         ,GER
+1131921,Fernando Carro,M         ,ESP
+1131812,Kendra Harrison,W         ,USA
+1131702,Angéla Moravcsik,W         ,HUN
+1131627,Ebony Morrison,W         ,LBR
+1131586,Sadik Mikhou,M         ,BRN
+1131194,Chijindu Ujah,M         ,GBR
+1131103,Sean Safo-Antwi,M         ,GHA
+1157212,Takuto Kominami,M         ,JPN
+1130967,Ilya Shkurenyov,M         ,RUS
+1130315,Emily Ngii,W         ,KEN
+1130224,Katherine Camp,W         ,NZL
+1130217,Jessica Ching Siu Nga,W         ,HKG
+1129848,Esther Navarrete,W         ,ESP
+1129674,Natalliah Whyte,W         ,JAM
+1138227,Louise Shanahan,W         ,IRL
+1137733,Halimah Nakaayi,W         ,UGA
+1137657,Kenya Sonota,M         ,JPN
+1137290,Devynne Charlton,W         ,BAH
+1134557,Wei Yongli,W         ,CHN
+1134298,Noemi Zbären,W         ,SUI
+1134275,Annu Rani,W         ,IND
+1134207,Yuma Hattori,M         ,JPN
+1134148,Bianca Williams,W         ,GBR
+1134066,Hana Basic,W         ,AUS
+1133998,Martin Roe,M         ,NOR
+1142162,Tomáš Staněk,M         ,CZE
+1141953,Natacha Ngoye,W         ,CGO
+1141829,Margarita Hernández,W         ,MEX
+1141476,Wellington da Silva,M         ,BRA
+1141460,Huang Changzhou,M         ,CHN
+1141436,Andreas Almgren,M         ,SWE
+1141325,Tajinderpal Singh,M         ,IND
+1120296,Mateusz Przybylko,M         ,GER
+1120097,Naoto Tobe,M         ,JPN
+1120095,Shelayna Oskan-Clarke,W         ,GBR
+1119938,Paweł Fajdek,M         ,POL
+1119076,Federico Tontodonati,M         ,ITA
+1136638,DeAnna Price,W         ,USA
+1133897,Charlie Da’Vall Grice,M         ,GBR
+1133730,Machel Cedenio,M         ,TTO
+1133596,Aino Pulkkinen,W         ,FIN
+1133488,Adel Mechaal,M         ,ESP
+1129621,Rachel Smith,W         ,USA
+1129374,Rasmus Mägi,M         ,EST
+1129340,Kemi Adekoya,W         ,BRN
+1129047,Georgia Ellenwood,W         ,CAN
+1141311,Tumelo Motlagale,M         ,RSA
+1141083,Hyvin Kiyeng,W         ,KEN
+1140973,Marthe Yasmine Koala,W         ,BUR
+1140575,Bruno Artur Rojas,M         ,BOL
+1140364,Phil Healy,W         ,IRL
+1128736,Li Maocuo,W         ,CHN
+1128587,Ilya Ivanyuk,M         ,RUS
+1128586,Choe Byeong-Kwang,M         ,KOR
+1128563,Marvin Bracy-Williams,M         ,USA
+1128134,Tom Walsh,M         ,NZL
+1140207,Yuki Koike,M         ,JPN
+1140164,Fedrick Dacres,M         ,JAM
+1139981,Yuka Ando,W         ,JPN
+1139980,Brandon McBride,M         ,CAN
+1139937,Nina Kennedy,W         ,AUS
+1128101,Helene Parisot,W         ,FRA
+1127845,Zhang Yaoguang,M         ,CHN
+1127059,Andrey Petrov,M         ,UZB
+1127041,Allan Wolski,M         ,BRA
+1126881,Anna Bongiorni,W         ,ITA
+1126850,Mohamed Al-Garni,M         ,QAT
+1126663,Eunice Sum,W         ,KEN
+1126488,Katie Snowden,W         ,GBR
+1126471,Andrei Gag,M         ,ROU
+1125805,Andreas Vojta,M         ,AUT
+1118232,Hansle Parchment,M         ,JAM
+1117874,Kai Kazmirek,M         ,GER
+1136556,Valentin Lavillenie,M         ,FRA
+1136506,Nikki Hiltz,W         ,USA
+1136395,Damian Czykier,M         ,POL
+1133345,Alysha Newman,W         ,CAN
+1133112,Adam Gemili,M         ,GBR
+1132737,Altobelli da Silva,M         ,BRA
+1132444,Ottavia Cestonaro,W         ,ITA
+1125603,Jackson Kiprop,M         ,UGA
+1124819,Marta Pen Freitas,W         ,POR
+1124699,Raquel González,W         ,ESP
+1124449,Justyna Święty-Ersetic,W         ,POL
+1124192,Tadesse Abraham,M         ,SUI
+1124149,Laura Strati,W         ,ITA
+1123933,Conor McCullough,M         ,USA
+1123716,Ole Hesselbjerg,M         ,DEN
+1123223,Maicel Uibo,M         ,EST
+1139930,Robert Renner,M         ,SLO
+1139821,Leon Reid,M         ,IRL
+1139622,Kristian Pulli,M         ,FIN
+1139302,Norah Jeruto,W         ,KAZ
+1139244,Sofia Ennaoui,W         ,POL
+1139093,Florentina Costina Iusco,W         ,ROU
+1138971,Nethaneel Mitchell-Blake,M         ,GBR
+1138837,Eseosa Desalu,M         ,ITA
+1123036,Kreete Verlin,W         ,EST
+1122894,Wayne Snyman,M         ,RSA
+1122178,Andy Bayer,M         ,USA
+1121393,Tatjana Pinto,W         ,GER
+1138818,Paul Chelimo,M         ,USA
+1138802,Bianka Kéri,W         ,HUN
+1138777,Yoshihide Kiryu,M         ,JPN
+1138628,Hagos Gebrhiwet,M         ,ETH
+1137831,Tariq Ahmed Al-Amri,M         ,KSA
+1136178,Paweł Wiesiołek,M         ,POL
+1136010,Charles Philibert-Thiboutot,M         ,CAN
+1135378,Liemarvin Bonevacia,M         ,NED
+1117314,Hanna Skydan,W         ,AZE
+1117266,Gwen Berry,W         ,USA
+1154136,David Carreon,M         ,MEX
+1132385,Réka Gyurátz,W         ,HUN
+1132366,Antonio Alkana,M         ,RSA
+1132235,Monika Zapalska,W         ,GER
+1131692,Mohamed Reda El Aaraby,M         ,MAR
+1131606,Mathilde Heltbech,W         ,NULL
+1131565,Hassan Taftian,M         ,IRI
+1131339,Iryna Gerashchenko,W         ,UKR
+1137700,Jan Jirka,M         ,CZE
+1137683,Yekaterina Sariyeva,W         ,AZE
+1137380,Devon Allen,M         ,USA
+1137356,Tihomir Ivanov,M         ,BUL
+1137282,Lui Lai Yiu,W         ,HKG
+1136847,Youssouf Hiss Bachir,M         ,DJI
+1136803,Dane Bird-Smith,M         ,AUS
+1136790,Kendall Ellis,W         ,USA
+1120807,Khaddi Sagnia,W         ,SWE
+1279863,Chinecherem Nnamdi,M         ,NGR
+1122460,Rocco van Rooyen,M         ,RSA
+1239758,Leandro Ramos,M         ,POR
+1120065,Ahmed Osman,M         ,USA
+1119695,Jason Rogers,M         ,SKN
+1119436,Carla Salomé Rocha,W         ,POR
+1119351,Mohammed Ahmed,M         ,CAN
+1135334,Emel Dereli,W         ,TUR
+1135252,Eunice Chumba,W         ,BRN
+1135242,Chan Chung Wang,M         ,HKG
+1120939,Huang Shih-Feng,M         ,TPE
+1134892,Eleanor Patterson,W         ,AUS
+1114707,Aauri Lorena Bokesa,W         ,ESP
+1114316,Hillary Bor,M         ,USA
+1113544,Brett Robinson,M         ,AUS
+1112777,Sebastián Martos,M         ,ESP
+1112660,Choi Kyung-Sun,W         ,KOR
+1112308,Gréta Kerekes,W         ,HUN
+1111473,Soufiane Bouchikhi,M         ,BEL
+1111089,Alexandra Bell,W         ,GBR
+1134497,Ana José Tima,W         ,DOM
+1134289,Saga Andersson,W         ,FIN
+1134258,Shashalee Forbes,W         ,JAM
+1134121,Imke Onnen,W         ,GER
+1133405,Sara Lappalainen,W         ,FIN
+1110903,Takatoshi Abe,M         ,JPN
+1110429,Taoufik Makhloufi,M         ,ALG
+1110377,Gregor Traber,M         ,GER
+1110118,Jenna Prandini,W         ,USA
+1109225,Alaysha Johnson,W         ,USA
+1136531,Erick Barrondo,M         ,GUA
+1136130,Izabela da Silva,W         ,BRA
+1134967,Aldemir Gomes da Silva,M         ,BRA
+1134849,Pierre-Ambroise Bosse,M         ,FRA
+1134414,Anjuli Knäsche,W         ,GER
+1134206,Bashir Abdi,M         ,BEL
+1133722,Othmane El Goumri,M         ,MAR
+1131133,Maria Benedicta Chigbolu,W         ,ITA
+1130879,Tim Nedow,M         ,CAN
+1130539,Carl Dohmann,M         ,GER
+1130128,David Wrobel,M         ,GER
+1129978,Aleia Hobbs,W         ,USA
+1129745,Chad Wright,M         ,JAM
+1119176,Raevyn Rogers,W         ,USA
+1119086,Ahn Seul-Ki,W         ,KOR
+1118895,Vera Rudakova,W         ,RUS
+1118427,José Leyver Ojeda,M         ,MEX
+1118200,Xénia Krizsán,W         ,HUN
+1133302,Brendon Rodney,M         ,CAN
+1133261,Adam Sebastian Helcelet,M         ,CZE
+1133037,Khamica Bingham,W         ,CAN
+1133720,Soufiyan Bouqantar,M         ,MAR
+1133481,Martin Kupper,M         ,EST
+1133347,Colin Mickow,M         ,USA
+1133063,Shogo Nakamura,M         ,JPN
+1133061,Morolake Akinosun,W         ,USA
+1132843,Thiago Braz,M         ,BRA
+1132802,Quamel Prince,M         ,GUY
+1132275,Alex Oloitiptip,M         ,KEN
+1132144,Ihor Hlavan,M         ,UKR
+1131875,Tori Franklin,W         ,USA
+1132701,Alexandra Tavernier,W         ,FRA
+1132367,Megan Tapper,W         ,JAM
+1183964,Johannes Grobler,M         ,RSA
+1306217,György Herczeg,M         ,HUN
+1164001,Capers Williamson,M         ,USA
+1132176,Manuela Soccol,W         ,BEL
+1132117,Alexandra Burghardt,W         ,GER
+1131572,Marek Bárta,M         ,CZE
+1131056,Rosemary Wanjiru,W         ,KEN
+1131048,Cai Zelin,M         ,CHN
+1130461,Brad Mathas,M         ,NZL
+1130386,Marcus Nilsson,M         ,SWE
+1130327,Maryse Luzolo,W         ,GER
+1129726,Subenrat Insaeng,W         ,THA
+1129384,Quentin Bigot,M         ,FRA
+1129199,Daniel Ståhl,M         ,SWE
+1108264,Cory McGee,W         ,USA
+1107344,Dariya Derkach,W         ,ITA
+1106935,Alina Rotaru-Kottmann,W         ,ROU
+1129283,Alphas Kishoyan,M         ,KEN
+1128908,Roberta Bruni,W         ,ITA
+1128263,Miranda Melville,W         ,USA
+1128247,Zambia,M         ,ZAM
+1127536,Maksim Afonin,M         ,RUS
+1127481,Lolassonn Djouhan,M         ,FRA
+1127446,Perseus Karlström,M         ,SWE
+1127362,Burger Lambrechts Jr,M         ,RSA
+1127280,Mulern Jean,W         ,HAI
+1131422,Sanne Erkkola,W         ,FIN
+1131399,Traves Smikle,M         ,JAM
+1219775,Liu Qizhen,M         ,CHN
+1130924,Liu Shiying,W         ,CHN
+1129152,Charles Grethen,M         ,LUX
+1128715,Kendell Williams,W         ,USA
+1117338,Olha Lyakhova,W         ,UKR
+1117289,Ajee’ Wilson,W         ,USA
+1115031,Laura Galván,W         ,MEX
+1114925,Doreen Chesang,W         ,UGA
+1114874,Nicolás Cuestas,M         ,URU
+1106802,Veli-Matti Partanen,M         ,FIN
+1106550,Jeļena Ābele,W         ,LAT
+1105173,Thomas Van Der Plaetsen,M         ,BEL
+1105107,Joe Kovacs,M         ,USA
+1104578,Roberto Sawyers,M         ,CRC
+1103852,Christian Taylor,M         ,USA
+1126919,Shaunae Miller-Uibo,W         ,BAH
+1126210,Iryna Zhuk,W         ,BLR
+1125999,Aliaksandr Liakhovich,M         ,BLR
+1103776,Maria Natalia Londa,W         ,INA
+1103168,Ayako Kimura,W         ,JPN
+1102714,Richard Ringer,M         ,GER
+1102606,Damian Warner,M         ,CAN
+1130478,Tim Glover,M         ,USA
+1130790,Nafissatou Thiam,W         ,BEL
+1128532,Nicholas Hough,M         ,AUS
+1128526,Darlan Romani,M         ,BRA
+1125823,Mustapha Houdadi,M         ,MAR
+1125581,Emmanuel Matadi,M         ,LBR
+1125398,Douwe Amels,M         ,NED
+1124880,Paola Pérez,W         ,ECU
+1124304,Chanice Porter,W         ,JAM
+1124302,Gianmarco Tamberi,M         ,ITA
+1114241,Takashi Eto,M         ,JPN
+1113486,Jake Riley,M         ,USA
+1112762,Helaria Johannes,W         ,NAM
+1112517,Jeron Robinson,M         ,USA
+1112285,Victor Hogan,M         ,RSA
+1111939,Christopher Linke,M         ,GER
+1111717,Juliet Chekwel,W         ,UGA
+1110704,Lotta Harala,W         ,FIN
+1128206,Natasha Wodak,W         ,CAN
+1127745,Maryna Bekh-Romanchuk,W         ,UKR
+1127621,Dutee Chand,W         ,IND
+1126894,Kariem Hussein,M         ,SUI
+1126871,Emma Coburn,W         ,USA
+1126862,Anaso Jobodwana,M         ,RSA
+1126710,Deon Lendore,M         ,TTO
+1126127,Sara Gambetta,W         ,GER
+1125733,Marquis Dendy,M         ,USA
+1108619,Riley Dolezal,M         ,USA
+1102448,Laura Weightman,W         ,GBR
+1125651,Julian Forte,M         ,JAM
+1125384,Qieyang Shenjie,W         ,CHN
+1124907,Pablo Torrijos,M         ,ESP
+1124882,Rose M. Almanza,W         ,CUB
+1124657,Hanane Qallouj,W         ,MAR
+1124171,Lelisa Desisa,M         ,ETH
+1123895,Holly Bradshaw,W         ,GBR
+1130421,Kaur Kivistik,M         ,EST
+1130370,Hanna Krasutska,W         ,UKR
+1213856,Jakob Samuelsson,M         ,SWE
+1129444,Faith Kipyegon,W         ,KEN
+1102347,Jazmin Sawyers,W         ,GBR
+1102030,Calli Hauger-Thackery,W         ,GBR
+1101589,Sondre Nordstad Moen,M         ,NOR
+1100762,Yaimé Pérez,W         ,CUB
+1100637,Carlos Tobalina,M         ,ESP
+1099132,Shanice Craft,W         ,GER
+1124137,Artur Langowski,M         ,BRA
+1123938,Antonella Palmisano,W         ,ITA
+1123568,Daniel Jasinski,M         ,GER
+1123109,Guy Learmonth,M         ,GBR
+1122902,Dominique Scott Efurd,W         ,RSA
+1110697,Florencia Borelli,W         ,ARG
+1110537,Rebekka Haase,W         ,GER
+1110146,Carina Horn,W         ,RSA
+1108839,Dovilė Kilty,W         ,LTU
+1108374,Rachel Cliff,W         ,CAN
+1108105,Imke Vervaet,W         ,BEL
+1105647,Yanique Haye-Smith,W         ,TKS
+1105397,Ryan Gregson,M         ,AUS
+1104519,Yusuke Suzuki,M         ,JPN
+1123744,Tom Gröschel,M         ,GER
+1123584,Seye Ogunlewe,M         ,NGR
+1122205,Jakub Szyszkowski,M         ,POL
+1122131,Kelsey Card,W         ,USA
+1121913,Ruslan Kurbanov,M         ,UZB
+1120829,Mathew Sawe,M         ,KEN
+1120795,Jo Un Ok,W         ,PRK
+1120720,Sandi Morris,W         ,USA
+1129416,Martin Grau,M         ,GER
+1129159,Abdelmalik Lahoulou,M         ,ALG
+1128807,Jorge Henrique Vides,M         ,BRA
+1128774,Akani Simbine,M         ,RSA
+1098899,Eivind Henriksen,M         ,NOR
+1047526,Antti Ruuskanen,M         ,FIN
+1216489,Douw Smit,M         ,RSA
+1350181,Mustafa Mahmoud Abdel Khaliq,M         ,EGY
+1264656,Felise Vahai Sosaia,M         ,FRA
+1097827,Irina Rodrigues,W         ,POR
+1128742,Youssef Karam,M         ,KUW
+1128626,Niu Wenbin,M         ,CHN
+1128288,Matea Parlov Koštro,W         ,CRO
+1127954,Claudia Bobocea,W         ,ROU
+1125624,Tori Bowie,W         ,USA
+1125339,Mirna Ortiz,W         ,GUA
+1124996,Sibusiso Matsenjwa,M         ,SWZ
+1122842,Malaika Mihambo,W         ,GER
+1122793,Orlando Ortega,M         ,ESP
+1122716,Chen Chieh,M         ,TPE
+1122665,Pascal Martinot-Lagarde,M         ,FRA
+1104154,Sarah Lavin,W         ,IRL
+1103653,Krystian Zalewski,M         ,POL
+1103595,Natalia Romero,W         ,ESP
+1103125,Paweł Wojciechowski,M         ,POL
+1102808,Alena Mamina,W         ,RUS
+1101656,Viktória Wagner-Gyürkes,W         ,HUN
+1100428,Crystal Emmanuel,W         ,CAN
+1124946,Joanna Jóźwik,W         ,POL
+1123843,Michelle Finn,W         ,IRL
+1123050,Xie Zhenye,M         ,CHN
+1123033,Sini Lällä,W         ,FIN
+1122959,Elisávet Pesirídou,W         ,GRE
+1103657,Albert Reynolds,M         ,LCA
+1120585,Tom Erling Kårbø,M         ,NOR
+1116974,O'Dayne Richards,M         ,JAM
+1116567,Yuka Sato,W         ,JPN
+1115789,Marija Vučenović,W         ,SRB
+1115765,Elianay Pereira,W         ,BRA
+1115581,Kristiina Mäkelä,W         ,FIN
+1115280,Kristin Pudenz,W         ,GER
+1095679,Phyllis Francis,W         ,USA
+1095586,Natasha Morrison,W         ,JAM
+1095004,Serhiy Smelyk,M         ,UKR
+1094536,Joanna Linkiewicz,W         ,POL
+1094167,Alex Wilson,M         ,SUI
+1094126,Eilish McColgan,W         ,GBR
+1093700,Jarret Eaton,M         ,USA
+1122264,Sukhrob Khodyayev,M         ,UZB
+1121496,Shumi Dechasa,M         ,BRN
+1121421,Agnes Raharolahy,W         ,FRA
+1121078,Angelika Mach,W         ,POL
+1120604,Margaret Kipkemboi,W         ,KEN
+1120592,Luc Bruchet,M         ,CAN
+1120293,Ivona Dadic,W         ,AUT
+1119057,Olha Golodna,W         ,UKR
+1119048,Akela Inatta-Jones,W         ,BAR
+1118807,Wang Yu,M         ,CHN
+1118721,Cam Levins,M         ,CAN
+1118546,Stephen Scullion,M         ,IRL
+1118539,Kosei Yamaguchi,M         ,JPN
+1118211,Danielle Williams,W         ,JAM
+1115111,Ratu Banuve Tabakaucoro,M         ,FIJ
+1114242,Denis Lukyanov,M         ,RUS
+1112821,Orlann Oliere,W         ,FRA
+1112564,Anne-Mari Hyryläinen,W         ,FIN
+1112498,Jin Min-Sub,M         ,KOR
+1112456,Shericka Jackson,W         ,JAM
+1116140,Delvine Meringor,W         ,ROU
+1115973,Orazio Cremona,M         ,RSA
+1201527,Odel Jainaga,M         ,ESP
+1109696,Kevin Mayer,M         ,FRA
+1136469,Cruz Hogan,M         ,AUS
+1115323,Mutaz Essa Barshim,M         ,QAT
+1122484,Luvo Manyonga,M         ,RSA
+1122149,Dina Asher-Smith,W         ,GBR
+1112222,Rosalba Chacha,W         ,ECU
+1111676,Julien Watrin,M         ,BEL
+1100025,Carlos Layoy,M         ,ARG
+1098929,Barakat Al-Harthi,M         ,OMA
+1098364,Gayanthika Thushari Artigala,W         ,SRI
+1098063,Morgann LeLeux,W         ,USA
+1097793,Juan Manuel Cano,M         ,ARG
+1097545,Gabriela Petrova,W         ,BUL
+1097009,Femi Ogunode,M         ,QAT
+1092913,Simon Magakwe,M         ,RSA
+1257167,Ethan Dabbs,M         ,USA
+1091127,Angelica Bengtsson,W         ,SWE
+1089640,Carolin Schäfer,W         ,GER
+1115078,Jessica Stenson,W         ,AUS
+1112698,Laura Hottenrott,W         ,GER
+1111872,Aurel Manga,M         ,FRA
+1110692,Kevin Campion,M         ,FRA
+1110616,Alex Quiñónez,M         ,ECU
+1110593,Lorraine Ugen,W         ,GBR
+1110501,Javier Cienfuegos,M         ,ESP
+1109706,Jessica Warner-Judd,W         ,GBR
+1122090,Tasama Moogas,M         ,ISR
+1121721,Monika Weigertová,W         ,SVK
+1121697,Sage Walker,W         ,CAN
+1121639,Dmitriy Sorokin,M         ,RUS
+1121506,Bruno Hortelano,M         ,ESP
+1121105,Davide Re,M         ,ITA
+1120868,Anouk Vetter,W         ,NED
+1111158,Kalkidan Gezahegne,W         ,BRN
+1110625,Caster Semenya,W         ,RSA
+1110408,Carolina Robles,W         ,ESP
+1109288,Hanna Klein,W         ,GER
+1109255,Django Lovett,M         ,CAN
+1130118,Oleksandr Nychyporchuk,M         ,UKR
+1108468,Suguru Osako,M         ,JPN
+1096651,Emily Diamond,W         ,GBR
+1096601,Andrew Riley,M         ,JAM
+1096156,Fernanda Raquel Martins,W         ,BRA
+1095520,Katarina Johnson-Thompson,W         ,GBR
+1109531,Hanne Claes,W         ,BEL
+1109507,Fabienne Schlumpf,W         ,SUI
+1109479,Elaine Thompson-Herah,W         ,JAM
+1089070,Kateřina Cachová,W         ,CZE
+1089021,Kristin Gierisch,W         ,GER
+1088852,Anna Kiełbasińska,W         ,POL
+1088493,Yadisleidy Pedroso,W         ,ITA
+1088100,Angelika Cichocka,W         ,POL
+1086730,Jenny Simpson,W         ,USA
+1086296,Maor Tiyouri,W         ,ISR
+1086105,Yuka Takashima,W         ,JPN
+1084907,Majed El Dein Ghazal,M         ,SYR
+1084792,Rasheed Dwyer,M         ,JAM
+1083965,Chantel Malone,W         ,IVB
+1083521,Rosângela Santos,W         ,BRA
+1082911,Natoya Goule-Toppin,W         ,JAM
+1120302,Caden Shields,M         ,NZL
+1119130,Ayuko Suzuki,W         ,JPN
+1118481,Irena Gillarová,W         ,CZE
+1118297,Lorène Dorcas Bazolo,W         ,POR
+1107975,Hamish Carson,M         ,NZL
+1107390,W.K.L.A. Nimali,W         ,SRI
+1107159,Galina Yakusheva,W         ,KAZ
+1106857,Mária Katerinka Czaková,W         ,SVK
+1106263,Mergen Mammedov,M         ,TKM
+1106162,Emily Sisson,W         ,USA
+1105621,Sha'Keela Saunders,W         ,USA
+1105485,Larbi Bouraada,M         ,ALG
+1105368,Lotta Kemppinen,W         ,FIN
+1104833,Anna Terlyukevich,W         ,BLR
+1104811,Kamaria Durant,W         ,TTO
+1104552,Ophélie Claude-Boxberger,W         ,FRA
+1104358,Tatsiana Khaladovich,W         ,BLR
+1109271,Chris Benard,M         ,USA
+1109239,Aléxandros Papamihaíl,M         ,GRE
+1108954,Shota Iizuka,M         ,JPN
+1108796,Eric Cray,M         ,PHI
+1108470,Ben Williams,M         ,GBR
+1082712,Romana Maláčová,W         ,CZE
+1082534,Ramil Guliyev,M         ,TUR
+1081541,Ato Ibáñez,M         ,SWE
+1080721,Henry Frayne,M         ,AUS
+1117260,Shelby Houlihan,W         ,USA
+1115205,Xu Huiqin,W         ,CHN
+1114050,Hassan Mead,M         ,USA
+1113132,Robert Sobera,M         ,POL
+1112507,Brendan Boyce,M         ,IRL
+1111627,Rkia El Moukim,W         ,MAR
+1080605,Dong Guojian,M         ,CHN
+1080498,Rababe Arafi,W         ,MAR
+1080269,Alessia Trost,W         ,ITA
+1080254,Camila Pirelli,W         ,PAR
+1076886,Artur Brzozowski,M         ,POL
+1076676,Gavin Smellie,M         ,CAN
+1076294,Pascal Mancini,M         ,SUI
+1075874,Jamal Wilson,M         ,BAH
+1108394,Markéta Červenková,W         ,CZE
+1105596,Phil Norman,M         ,GBR
+1105326,Victoria Ohuruogu,W         ,GBR
+1105295,Daniel Mateo,M         ,ESP
+1104608,Jerneja Smonkar,W         ,SLO
+1104493,Andressa de Morais,W         ,BRA
+1103097,Maria Lucelly Murillo,W         ,COL
+1103056,Pavel Maslák,M         ,CZE
+1111504,Máté Helebrandt,M         ,HUN
+1111484,Georgia Bell,W         ,GBR
+1111362,Mariana Grasielly Marcelino,W         ,BRA
+1110792,Zane Robertson,M         ,NZL
+1110542,Brandon Jones,M         ,BIZ
+1110473,Dawid Tomala,M         ,POL
+1110248,Abdi Nageeye,M         ,NED
+1110205,Alena Sobaleva,W         ,BLR
+1094692,Jodie Williams,W         ,GBR
+1094293,Maureen Koster,W         ,NED
+1093933,Nektaria Panagi,W         ,CYP
+1092999,Georni Jaramillo,M         ,VEN
+1091511,Michelle-Lee Ahye,W         ,TTO
+1108503,Maruša Černjul,W         ,SLO
+1108275,Christina Clemons,W         ,USA
+1102872,Yorsiris Urrutia,W         ,COL
+1101735,Erica de Sena,W         ,BRA
+1098902,Déborah Rodríguez,W         ,URU
+1098818,Sara Catarina Ribeiro,W         ,POR
+1098448,Su Xinyue,W         ,CHN
+1097916,Camille French,W         ,NZL
+1097589,Lovisa Lindh,W         ,SWE
+1097580,Omar Craddock,M         ,USA
+1097030,Kelsie Ahbe-Holahan,W         ,CAN
+1096921,Marija Vuković,W         ,MNE
+1102743,Yuki Kawauchi,M         ,JPN
+1101809,Fyodor Shutov,M         ,RUS
+1100638,Edgar Rivera,M         ,MEX
+1100215,Eliška Staňková,W         ,CZE
+1098926,Adhanom Abraha,M         ,SWE
+1098584,Andrew Robertson,M         ,GBR
+1098091,Jak Ali Harvey,M         ,TUR
+1096819,Aleksey Fyodorov,M         ,RUS
+1096245,Jen Selman,W         ,GBR
+1096185,Denia Caballero,W         ,CUB
+1095016,Laila Ferrer e Silva,W         ,BRA
+1094153,Caroline Bonde Holm,W         ,DEN
+1075650,Emily Infeld,W         ,USA
+1072802,Rachel Seaman,W         ,CAN
+1072608,Tiffany Porter,W         ,GBR
+1072456,Jenn Suhr,W         ,USA
+1070737,Natalia Ducó,W         ,CHI
+1069359,Katalin Garami,W         ,HUN
+1069331,Laura Igaune,W         ,LAT
+1067009,Viktória Madarász,W         ,HUN
+1066851,Ruan de Vries,M         ,RSA
+1066500,Sandra Galvis,W         ,COL
+1065229,Hanna Minenko,W         ,ISR
+1064837,Kimberly Williams,W         ,JAM
+1096217,Charlotta Fougberg,W         ,SWE
+1139839,Bernhard Seifert,M         ,GER
+1094706,Shanieka Ricketts,W         ,JAM
+1107431,Ümmü Kiraz,W         ,TUR
+1107315,Jimmy Vicaut,M         ,FRA
+1107173,Iryna Vaskouskaya,W         ,BLR
+1106705,Kimberly Williamson,W         ,JAM
+1104147,Tara Palm,W         ,AUS
+1103999,Shane Brathwaite,M         ,BAR
+1103648,Aliona Dubitskaya,W         ,BLR
+1103588,Paolo Dal Molin,M         ,ITA
+1090726,Jess Piasecki,W         ,GBR
+1090373,Julia Takács,W         ,ESP
+1090289,Neide Dias,W         ,POR
+1090063,Liu Tingting,W         ,CHN
+1089948,Renaud Lavillenie,M         ,FRA
+1088860,Eusebio Cáceres,M         ,ESP
+1087483,Cindy Roleder,W         ,GER
+1086947,Stephenie Ann McPherson,W         ,JAM
+1064545,Kate Van Buskirk,W         ,CAN
+1060736,Mike Rodgers,M         ,USA
+1057468,Yarisley Silva,W         ,CUB
+1055928,Noélie Yarigo,W         ,BEN
+1093836,Gesa-Felicitas Krause,W         ,GER
+1093680,Anzhelika Sidorova,W         ,RUS
+1093544,Zita Kácser,W         ,HUN
+1093176,Paulina Guba,W         ,POL
+1092233,Geisa Arcanjo,W         ,BRA
+1089750,Johana Ordóñez,W         ,ECU
+1087929,Sandra Elkasević,W         ,CRO
+1094221,Elkanah Kibet,M         ,USA
+1094014,Raphael Pallitsch,M         ,AUT
+1093712,Henrik Børkja Ingebrigtsen,M         ,NOR
+1092617,Marie-Laurence Jungfleisch,W         ,GER
+1091497,Maria Michta-Coffey,W         ,USA
+1091153,Stephen Kiprotich,M         ,UGA
+1090894,Jonathan Mellor,M         ,GBR
+1090803,Yoann Kowal,M         ,FRA
+1090338,Iga Baumgart-Witan,W         ,POL
+1089708,Linden Hall,W         ,AUS
+1103504,Melissa Courtney-Bryant,W         ,GBR
+1102078,Tatiane Raquel da Silva,W         ,BRA
+1101784,Nadine Broersen,W         ,NED
+1101652,Kirani James,M         ,GRN
+1082762,Lopez Lomong,M         ,USA
+1082596,Phylicia George,W         ,CAN
+1081105,Nikola Ogrodníková,W         ,CZE
+1081015,Benjamin Choquert,M         ,FRA
+1080915,Arkadiusz Gardzielewski,M         ,POL
+1080806,Mykyta Nesterenko,M         ,UKR
+1080790,Alonso Edward,M         ,PAN
+1087728,Laura Redondo,W         ,ESP
+1087276,Ivan Losev,M         ,UKR
+1085246,Genevieve Gregson,W         ,AUS
+1084973,Ana Šimić,W         ,CRO
+1052948,Gabriela Traña,W         ,CRC
+1052284,Javier Guerra,M         ,ESP
+1051075,Sunette Viljoen,W         ,RSA
+1048443,Sara Hall,W         ,USA
+1047380,Christina Schwanitz,W         ,GER
+1043034,Rosa Rodríguez,W         ,NULL
+1034412,Inês Henriques,W         ,POR
+1033317,Grace Njue,W         ,KEN
+1033067,Lisa Weightman,W         ,AUS
+1031138,Valerie Adams,W         ,NZL
+1025949,Chris Thompson,M         ,GBR
+1089560,Gong Lijiao,W         ,CHN
+1088847,Kim Kuk-Young,M         ,KOR
+1087528,Donald Thomas,M         ,BAH
+1101550,Juan Antonio Pérez,M         ,ESP
+1101058,Claudio Michel Stecchi,M         ,ITA
+1100439,Tynia Gaither,W         ,BAH
+1080230,Maja Ćirić,W         ,SRB
+1079910,Léa Sprunger,W         ,SUI
+1079902,Kateřina Šafránková,W         ,CZE
+1079402,Antonio Infantino,M         ,ITA
+1079042,Benjamin Kiplagat,M         ,UGA
+1078482,Raphael Holzdeppe,M         ,GER
+1077889,Lamiae Lhabze,W         ,MAR
+1077688,Tyrone Smith,M         ,BER
+1075206,Djénébou Danté,W         ,MLI
+1075107,Ayad Lamdassem,M         ,ESP
+1074679,Agnė Šerkšnienė,W         ,LTU
+1073861,Winny Chebet,W         ,KEN
+1082589,Ivana Lončarek,W         ,CRO
+1082548,Melissa Duncan,W         ,AUS
+1082190,Joanna Fiodorow,W         ,POL
+1079666,Jakub Holuša,M         ,CZE
+1079471,Arnis Rumbenieks,M         ,LAT
+1079054,Ben True,M         ,USA
+1078360,Nadezhda Dusanova,W         ,UZB
+1078310,Kevin Borlée,M         ,BEL
+1077742,Sviatlana Kudzelich,W         ,BLR
+1077508,Paraskeví Papahrístou,W         ,GRE
+1077326,Nia Ali,W         ,USA
+1087236,Jade Lally,W         ,GBR
+1084126,Barbara Špiler,W         ,SLO
+1080719,Hamza Sahili,M         ,MAR
+1080133,Valdiléia Martins,W         ,BRA
+1079617,Masumi Fuchise,W         ,JPN
+1079256,Apostolos Parellis,M         ,CYP
+1078940,Brigita Virbalytė-Dimšienė,W         ,LTU
+1078589,Zalina Marghieva,W         ,MDA
+1025338,Abdi Abdirahman,M         ,USA
+1015084,Mélina Robert-Michon,W         ,FRA
+1012820,Hungary,W         ,HUN
+1010932,Daichi Sawano,M         ,JPN
+1007164,Nigeria,W         ,NGR
+1007052,Sweden,M         ,SWE
+1006869,Liberia,M         ,LBR
+1006510,Great Britain,M         ,GBR
+1100228,Matteo Giupponi,M         ,ITA
+1100148,Fanny Smets,W         ,BEL
+1098499,Janieve Russell,W         ,JAM
+1097156,Kevin López,M         ,ESP
+1096812,Michaela Meijer,W         ,SWE
+1096521,Mujinga Kambundji,W         ,SUI
+1076524,Ariana Ince,W         ,USA
+1076415,Kseniya Aksyonova,W         ,RUS
+1076390,David McNeill,M         ,AUS
+1075159,Nastassia Yatsevich,W         ,BLR
+1074844,Giovanni Faloci,M         ,ITA
+1073931,Karoline Bjerkeli Grøvdal,W         ,NOR
+1073483,Jeff Riseley,M         ,AUS
+1071560,Daniele Meucci,M         ,ITA
+1073546,Kemar Hyman,M         ,CAY
+1072339,Katharina Steinruck,W         ,GER
+1072166,Marcel Lomnický,M         ,SVK
+1071848,Martin Wierig,M         ,GER
+1071805,Daniela Stanciu,W         ,ROU
+1071756,Solange Jesus,W         ,POR
+1070621,Kemal Mešić,M         ,BIH
+1066450,Abdelaati Iguider,M         ,MAR
+1066033,Patrícia Mamona,W         ,POR
+1078553,Andrii Protsenko,M         ,UKR
+1078521,Maja Mihalinec Zidar,W         ,SLO
+1076341,English Gardner,W         ,USA
+1075855,Jorge Fernández,M         ,CUB
+1074818,Jeremy Dodson,M         ,SAM
+1073308,Valentina Meredova,W         ,TKM
+1073032,Annimari Korte,W         ,FIN
+1072856,Dalilah Muhammad,W         ,USA
+1071584,Lu Huihui,W         ,CHN
+1070623,Melissa Bishop-Nriagu,W         ,CAN
+1070306,Khalid Choukoud,M         ,NED
+1070247,Beate Schrott,W         ,AUT
+1065668,Nastassia Mironchyk-Ivanova,W         ,BLR
+1006376,South Africa,M         ,RSA
+1094465,Marco Fassinotti,M         ,ITA
+1069514,Tuomas Seppänen,M         ,FIN
+1068408,Mirela Demireva,W         ,BUL
+1066302,Asha Philip,W         ,GBR
+1065143,Rabah Yousif,M         ,GBR
+1064731,Mostafa Hicham Elgamel,M         ,EGY
+1064340,Anita Włodarczyk,W         ,POL
+1062049,Schillonie Calvert-Powell,W         ,JAM
+1060480,Konstadínos Douvalídis,M         ,GRE
+1065940,Kara Winger,W         ,USA
+1065272,Steph Twell,W         ,GBR
+1064794,Éloyse Lesueur-Aymonin,W         ,FRA
+1064376,Laura Maasik,W         ,EST
+1063458,Tina Šutej,W         ,SLO
+1062793,Marius Žiūkas,M         ,LTU
+1062687,Ivana Španović,W         ,SRB
+1061399,Wang Zheng,W         ,CHN
+1060765,Benjamin Compaoré,M         ,FRA
+1094449,Olga Safronova,W         ,KAZ
+1093736,Hanna Hatsko,W         ,UKR
+1093328,Dafne Schippers,W         ,NED
+1088824,Airinė Palšytė,W         ,LTU
+1088529,Su Bingtian,M         ,CHN
+1059884,Rafał Augustyn,M         ,POL
+1059266,Tiidrek Nurme,M         ,EST
+1057795,Liz Parnova,W         ,AUS
+1057539,Anastasia Le-Roy,W         ,JAM
+1055389,Hitomi Niiya,W         ,JPN
+1054932,Dani Stevens,W         ,AUS
+1054406,Shelly-Ann Fraser-Pryce,W         ,JAM
+1051238,Sara Slott Petersen,W         ,DEN
+1050996,Petr Svoboda,M         ,CZE
+1050770,Kelly-Ann Baptiste,W         ,TTO
+1050676,Tania Vicenzino,W         ,ITA
+1050486,Ahymará Espinoza,W         ,VEN
+1045289,Michael Mason,M         ,CAN
+1062445,Liu Hong,W         ,CHN
+1060607,Antigóni Drisbióti,W         ,GRE
+1058894,Emre Zafer Barnes,M         ,TUR
+1057776,Bianca Ghelber,W         ,ROU
+1088429,Noelle Montcalm,W         ,CAN
+1087462,Blessing Okagbare,W         ,NGR
+1087112,Anne Zagré,W         ,BEL
+1086978,Yasmani Copello,M         ,TUR
+1086727,Keisuke Ushiro,M         ,JPN
+1084869,Giovanna Epis,W         ,ITA
+1083599,Marius Cocioran,M         ,ROU
+1042829,Dragana Tomašević,W         ,SRB
+1037063,Krisztián Pars,M         ,HUN
+1036446,Eşref Apak,M         ,TUR
+1031744,Martina Ratej,W         ,SLO
+1029050,Dimítrios Tsiámis,M         ,GRE
+1027405,China,M         ,CHN
+1026986,South Africa,W         ,RSA
+1025568,Denmark,W         ,DEN
+1025082,Ireland,W         ,IRL
+1081988,Elena Vallortigara,W         ,ITA
+1081688,Meraf Bahta,W         ,SWE
+1079766,Abigail Irozuru,W         ,GBR
+1078745,Lilia Fisikovici,W         ,MDA
+1076163,Sally Kipyego,W         ,USA
+1075647,Jamile Samuel,W         ,NED
+1075504,Wenda Nel,W         ,RSA
+1073438,Jarkko Kinnunen,M         ,FIN
+1072369,Paul Pollock,M         ,IRL
+1071542,Asmir Kolašinac,M         ,SRB
+1060037,Kamila Lićwinko,W         ,POL
+1059844,Marcin Lewandowski,M         ,POL
+1053602,Molly Huddle,W         ,USA
+1047751,Zuzana Hejnová,W         ,CZE
+1043592,Eleni Artymata,W         ,NULL
+1038519,Olga Rypakova,W         ,KAZ
+1034064,Kenenisa Bekele,M         ,ETH
+1033806,Kathryn Mitchell,W         ,AUS
+1057258,Liliana Cá,W         ,POR
+1057124,Irvette van Zyl,W         ,RSA
+1055543,Stephen Mokoka,M         ,RSA
+1054451,Nikoléta Kiriakopoúlou,W         ,GRE
+1054418,Valentina Trapletti,W         ,ITA
+1023527,Netherlands,W         ,NED
+1021763,Lois Maikel Martínez,M         ,ESP
+1021345,Spain,W         ,ESP
+1032393,Ivory Coast,W         ,CIV
+1031859,Japan,W         ,JPN
+1029744,Norway,W         ,NOR
+1027081,Kazakhstan,W         ,KAZ
+1026737,Brazil,W         ,BRA
+1016492,Aggelikí Makrí,W         ,GRE
+1008101,Canada,M         ,CAN
+1005337,Spain,M         ,ESP
+1004198,Switzerland,M         ,SUI
+1002706,Kenya,M         ,KEN
+1071434,Iríni Vasilíou,W         ,GRE
+1071132,Dana Abdulrazak,W         ,IRQ
+1070088,Morhad Amdouni,M         ,FRA
+1069061,Diana Suumann,W         ,EST
+1068277,Marc Mundell,M         ,RSA
+1067480,Fionnuala McCormack,W         ,IRL
+1067466,Ana Cabecinha,W         ,POR
+1067407,Sarah Klein,W         ,AUS
+1065553,Lauren Boden,W         ,AUS
+1064216,Eliane Martins,W         ,BRA
+1054390,Madara Palameika,W         ,LAT
+1053623,Iryna Novozhylova,W         ,UKR
+1053479,Horacio Nava,M         ,MEX
+1053203,Susan Krumins,W         ,NED
+1051360,Lisa Ryzih,W         ,GER
+1050574,Andrés Chocho,M         ,ECU
+1049568,Eliud Kipchoge,M         ,KEN
+1049362,Ehsan Hadadi,M         ,IRI
+1047524,Nadine Müller,W         ,GER
+1045242,Roman Fosti,M         ,EST
+1062893,Lynsey Sharp,W         ,GBR
+1061960,Dimitri Bascou,M         ,FRA
+1061450,Mahau Suguimati,M         ,BRA
+1059341,Erika Kinsey,W         ,SWE
+1056435,Beverly Ramos,W         ,PUR
+1055383,Halima Hachlaf,W         ,MAR
+1051907,Galen Rupp,M         ,USA
+1051765,Ekateríni Stefanídi,W         ,GRE
+1021086,Ireland,M         ,IRL
+1020401,India,W         ,IND
+1012339,Hungary,M         ,HUN
+1010058,Nataliya Semenova,W         ,UKR
+1008804,Botswana,M         ,BOT
+1007786,Denmark,M         ,DEN
+1005604,United States,W         ,USA
+1044230,Karolina Nadolska,W         ,POL
+1042519,Ivet Lalova-Collio,W         ,BUL
+1040562,Nick Willis,M         ,NZL
+1040536,Nadiya Borovska,W         ,UKR
+1040480,Nelson Évora,M         ,POR
+1040237,Ryuta Kondo,M         ,JPN
+1038756,Yahya Berrabah,M         ,MAR
+1034110,Levern Spencer,W         ,LCA
+1031453,Matej Tóth,M         ,SVK
+1029006,Trinidad & Tobago,M         ,TTO
+1049991,Yelena Sokolova,W         ,RUS
+1046434,Zersenay Tadese,M         ,ERI
+1046090,Svetlana Radzivil,W         ,UZB
+1037884,Trinidad & Tobago,W         ,TTO
+1037272,Allyson Felix,W         ,USA
+1035133,Michelle Carter,W         ,USA
+1033990,Seema Punia,W         ,IND
+1032277,Patricia Sarrapio,W         ,ESP
+1031674,Portugal,M         ,POR
+1028682,Caterine Ibargüen,W         ,COL
+1001382,Cuba,W         ,CUB
+1000801,Brazil,M         ,BRA
+1004977,Jamaica,M         ,JAM
+1027171,Selly Chepyego,W         ,KEN
+1013968,Jesús Ángel García,M         ,ESP
+1013383,Malindi Elmore,W         ,CAN
+1005695,Japan,M         ,JPN
+1004041,Belarus,W         ,BLR
+1003650,Great Britain,W         ,GBR
+1004591,Australia,M         ,AUS
+1028815,Sri Lanka,M         ,SRI
+1028422,Romania,M         ,ROU
+1027257,Colombia,M         ,COL
+1020676,Belgium,M         ,BEL
+1020375,Portugal,W         ,POR
+1019889,Netherlands,M         ,NED
+1017041,Czech Republic,M         ,CZE
+1013747,Poland,W         ,POL
+1000884,Australia,W         ,AUS
+1000130,Ivan Tikhon,M         ,BLR
+1013178,Slovenia,W         ,SLO
+1008859,France,W         ,FRA
+1007221,Ukraine,W         ,UKR
+1006686,João Vieira,M         ,POR
+1006460,Italy,M         ,ITA
+1005047,Ghana,M         ,GHA
+1004638,Jamaica,W         ,JAM
+1000194,Qatar,M         ,QAT
+1351732,Job Geerds,M         ,NED
+1350837,Tebello Ramakongoana,M         ,LES
+1350244,Merhawi Mebrahtu,M         ,ERI
+1349769,Vivian Chebet,W         ,KEN
+1348874,Henok Tesfay,M         ,ERI
+1348739,Cheickna Traore,M         ,CIV
+1346032,Yukiko Umeno,W         ,JPN
+1344904,Camille Moutard,W         ,FRA
+1344035,Sofia Ramos,W         ,MEX
+1342098,Rebecca Henderson,W         ,AUS
+1328417,Ismail Nezir,M         ,TUR
+1328385,Baldvin Thór Magnússon,M         ,ISL
+1327642,Peyton Craig,M         ,AUS
+1327498,Sembo Almayew,W         ,ETH
+1324843,Seiya Sunada,M         ,JPN
+1324224,Yuki Joseph Nakajima,M         ,JPN
+1323271,Edymar Brea,W         ,VEN
+1308779,Brian Raats,M         ,RSA
+1308712,Noah Kibet,M         ,KEN
+1308647,Gaku Hoshi,M         ,JPN
+1308196,Sharifa Davronova,W         ,UZB
+1308119,Eliška Martínková,W         ,CZE
+1304670,Ruben Querinjean,M         ,NULL
+1297468,Mattia Furlani,M         ,ITA
+1296765,Merlin Hummel,M         ,GER
+1296498,Shirley Nekhubui,W         ,RSA
+1296156,Tomas Kersulis,M         ,LTU
+1295395,Dennick Luke,M         ,DMA
+1295218,Calab Law,M         ,AUS
+1293847,Savannah Sutherland,W         ,CAN
+1293539,Rossene Mpingo,M         ,COD
+1293379,Katie Hayward,W         ,AUS
+1293322,Simon Batz,M         ,GER
+1289820,Abraham Guem,M         ,SSD
+1288942,Krishan Kumar,M         ,IND
+1288591,José Oswaldo Calel,M         ,GUA
+1288257,Wiseman Mukhobe,M         ,KEN
+1287833,Blessing Afrifa,M         ,ISR
+1287262,Bree Masters,W         ,AUS
+1287162,Karolína Maňasová,W         ,CZE
+1286718,Salif Mane,M         ,USA
+1286562,Yual Reath,M         ,AUS
+1284998,Yuno Yamanaka,W         ,JPN
+1283805,Jalani Davis,W         ,USA
+1283721,Naquille Harris,M         ,SKN
+1281682,Omar Elkhatib,M         ,POR
+1281240,Jeremie Lararaudeuse,M         ,MRI
+1279383,Nahuel Carabaña,M         ,AND
+1278708,María Luz Andia,W         ,PER
+1277844,Valentin Betoudji,M         ,CHA
+1277360,Bosena Mulate,W         ,ETH
+1276858,Argentina Valdepeñas,W         ,MEX
+1276552,Tima Seikeseye Godbless,W         ,NGR
+1275749,Lucas Nervi,M         ,CHI
+1275666,Rasheed Broadbell,M         ,JAM
+1275533,Nicola Tuthill,W         ,IRL
+1274830,Adaejah Hodge,W         ,IVB
+1274711,Tade Ojora,M         ,GBR
+1273928,Riley McGown,M         ,AUS
+1273008,Jeff Erius,M         ,FRA
+1272939,Eugene Amo-Dadzie,M         ,GBR
+1272772,Leonard Chemutai,M         ,UGA
+1272689,Manon Trapp,W         ,FRA
+1272270,Oqbe Kibrom,M         ,ERI
+1271845,José Ortíz,M         ,GUA
+1271806,Chan Kin Wa,M         ,MAC
+1270326,Alli Chebures,M         ,UGA
+1269556,Tarsis Orogot,M         ,UGA
+1269290,Liam Van Der Schaaf,M         ,NED
+1268639,Rachelle De Orbeta,W         ,PUR
+1266383,Sokong Pen,M         ,CAM
+1263892,Emelia Chatfield,W         ,USA
+1261452,Abdihamid Nur,M         ,USA
+1260907,Maria Alejandra Carmona,W         ,NCA
+1260709,Krzysztof Kiljan,M         ,POL
+1258335,Gulsunbi Sharifova,W         ,TJK
+1258285,Ceili McCabe,W         ,CAN
+1257539,John Hakizimana,M         ,RWA
+1256002,Michael Voss,M         ,NZL
+1255920,Ichitaka Yamashita,M         ,JPN
+1255818,Nesim Amsellek,M         ,ITA
+1255066,Antia Chamosa,W         ,ESP
+1254848,Boško Kijanović,M         ,SRB
+1254782,Leidy Guerra,W         ,PER
+1254281,Dubem Nwachkwu,M         ,USA
+1252158,Devin Augustine,M         ,TTO
+1251097,Ali Anwar Al-Balushi,M         ,OMA
+1250430,Freweyni Hailu,W         ,ETH
+1249802,Aishath Himna Hassan,W         ,MDV
+1249193,Clement Ducos,M         ,NULL
+1249144,Reimi Yoshimura,W         ,JPN
+1248732,Tessy Ebosele,W         ,ESP
+1247997,Jessika Gbai,W         ,CIV
+1247838,Timothé Mumenthaler,M         ,SUI
+1247088,Michael Saruni,M         ,KEN
+1246694,Lucas Vilar,M         ,BRA
+1246634,Ruben Verheyden,M         ,BEL
+1245959,Kyle Rademeyer,M         ,RSA
+1245726,Wayne Pinnock,M         ,JAM
+1245358,Anna Hall,W         ,USA
+1244862,Cathal Doyle,M         ,IRL
+1243568,Werner Visser,M         ,RSA
+1243420,Niddy Mingilishi,W         ,ZAM
+1242566,Luis Grijalva,M         ,GUA
+1242322,Leah Bertrand,W         ,TTO
+1241746,Brian Fay,M         ,IRL
+1241045,Lin Yu-Tang,M         ,TPE
+1240877,Donát Varga,M         ,HUN
+1240827,Isaac Mpofu,M         ,ZIM
+1240761,Karen Ehrenreich,W         ,DEN
+1240712,Ursula Sanchez,W         ,MEX
+1240109,Edina Jebitok,W         ,KEN
+1239951,Hristína Papadopoúlou,W         ,GRE
+1239766,Catherine Léger,W         ,CAN
+1239434,Santiago Catrofe,M         ,URU
+1239339,Rosemary Chukwuma,W         ,NGR
+1237803,Hirut Meshesha,W         ,ETH
+1237294,Milkesa Mengesha,M         ,ETH
+1237051,Giulia Senn,W         ,SUI
+1236776,Nicole Yeargin,W         ,GBR
+1236490,Winfrida Mweya Makenji,W         ,TAN
+1235389,Abdullahi Hassan,M         ,CAN
+1234667,Julia Mayer,W         ,AUT
+1233725,Thomas Rainhold,M         ,NAM
+1233272,Fedra Aldana Luna,W         ,ARG
+1231902,Mael Gouyette,M         ,FRA
+1231484,Joshua Azzopardi,M         ,AUS
+1230867,Cheyanne Evans-Gray,W         ,GBR
+1230750,Patrik Hájek,M         ,CZE
+1229981,Safiatou Acquaviva,W         ,GUI
+1229246,Dalia Kaddari,W         ,ITA
+1228779,Abigail Pawlett,W         ,GBR
+1228726,Bálint Szeles,M         ,HUN
+1227366,Oscar Chelimo,M         ,UGA
+1227191,Hawi Feysa,W         ,ETH
+1226964,Jeisson Alexander Suárez,M         ,COL
+1226496,Kristjan Čeh,M         ,SLO
+1226179,Charlie Dobson,M         ,GBR
+1225863,Sun Yue,W         ,CHN
+1224182,Tiffany Flynn,W         ,USA
+1224065,Zakithi Nene,M         ,RSA
+1223396,Naoki Koyama,M         ,JPN
+1223204,Liam Adcock,M         ,AUS
+1223030,Shaun Maswanganyi,M         ,RSA
+1222003,Zeng Jianhang,M         ,CHN
+1221986,Sean Bailey,M         ,JAM
+1221375,Rūta Kate Lasmane,W         ,LAT
+1221339,Dímitra Gnafáki,W         ,GRE
+1220956,Ahmed Jaziri,M         ,TUN
+1219820,Marileidy Paulino,W         ,DOM
+1219579,Zhang Jingqiang,M         ,CHN
+1219403,Ben Pattison,M         ,GBR
+1218933,Elzan Bibić,M         ,SRB
+1218399,Mikko Paavola,M         ,FIN
+1217796,Athing Mu,W         ,USA
+1217590,Rahma Tahiri,W         ,MAR
+1217331,Flavie Renouard,W         ,FRA
+1217239,Kinga Królik,W         ,POL
+1217030,Wilfried Happio,M         ,FRA
+1216342,John Rivera,M         ,PUR
+1216320,Polina Tkalich,W         ,RUS
+1215851,Fortunate Chidzivo,W         ,ZIM
+1215616,Ji Li,W         ,CHN
+1214228,Wadeline Jonathas,W         ,USA
+1214056,Carl Bengtström,M         ,SWE
+1214019,Ricky Petrucciani,M         ,SUI
+1213501,Aleksandra Nacheva,W         ,BUL
+1213478,Mohamed Amin Touati,M         ,TUN
+1212995,Nathaniel Seiler,M         ,GER
+1212151,Saraswati Chaudhary,W         ,NEP
+1211691,Ackera Nugent,W         ,JAM
+1209995,Ryan Zeze,M         ,FRA
+1209351,Jach Majok Wol,M         ,SSD
+1209191,Wictor Petersson,M         ,SWE
+1208915,Bernat Canet,M         ,ESP
+1207789,Juan Pacheco,M         ,MEX
+1207137,Lina Licona,W         ,COL
+1205549,Valeria Ortuño,W         ,MEX
+1205048,Magdalena Lindner,W         ,AUT
+1204244,Mette Baas,W         ,FIN
+1203825,Zhang Linru,W         ,CHN
+1203616,Alex Haydock-Wilson,M         ,GBR
+1203275,Cheswill Johnson,M         ,RSA
+1202437,Lauren Hoffman,W         ,PHI
+1201737,Alison dos Santos,M         ,BRA
+1201635,Aaliyah Butler,W         ,USA
+1201453,Jennifer Rodriguez,W         ,COL
+1201176,Shakeem Smith,M         ,BAH
+1200803,Ryan Mphahlele,M         ,RSA
+1199663,Benard Kibet,M         ,KEN
+1199599,Rose Chelimo,W         ,BRN
+1199280,Jason Van Rooyen,M         ,RSA
+1199221,Tadesse Getahon,M         ,ISR
+1199147,Nastassia Rarouskaya,W         ,BLR
+1199105,François Grailet,M         ,LUX
+1199071,Rose Nathike Lokonyen,W         ,SSD
+1198680,Chayenne da Silva,W         ,BRA
+1198661,Kenny Bednarek,M         ,USA
+1198270,Weronika Lizakowska,W         ,POL
+1197978,Val Constien,W         ,USA
+1197875,Jack Anstey,M         ,AUS
+1197859,Ayyasamy Dharun,M         ,IND
+1197449,Lilian Rengeruk,W         ,KEN
+1196783,Jonas Raess,M         ,SUI
+1196558,Tess Kirsopp-Cole,W         ,AUS
+1196396,Mahamat Bachir Ahmat,M         ,CHA
+1196087,Lena Kandissounon,W         ,FRA
+1195973,Mouhamadou Fall,M         ,FRA
+1195636,Andrina Hodel,W         ,SUI
+1195335,Elena Bruckner,W         ,USA
+1195277,John Mason,M         ,CAN
+1195171,Géraldine Frey,W         ,SUI
+1194827,Yassine El Fathaoui,M         ,ITA
+1194494,Abby Steiner,W         ,USA
+1194084,Hachim Maaroufou,M         ,COM
+1194040,Davisleidis L. Velazco,W         ,CUB
+1193766,Luxolo Adams,M         ,RSA
+1193717,Dorian Rostan Keletela,M         ,CGO
+1193598,Jovan van Vuuren,M         ,RSA
+1192385,Vernon Turner,M         ,USA
+1192237,John Fitzsimons,M         ,IRL
+1192020,Fanny Quenot,W         ,FRA
+1191869,Alejandra Ortega,W         ,MEX
+1191608,Benjamin Enzema,M         ,GEQ
+1191534,Nick Smidt,M         ,NED
+1191402,Masai Russell,W         ,USA
+1191275,Phil Sesemann,M         ,GBR
+1190957,Adrián Ben,M         ,ESP
+1190706,Regine Tugade,W         ,GUM
+1190641,Josette Andrews,W         ,USA
+1190396,Reed Fischer,M         ,USA
+1190389,Amber Anning,W         ,GBR
+1190265,Jochem Dobber,M         ,NED
+1190256,Natassha McDonald,W         ,CAN
+1189947,Daisy Osakue,W         ,ITA
+1189062,Maddison-Lee Wesche,W         ,NZL
+1188711,Shalysa Wray,W         ,CAY
+1188175,Diego García,M         ,ESP
+1187346,Michal Morvay,M         ,SVK
+1187272,Caisa-Marie Lindfors,W         ,SWE
+1187056,Bo Kanda Lita Baehre,M         ,GER
+1186671,Jazz Shukla,W         ,CAN
+1186545,Jordy Jiménez,M         ,ECU
+1186496,Kaoutar Farkoussi,W         ,MAR
+1185552,Zaynab Dosso,W         ,ITA
+1185366,Tuğba Danişmaz,W         ,TUR
+1185074,Max Hrelja,M         ,SWE
+1184633,Helen Bekele,W         ,SUI
+1184049,Eliott Crestan,M         ,BEL
+1183880,Andres Salazar,M         ,ESA
+1183403,Zhu Yaming,M         ,CHN
+1183077,Fatoumata Diallo,W         ,POR
+1182595,Camryn Rogers,W         ,CAN
+1182043,Noureddine Hadid,M         ,LBN
+1181624,Alberto González,M         ,ESP
+1181542,Benjamin Robert,M         ,FRA
+1180996,Selemon Barega,M         ,ETH
+1180903,Jordan Alejandro Díaz,M         ,ESP
+1179926,Tamari Davis,W         ,USA
+1179676,Sintayehu Vissa,W         ,ITA
+1178931,Nayoka Clunis,W         ,JAM
+1178749,Jesús Gómez,M         ,ESP
+1178121,Panayióta Dósi,W         ,GRE
+1178096,Stephen Abosi,M         ,BOT
+1177638,Ben Connor,M         ,GBR
+1177078,Vanessa Grimm,W         ,GER
+1177051,Georgia Hulls,W         ,NZL
+1176960,Milana Tirnanić,W         ,SRB
+1176920,Gabriella O'Grady,W         ,AUS
+1176725,Tom Elmer,M         ,SUI
+1176703,Abu Salim Mayanja,M         ,UGA
+1176459,Felix Svensson,M         ,SUI
+1176349,Mateusz Borkowski,M         ,POL
+1176316,Letesenbet Gidey,W         ,ETH
+1176193,Rellie Kaputin,W         ,PNG
+1176082,Morgan McDonald,M         ,AUS
+1175382,Laviai Nielsen,W         ,GBR
+1175122,Tyler Mason,M         ,JAM
+1174820,Roxana Gómez,W         ,CUB
+1174269,José Luis Doctor,M         ,MEX
+1174085,Taylor Campbell,M         ,GBR
+1172132,Klaudia Siciarz,W         ,POL
+1171962,Francesco Fortunato,M         ,ITA
+1171871,Quanesha Burks,W         ,USA
+1171210,Julian Walsh,M         ,JPN
+1171155,Song Jiayuan,W         ,CHN
+1171028,Jah-Nhai Perinchief,M         ,BER
+1170592,Tyra Gittens,W         ,TTO
+1170085,Celeste Mucci,W         ,AUS
+1169799,Nastassia Maslava,W         ,BLR
+1169313,Vladyslav Malykhin,M         ,UKR
+1169022,Haruka Kitaguchi,W         ,JPN
+1168965,Maayke Tjin A-Lim,W         ,NED
+1168931,Imran Rahman,M         ,BAN
+1168764,Juan Miguel Echevarría,M         ,CUB
+1168678,Kaori Kawazoe,W         ,JPN
+1168487,Andrea Agrusti,M         ,ITA
+1168481,Lili Anna Vindics-Tóth,W         ,HUN
+1168411,Mohammad Amin Al-Salami,M         ,SYR
+1167962,Michelle Atherley,W         ,USA
+1167569,Shanice Love,W         ,JAM
+1167184,Isabelle Boffey,W         ,GBR
+1166902,Conner Mantz,M         ,USA
+1166842,Julia Henriksson,W         ,SWE
+1166340,Yana Hladiychuk,W         ,UKR
+1166158,Yago Rojo,M         ,ESP
+1166081,Salomé Afonso,W         ,POR
+1165990,Simon Debognies,M         ,BEL
+1165690,Rika Kaseda,W         ,JPN
+1165372,Lucia Stafford,W         ,CAN
+1165119,Jessica Inchude,W         ,POR
+1164116,Hicham Oueladha,M         ,MAR
+1164091,Pascale Stöcklin,W         ,SUI
+1163356,Masaki Toyoda,M         ,JPN
+1163207,Nick Ponzio,M         ,ITA
+1162914,Holly Mills,W         ,GBR
+1162874,Anna Wielgosz,W         ,POL
+1162598,Freddie Crittenden,M         ,USA
+1162581,Anna Emilie Møller,W         ,DEN
+1162029,Killiana Heymans,W         ,NED
+1161819,Yekaterina Ivonina,W         ,RUS
+1161771,Thiago Julio Moura,M         ,BRA
+1161628,Olha Korsun,W         ,UKR
+1161476,Max Heß,M         ,GER
+1161461,Brittany Brown,W         ,USA
+1161333,Nguyen Thi Oanh,W         ,VIE
+1161082,Rachael Chebet,W         ,UGA
+1160775,Palakeezh Unnikrishnan Chithra,W         ,IND
+1160700,Abbie Donnelly,W         ,GBR
+1160607,Barnabas Kiptum,M         ,KEN
+1160272,Urho Kujanpää,M         ,FIN
+1160149,Bassant Hemida,W         ,EGY
+1160023,Dóra Kerekes,W         ,HUN
+1159570,Giulia Aprile,W         ,ITA
+1159412,Gabriel Enrique Kehr,M         ,CHI
+1159147,István Szögi,M         ,HUN
+1159055,Víctor Ruiz,M         ,ESP
+1159045,Fatima Diame,W         ,ESP
+1158737,Marc Tur,M         ,ESP
+1158646,Hans-Christian Hausenberg,M         ,EST
+1158335,Jo-Ané Van Dyk,W         ,RSA
+1158303,Marius Probst,M         ,GER
+1158209,Emily Borthwick,W         ,GBR
+1157809,Thiago André,M         ,BRA
+1157685,Judy Kiyeng,W         ,KEN
+1157658,Diána Lesti,W         ,HUN
+1157564,Eleonora Marchiando,W         ,ITA
+1157500,Musa Hajdari,M         ,KOS
+1157466,Hanne Maudens,W         ,BEL
+1157416,Noora Salem Jassem,W         ,BRN
+1157307,Yasser Triki,M         ,ALG
+1157114,Fernando Ferreira,M         ,BRA
+1157073,María Pía Fernández,W         ,URU
+1156983,Andreas Kramer,M         ,SWE
+1156829,Viivi Lehikoinen,W         ,FIN
+1156774,Luke Campbell,M         ,GER
+1156707,LaQuan Nairn,M         ,BAH
+1156398,Marina Andreea Baboi,W         ,ROU
+1156337,Molly Scott,W         ,IRL
+1156120,Isaac Updike,M         ,USA
+1155878,Tasa Jiya,W         ,NED
+1154799,Luis Campos,M         ,PER
+1154710,Ronnie Baker,M         ,USA
+1154157,Anais Bourgoin,W         ,FRA
+1154133,Futsum Zienasellassie,M         ,USA
+1154124,Steven Müller,M         ,GER
+1154031,Mariya Siney,W         ,UKR
+1153871,Alina Reh,W         ,GER
+1153571,Yaqoub Al-Yoha,M         ,KUW
+1153562,Joshua Cheptegei,M         ,UGA
+1153514,Weini Kelati,W         ,USA
+1153345,Chukwuebuka Enekwechi,M         ,NGR
+1153204,Sam Atkin,M         ,GBR
+1152962,Markus Fuchs,M         ,AUT
+1152637,Krista Tervo,W         ,FIN
+1152609,Konstanze Klosterhalfen,W         ,GER
+1152569,Tiago Pereira,M         ,POR
+1152435,Tabata de Carvalho,W         ,BRA
+1152428,Marc Scott,M         ,GBR
+1152103,Natalia Christofi,W         ,CYP
+1152058,Jasmine Camacho-Quinn,W         ,PUR
+1151844,Yendountien Tiebekabe,M         ,TOG
+1151832,Johnny Gregorek,M         ,USA
+1151267,Quanera Hayes,W         ,USA
+1151125,Mauricio Ortega,M         ,COL
+1150988,Michael Cherry,M         ,USA
+1150913,William Paulson,M         ,CAN
+1149668,Ruebin Walters,M         ,TTO
+1149576,Claudine Vita,W         ,GER
+1149442,Mariam Abdul-Rashid,W         ,CAN
+1149328,Stanislava Škvarková,W         ,SVK
+1149109,Magaly Bonilla,W         ,ECU
+1149034,Gabriel Constantino,M         ,BRA
+1147855,Darrell Hill,M         ,USA
+1147773,Hiroki Matsueda,M         ,JPN
+1147621,Filip Mihaljević,M         ,CRO
+1147563,Darko Pešić,M         ,MNE
+1146821,Sinead Diver,W         ,AUS
+1146729,Ayomide Folorunso,W         ,ITA
+1146676,Reynier Mena,M         ,CUB
+1146671,Radek Juška,M         ,CZE
+1146628,Laura Muir,W         ,GBR
+1146543,Alejandro Perlaza,M         ,COL
+1146496,Fang Yaoqing,M         ,CHN
+1146493,Scott Lincoln,M         ,GBR
+1146370,Patrik Šorm,M         ,CZE
+1146133,Brandon Valentine-Parris,M         ,VIN
+1146061,Ronald Levy,M         ,JAM
+1146033,Yang Shaohui,M         ,CHN
+1145978,Teahna Daniels,W         ,USA
+1145842,Mario Burke,M         ,BAR
+1145468,Alonzo Russell,M         ,BAH
+1145081,Vanessa Sterckendries,W         ,BEL
+1145055,Wu Zhiqiang,M         ,CHN
+1144955,Yusuke Nishiyama,M         ,JPN
+1144832,Benjamin Gföhler,M         ,SUI
+1144796,Suvi Koskinen,W         ,FIN
+1144529,Natsuki Yamakawa,M         ,JPN
+1144338,Irene Sánchez-Escribano,W         ,ESP
+1144089,Imani Lansiquot,W         ,GBR
+1143920,Gao Xinglong,M         ,CHN
+1143568,Alphonce Felix,M         ,TAN
+1143528,Sangone Kandji,W         ,SEN
+1143236,Sasha Gollish,W         ,CAN
+1143168,Patience George,W         ,NGR
+1142298,Özkan Baltacı,M         ,TUR
+1142251,Yassine Rachik,M         ,ITA
+1141261,Elena Burkard,W         ,GER
+1141128,Cejhae Greene,M         ,ANT
+1140786,Lene Onsrud Retzius,W         ,NOR
+1140686,Fanny Roos,W         ,SWE
+1140638,Eddie Lovett,M         ,ISV
+1139986,Franck Elemba,M         ,FRA
+1139961,Ayanleh Souleiman,M         ,DJI
+1139941,Luo Yadong,M         ,CHN
+1139584,Solene Gicquel,W         ,FRA
+1139241,Juan José Caicedo,M         ,ECU
+1139197,Ruswahl Samaai,M         ,RSA
+1138965,Christopher Morales Williams,M         ,CAN
+1138657,Erica Bougard,W         ,USA
+1138548,Tristan Evelyn,W         ,BAR
+1138215,Yolanda Ngarambe,W         ,SWE
+1138019,Patryk Dobek,M         ,POL
+1138003,Salim Mohammed Attiaallah,M         ,EGY
+1137961,Laban Korir,M         ,KEN
+1137939,Anniina Kortetmaa,W         ,FIN
+1137869,Su Lingdan,W         ,CHN
+1137769,Lazar Anić,M         ,SRB
+1137713,Mikiah Brisco,W         ,USA
+1137693,Tebogo Mamathu,W         ,RSA
+1137571,Greza Bakraqi,W         ,KOS
+1137484,Sifan Hassan,W         ,NED
+1137302,Gotytom Gebreslase,W         ,ETH
+1137209,Callum Hawkins,M         ,GBR
+1137001,Leonard Korir,M         ,USA
+1136985,Malwina Kopron,W         ,POL
+1136933,Luka Trgovčević,M         ,SRB
+1136876,Amy-Eloise Neale,W         ,GBR
+1136867,Jessie Maduka,W         ,GER
+1136808,Immaculate Chemutai,W         ,UGA
+1136727,János Huszák,M         ,HUN
+1136707,Rusheen McDonald,M         ,JAM
+1136167,Ma Faying,W         ,CHN
+1136025,Danniel Thomas-Dodd,W         ,JAM
+1135880,Melissa Gonzalez,W         ,COL
+1135708,Nicole Bradley,W         ,NZL
+1135554,Hellen Obiri,W         ,KEN
+1135530,Ioánnis Nifadópoulos,M         ,GRE
+1135399,Philip Osei,M         ,CAN
+1134981,Geoffrey Kamworor,M         ,KEN
+1134906,Seito Yamamoto,M         ,JPN
+1134903,Camilla Richardsson,W         ,FIN
+1134862,Gladys Tejeda,W         ,PER
+1134762,Mette Graversgaard,W         ,NULL
+1134568,Ellie Pashley,W         ,AUS
+1134401,Susana Santos,W         ,POR
+1134210,Bernardo Baloyes,M         ,COL
+1134068,Steven Solomon,M         ,AUS
+1133759,Thijs Nijhuis,M         ,NULL
+1132941,Astrid Glenner-Frandsen,W         ,NULL
+1132733,Lathone Collie-Minns,M         ,BAH
+1132666,Masumi Aoki,W         ,JPN
+1132664,Girmaw Amare,M         ,ISR
+1132541,Óscar Husillos,M         ,ESP
+1132339,Tatiána Goúsin,W         ,GRE
+1131986,Beatrice Nedberge Llano,W         ,NOR
+1131903,Pedro Pablo Pichardo,M         ,POR
+1131588,Diego Pinzón,M         ,COL
+1130284,Panayióta Tsinopoúlou,W         ,GRE
+1130074,Tom Bosworth,M         ,GBR
+1129245,Brandon Starc,M         ,AUS
+1128797,Ran Urabe,W         ,JPN
+1128597,Arisa Kimishima,W         ,JPN
+1128296,Marta Galimany,W         ,ESP
+1128201,Wesley Vázquez,M         ,PUR
+1127482,Feng Bin,W         ,CHN
+1127465,Aziza Sbaity,W         ,LBN
+1126671,Liuba M. Zaldívar,W         ,ECU
+1126405,Miles Lewis,M         ,PUR
+1126338,Byambajav Tseveenravdan,M         ,MGL
+1125894,Nelly Jepkosgei,W         ,BRN
+1125379,Julia Ratcliffe,W         ,NZL
+1125344,Anasztázia Nguyen,W         ,HUN
+1125054,Mark English,M         ,IRL
+1124165,Lisanne de Witte,W         ,NED
+1124017,Tomoka Kimura,W         ,JPN
+1123665,Li Zhixuan,W         ,CHN
+1123448,Emiliano Lasa,M         ,URU
+1123297,Taryn Gollshewsky,W         ,AUS
+1123255,Aisha Praught Leer,W         ,JAM
+1123107,Anthonique Strachan,W         ,BAH
+1122795,Marielle Hall,W         ,USA
+1122669,Augusto Dutra,M         ,BRA
+1122420,Hichem Bouchicha,M         ,ALG
+1121366,Kristiina Sasínek Mäki,W         ,CZE
+1121181,Žan Rudolf,M         ,SLO
+1120856,Hanna Malyshik,W         ,BLR
+1120650,Jovana de la Cruz,W         ,PER
+1120162,Takayuki Kishimoto,M         ,JPN
+1119720,Ty Butts-Townsend,W         ,USA
+1119552,Hassan Chahdi,M         ,FRA
+1119269,Derlis Ayala,M         ,PAR
+1118742,Miguel Ángel López,M         ,ESP
+1117898,Jenny Blundell,W         ,AUS
+1117847,Purity Kirui,W         ,KEN
+1115752,Andrius Gudžius,M         ,LTU
+1115100,Evan Jager,M         ,USA
+1114505,Soumaya Boussaïd,W         ,TUN
+1114256,Christoph Harting,M         ,GER
+1114240,Berhanu Girma,M         ,ETH
+1114112,Rushell Clayton,W         ,JAM
+1112494,Katie Moon,W         ,USA
+1111073,Will Claye,M         ,USA
+1110611,Ryota Yamagata,M         ,JPN
+1110511,Cynthia Bolingo Mbongo,W         ,BEL
+1110179,Brooke Buschkuehl,W         ,AUS
+1109366,Matt Hughes,M         ,CAN
+1108732,Ernesto Zamora,M         ,URU
+1108199,Line Kloster,W         ,NOR
+1107847,Eri Utsunomiya,W         ,JPN
+1107628,Aaron Brown,M         ,CAN
+1107536,Andreas Trajkovski,M         ,MKD
+1107129,Līna Mūze-Sirmā,W         ,LAT
+1107010,Selina Rutz-Büchel,W         ,SUI
+1106728,Neele Eckhardt-Noack,W         ,GER
+1106618,Aleksandr Lesnoy,M         ,RUS
+1106232,Geneviève Lalonde,W         ,CAN
+1105154,Adelle Tracey,W         ,JAM
+1102984,Dezerea Bryant,W         ,USA
+1102814,Koen Naert,M         ,BEL
+1102015,Hrisoúla Anagnostopoúlou,W         ,GRE
+1101586,Chrisann Gordon-Powell,W         ,JAM
+1101113,Isaac Makwala,M         ,BOT
+1099183,Nazret Weldu,W         ,ERI
+1098731,Xie Wenjun,M         ,CHN
+1097267,Amor Benyahia,M         ,TUN
+1097075,Nooralotta Neziri,W         ,FIN
+1096891,Jeffery Henderson,M         ,USA
+1095790,Vera Barbosa,W         ,POR
+1094334,Õilme Võro,W         ,EST
+1093667,Daryia Barysevich,W         ,BLR
+1093282,Mariya Lasitskene,W         ,RUS
+1092879,Ciara Mageean,W         ,IRL
+1092695,Ben Blankenship,M         ,USA
+1092094,Matthew Centrowitz,M         ,USA
+1091736,H.L. Dilhani Lekamge,W         ,SRI
+1090339,Asuka Terada,W         ,JPN
+1089657,Christabel Nettey,W         ,CAN
+1088618,Robert Urbanek,M         ,POL
+1087824,Rita Nemes,W         ,HUN
+1086655,Meghan Beesley,W         ,GBR
+1085511,Luiza Gega,W         ,ALB
+1084760,Adam Kszczot,M         ,POL
+1083495,Anna Ryzhykova,W         ,UKR
+1083353,Malika Akkaoui,W         ,MAR
+1082236,Brianna Beahan,W         ,AUS
+1081374,Vaida Žūsinaitė,W         ,LTU
+1081063,Līga Velvere,W         ,LAT
+1079175,Andrea Deelstra,W         ,NED
+1078231,Esther Guerrero,W         ,ESP
+1077789,Inna Eftimova,W         ,BUL
+1076796,Liam Adams,M         ,AUS
+1072599,Karen Gallardo,W         ,CHI
+1072333,Liz Gleadle,W         ,CAN
+1072100,Anita Márton,W         ,HUN
+1070102,Li Ling,W         ,CHN
+1069967,Yohan Blake,M         ,JAM
+1069234,Murielle Ahouré-Demps,W         ,CIV
+1067503,Anna Plotitsyna,W         ,UKR
+1066794,Coralys Ortiz,W         ,PUR
+1066649,Carrie Dimoff,W         ,USA
+1066584,Nicole Büchler,W         ,SUI
+1063476,Jessica Beard,W         ,USA
+1063460,Lee Hup Wei,M         ,MAS
+1063441,Simona Vrzalová,W         ,CZE
+1063017,Jucilene de Lima,W         ,BRA
+1062180,Brittney Reese,W         ,USA
+1061694,Tuğçe Şahutoğlu,W         ,TUR
+1059866,Irina Ektova,W         ,KAZ
+1058429,Konstadínos Filippídis,M         ,GRE
+1057042,Elroy Gelant,M         ,RSA
+1056372,Shara Proctor,W         ,GBR
+1055931,Ser-Od Bat-Ochir,M         ,MGL
+1053332,Elisabeth Slettum,W         ,NOR
+1052059,Germán Chiaraviglio,M         ,ARG
+1051508,Alexis Copello,M         ,AZE
+1045577,Susana Costa,W         ,POR
+1044948,Inika McPherson,W         ,USA
+1042585,Nastassia Ivanova,W         ,BLR
+1042476,Piotr Małachowski,M         ,POL
+1041917,Emily Tuei,W         ,NULL
+1038540,Justin Gatlin,M         ,USA
+1033023,Barbora Špotáková,W         ,CZE
+1032062,Slovak Republic,M         ,SVK
+1031321,Ecuador,W         ,ECU
+1031203,Botswana,W         ,BOT
+1030844,Martina Hrašnová,W         ,SVK
+1027451,Ghana,W         ,GHA
+1026012,Switzerland,W         ,SUI
+1024503,India,M         ,IND
+1024160,Olha Saladukha,W         ,UKR
+1020233,Edna Kiplagat,W         ,KEN
+1017091,Belgium,W         ,BEL
+1016663,Paulo Roberto Paula,M         ,BRA
+1009175,Italy,W         ,ITA
+1007436,Czech Republic,W         ,CZE
+1007414,China,W         ,CHN
+1006536,United States,M         ,USA
+1006493,France,M         ,FRA
+1004553,Canada,W         ,CAN
+1003838,Yekaterina Voronina,W         ,NULL
+1003210,Poland,M         ,POL
+1002214,Germany,W         ,GER
+1001113,Germany,M         ,GER
+,,,

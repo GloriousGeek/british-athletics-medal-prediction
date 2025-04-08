@@ -1,0 +1,37 @@
+,EventName,AthleteGender,MedalThreshold
+0,10000m,M         ,1603.46
+1,10000m,W         ,1800.86
+2,100m,M         ,9.79
+3,100m,W         ,10.67
+4,100m Hurdles,W         ,12.23
+5,110m Hurdles,M         ,13.03
+6,1500m,M         ,207.79
+7,1500m,W         ,232.56
+8,200m,M         ,19.52
+9,200m,W         ,21.53
+10,3000m Steeplechase,M         ,483.53
+11,3000m Steeplechase,W         ,533.34
+12,400m,M         ,43.44
+13,400m,W         ,48.36
+14,400m Hurdles,M         ,46.29
+15,400m Hurdles,W         ,51.46
+16,5000m,M         ,778.61
+17,5000m,W         ,868.43
+18,800m,M         ,101.5
+19,800m,W         ,115.19
+20,Discus Throw,M         ,70.02
+21,Discus Throw,W         ,69.23
+22,Hammer Throw,M         ,81.98
+23,Hammer Throw,W         ,77.54
+24,High Jump,M         ,2.37
+25,High Jump,W         ,2.04
+26,Javelin Throw,M         ,89.45
+27,Javelin Throw,W         ,66.56
+28,Long Jump,M         ,8.52
+29,Long Jump,W         ,7.12
+30,Pole Vault,M         ,6.2
+31,Pole Vault,W         ,4.9
+32,Shot Put,M         ,22.94
+33,Shot Put,W         ,20.43
+34,Triple Jump,M         ,17.92
+35,Triple Jump,W         ,15.47

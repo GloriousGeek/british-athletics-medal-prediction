@@ -1,0 +1,9 @@
+AthleteGUID,AthleteName,EventName,AthleteGender,PerformanceValues,MedalThreshold,CompPosition,Nationality,Flag
+1094126,eilish mccolgan,10000m,W         ,1800.86,1800.86,1.0,gbr,gbr
+1176455,josh kerr,1500m,M         ,207.79,207.79,2.0,gbr,global
+1150443,matthew hudsonsmith,400m,M         ,43.44,43.44,2.0,gbr,global
+1153204,sam atkin,5000m,M         ,774.66,778.61,8.0,gbr,gbr
+1313989,hannah cockroft,800m,W         ,108.99,115.19,1.0,gbr,gbr
+1221587,keely hodgkinson,800m,W         ,115.19,115.19,2.0,gbr,gbr
+1123895,holly bradshaw,Pole Vault,W         ,4.9,4.9,1.0,gbr,gbr
+1184793,molly caudery,Pole Vault,W         ,4.92,4.9,1.0,gbr,gbr

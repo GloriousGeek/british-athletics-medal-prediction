@@ -1,0 +1,109 @@
+AthleteGUID,CompetitionID,EventID,dateid,EventName,Terrain,PerformanceValues,PerformanceUnits,CompPosition,CompRound,CompVenue,AthleteName,AthleteGender,Nationality,Flag,EventType,RankValue
+1182081,135559,3040734,2024-03-16,10000m,outdoor,1628.81,seconds,10.0,finals,san juan capistrano ca,patrick dever,M         ,gbr,gbr,time_based,1628.81
+1152428,104389,2533645,2021-02-20,10000m,outdoor,1630.41,seconds,1.0,finals,san juan capistrano ca,marc scott,M         ,gbr,gbr,time_based,1630.41
+1182081,122851,2751399,2022-03-06,10000m,outdoor,1643.88,seconds,6.0,finals,san juan capistrano ca,patrick dever,M         ,gbr,gbr,time_based,1643.88
+1094126,129374,2887055,2023-03-04,10000m,outdoor,1800.86,seconds,1.0,finals,san juan capistrano ca,eilish mccolgan,W         ,gbr,gbr,time_based,1800.86
+1094126,126297,2809589,2022-06-06,10000m,outdoor,1819.02,seconds,1.0,finals,hengelo,eilish mccolgan,W         ,gbr,gbr,time_based,1819.02
+1094126,126941,2830535,2022-07-16,10000m,outdoor,1834.6,seconds,10.0,finals,eugene or,eilish mccolgan,W         ,gbr,gbr,time_based,1834.6
+1145889,132910,2969083,2023-06-24,100m,outdoor,9.83,seconds,1.0,finals,randalls island ny,zharnel hughes,M         ,gbr,gbr,time_based,9.83
+1145889,134418,2988076,2023-08-20,100m,outdoor,9.88,seconds,3.0,finals,budapest,zharnel hughes,M         ,gbr,gbr,time_based,9.88
+1247459,123294,2757746,2022-03-26,100m,outdoor,9.9,seconds,1.0,finals,austin tx,toby makoyawo,M         ,gbr,gbr,time_based,9.9
+1137804,126687,2822745,2022-06-25,100m,outdoor,10.8,seconds,1.0,finals,manchester,daryll neita,W         ,gbr,gbr,time_based,10.8
+1122149,81430,2437357,2019-09-29,100m,outdoor,10.83,seconds,2.0,finals,doha,dina ashersmith,W         ,gbr,gbr,time_based,10.83
+1122149,126941,2831289,2022-07-17,100m,outdoor,10.83,seconds,4.0,finals,eugene or,dina ashersmith,W         ,gbr,gbr,time_based,10.83
+1157657,126941,2832275,2022-07-24,100m Hurdles,outdoor,12.38,seconds,5.0,finals,eugene or,cindy sember,W         ,gbr,gbr,time_based,12.38
+1157657,109322,2606181,2021-05-09,100m Hurdles,outdoor,12.53,seconds,2.0,finals,walnut ca,cindy sember,W         ,gbr,gbr,time_based,12.53
+1157657,104351,2586226,2021-04-10,100m Hurdles,outdoor,12.55,seconds,2.0,finals,miramar fl,cindy sember,W         ,gbr,gbr,time_based,12.55
+1141735,83999,2470375,2020-08-14,110m Hurdles,outdoor,13.14,seconds,2.0,finals,monaco,andy pozzi,M         ,gbr,gbr,time_based,13.14
+1141735,84488,2486103,2020-09-17,110m Hurdles,outdoor,13.15,seconds,1.0,finals,roma,andy pozzi,M         ,gbr,gbr,time_based,13.15
+1274711,134079,2975518,2023-07-09,110m Hurdles,outdoor,13.16,seconds,1.0,finals,manchester,tade ojora,M         ,gbr,gbr,time_based,13.16
+1176455,142291,3147955,2024-08-06,1500m,outdoor,207.79,seconds,2.0,finals,paris,josh kerr,M         ,gbr,gbr,time_based,207.79
+1176455,112541,2659390,2021-08-07,1500m,outdoor,209.05,seconds,3.0,finals,tokyo,josh kerr,M         ,gbr,gbr,time_based,209.05
+1145539,126941,2831688,2022-07-19,1500m,outdoor,209.23,seconds,1.0,finals,eugene or,jake wightman,M         ,gbr,gbr,time_based,209.23
+1111484,142291,3148692,2024-08-10,1500m,outdoor,232.61,seconds,3.0,finals,paris,georgia bell,W         ,gbr,gbr,time_based,232.61
+1146628,142291,3148692,2024-08-10,1500m,outdoor,233.37,seconds,5.0,finals,paris,laura muir,W         ,gbr,gbr,time_based,233.37
+1146628,134941,3137242,2024-07-07,1500m,outdoor,233.79,seconds,3.0,finals,paris,laura muir,W         ,gbr,gbr,time_based,233.79
+1145889,128270,2981016,2023-07-23,200m,outdoor,19.73,seconds,3.0,finals,london,zharnel hughes,M         ,gbr,gbr,time_based,19.73
+1145889,134079,2976525,2023-07-09,200m,outdoor,19.77,seconds,1.0,finals,manchester,zharnel hughes,M         ,gbr,gbr,time_based,19.77
+1145889,134497,2990768,2023-09-08,200m,outdoor,19.82,seconds,2.0,finals,bruxelles,zharnel hughes,M         ,gbr,gbr,time_based,19.82
+1122149,81430,2410062,2019-10-02,200m,outdoor,21.88,seconds,1.0,finals,doha,dina ashersmith,W         ,gbr,gbr,time_based,21.88
+1122149,126941,2832065,2022-07-21,200m,outdoor,22.02,seconds,3.0,finals,eugene or,dina ashersmith,W         ,gbr,gbr,time_based,22.02
+1122149,119780,2685645,2021-09-03,200m,outdoor,22.04,seconds,3.0,finals,bruxelles,dina ashersmith,W         ,gbr,gbr,time_based,22.04
+1105596,141866,3134523,2024-06-30,3000m Steeplechase,outdoor,498.65,seconds,1.0,finals,manchester,phil norman,M         ,gbr,gbr,time_based,498.65
+1105596,134895,3128388,2024-06-22,3000m Steeplechase,outdoor,499.58,seconds,2.0,finals,wien,phil norman,M         ,gbr,gbr,time_based,499.58
+1105596,89837,2624640,2021-05-19,3000m Steeplechase,outdoor,500.12,seconds,2.0,finals,ostrava,phil norman,M         ,gbr,gbr,time_based,500.12
+1145977,142291,3147928,2024-08-06,3000m Steeplechase,outdoor,544.35,seconds,7.0,finals,paris,elizabeth bird,W         ,gbr,gbr,time_based,544.35
+1145977,127115,2836759,2022-08-10,3000m Steeplechase,outdoor,547.87,seconds,3.0,finals,monaco,elizabeth bird,W         ,gbr,gbr,time_based,547.87
+1145977,134941,3137225,2024-07-07,3000m Steeplechase,outdoor,549.07,seconds,3.0,finals,paris,elizabeth bird,W         ,gbr,gbr,time_based,549.07
+1150443,142291,3148209,2024-08-07,400m,outdoor,43.44,seconds,2.0,finals,paris,matthew hudsonsmith,M         ,gbr,gbr,time_based,43.44
+1150443,134890,3143016,2024-07-20,400m,outdoor,43.74,seconds,1.0,finals,london,matthew hudsonsmith,M         ,gbr,gbr,time_based,43.74
+1150443,142439,3151297,2024-08-22,400m,outdoor,43.96,seconds,1.0,finals,lausanne,matthew hudsonsmith,M         ,gbr,gbr,time_based,43.96
+1190389,142291,3148569,2024-08-09,400m,outdoor,49.29,seconds,5.0,finals,paris,amber anning,W         ,gbr,gbr,time_based,49.29
+1190389,140380,3094065,2024-05-11,400m,outdoor,49.51,seconds,3.0,finals,gainesville fl,amber anning,W         ,gbr,gbr,time_based,49.51
+1190389,141228,3111328,2024-06-08,400m,outdoor,49.59,seconds,3.0,finals,eugene or,amber anning,W         ,gbr,gbr,time_based,49.59
+1244679,141866,3133855,2024-06-30,400m Hurdles,outdoor,48.54,seconds,1.0,finals,manchester,alastair chalmers,M         ,gbr,gbr,time_based,48.54
+1244679,126055,2804219,2022-05-28,400m Hurdles,outdoor,48.88,seconds,1.0,finals,oordegem,alastair chalmers,M         ,gbr,gbr,time_based,48.88
+1157289,135008,3151876,2024-08-24,400m Hurdles,outdoor,48.89,seconds,1.0,finals,manchester,efekemo okoro,M         ,gbr,gbr,time_based,48.89
+1144962,126055,2804500,2022-05-28,400m Hurdles,outdoor,54.09,seconds,1.0,finals,oordegem,jessie knight,W         ,gbr,gbr,time_based,54.09
+1144962,128270,2980923,2023-07-23,400m Hurdles,outdoor,54.09,seconds,5.0,finals,london,jessie knight,W         ,gbr,gbr,time_based,54.09
+1144962,134890,3143017,2024-07-20,400m Hurdles,outdoor,54.15,seconds,5.0,finals,london,jessie knight,W         ,gbr,gbr,time_based,54.15
+1153204,137298,3101752,2024-05-17,5000m,outdoor,774.66,seconds,8.0,finals,westwood ca,sam atkin,M         ,gbr,gbr,time_based,774.66
+1176236,135806,3004155,2024-01-26,5000m,indoor,778.68,seconds,2.0,finals,boston ma,george mills,M         ,gbr,gbr,time_based,778.68
+1153204,135806,3004155,2024-01-26,5000m,indoor,778.73,seconds,3.0,finals,boston ma,sam atkin,M         ,gbr,gbr,time_based,778.73
+1094126,112173,2649033,2021-07-01,5000m,outdoor,868.55,seconds,4.0,finals,oslo,eilish mccolgan,W         ,gbr,gbr,time_based,868.55
+1094126,119780,2685643,2021-09-03,5000m,outdoor,871.26,seconds,7.0,finals,bruxelles,eilish mccolgan,W         ,gbr,gbr,time_based,871.26
+1102448,83999,2488425,2020-08-14,5000m,outdoor,875.44,seconds,3.0,finals,monaco,laura weightman,W         ,gbr,gbr,time_based,875.44
+1219403,142078,3139997,2024-07-12,800m,outdoor,102.27,seconds,5.0,finals,monaco,ben pattison,M         ,gbr,gbr,time_based,102.27
+1201841,126483,2815718,2022-06-14,800m,outdoor,103.52,seconds,1.0,finals,turku,max burgin,M         ,gbr,gbr,time_based,103.52
+1182634,89525,2531462,2021-02-17,800m,indoor,103.63,seconds,1.0,finals,toru,elliot giles,M         ,gbr,gbr,time_based,103.63
+1313989,89486,2719303,2021-09-04,800m,outdoor,108.99,seconds,1.0,finals,tokyo,hannah cockroft,W         ,gbr,gbr,time_based,108.99
+1221587,134890,3143060,2024-07-20,800m,outdoor,114.61,seconds,1.0,finals,london,keely hodgkinson,W         ,gbr,gbr,time_based,114.61
+1221587,134552,2992541,2023-09-17,800m,outdoor,115.19,seconds,2.0,finals,eugene or,keely hodgkinson,W         ,gbr,gbr,time_based,115.19
+1156978,137378,3057018,2024-04-06,Discus Throw,outdoor,67.73,metres,2.0,finals,ramona ok,nick percy,M         ,gbr,gbr,distance_based,-67.73
+1142725,127131,2837988,2022-08-19,Discus Throw,outdoor,67.14,metres,3.0,finals,mnchen,lawrence okoye,M         ,gbr,gbr,distance_based,-67.14
+1142725,111497,2638027,2021-06-11,Discus Throw,outdoor,67.13,metres,1.0,finals,sdertlje,lawrence okoye,M         ,gbr,gbr,distance_based,-67.13
+1087236,137378,3077700,2024-04-27,Discus Throw,outdoor,63.15,metres,1.0,finals,ramona ok,jade lally,W         ,gbr,gbr,distance_based,-63.15
+1087236,121814,2727879,2022-01-08,Discus Throw,outdoor,61.78,metres,1.0,finals,brisbane,jade lally,W         ,gbr,gbr,distance_based,-61.78
+1087236,122787,2750300,2022-03-05,Discus Throw,outdoor,61.75,metres,1.0,finals,brisbane,jade lally,W         ,gbr,gbr,distance_based,-61.75
+1144181,77548,2464745,2019-06-12,Hammer Throw,outdoor,78.39,metres,3.0,finals,bydgoszcz,nick miller,M         ,gbr,gbr,distance_based,-78.39
+1174085,89793,2633973,2021-06-05,Hammer Throw,outdoor,78.23,metres,1.0,finals,tatabnya,taylor campbell,M         ,gbr,gbr,distance_based,-78.23
+1144181,112541,2659050,2021-08-04,Hammer Throw,outdoor,78.15,metres,6.0,finals,tokyo,nick miller,M         ,gbr,gbr,distance_based,-78.15
+1230369,128466,2908882,2023-04-08,Hammer Throw,outdoor,73.02,metres,2.0,finals,berkeley ca,anna purchase,W         ,gbr,gbr,distance_based,-73.02
+1230369,136453,3127793,2024-06-21,Hammer Throw,outdoor,71.79,metres,2.0,finals,madrid,anna purchase,W         ,gbr,gbr,distance_based,-71.79
+1230369,133573,2959896,2023-06-08,Hammer Throw,outdoor,71.47,metres,3.0,finals,austin tx,anna purchase,W         ,gbr,gbr,distance_based,-71.47
+1223299,103852,2527603,2020-02-08,High Jump,indoor,2.33,metres,1.0,finals,hustopee,tom gale,M         ,gbr,gbr,distance_based,-2.33
+1223299,104154,2481396,2020-02-11,High Jump,indoor,2.31,metres,3.0,finals,bansk bystrica,tom gale,M         ,gbr,gbr,distance_based,-2.31
+1223299,83417,2477181,2020-02-02,High Jump,indoor,2.3,metres,1.0,finals,tinec,tom gale,M         ,gbr,gbr,distance_based,-2.3
+1142649,128436,2870690,2023-02-04,High Jump,indoor,1.99,metres,1.0,finals,hustopee,morgan lake,W         ,gbr,gbr,distance_based,-1.99
+1142649,103353,2467823,2019-01-26,High Jump,indoor,1.97,metres,3.0,finals,hustopee,morgan lake,W         ,gbr,gbr,distance_based,-1.97
+1142649,133659,2962453,2023-06-13,High Jump,outdoor,1.97,metres,2.0,finals,turku,morgan lake,W         ,gbr,gbr,distance_based,-1.97
+1184453,81125,2447274,2019-05-19,Javelin Throw,outdoor,80.32,metres,1.0,finals,loughborough,harry hughes,M         ,gbr,gbr,distance_based,-80.32
+1207694,125317,2791130,2022-05-15,Javelin Throw,outdoor,79.53,metres,5.0,finals,offenburg,joe harris,M         ,gbr,gbr,distance_based,-79.53
+1199355,124234,2841131,2022-08-29,Javelin Throw,outdoor,79.26,metres,1.0,finals,tonbridge,james whiteaker,M         ,gbr,gbr,distance_based,-79.26
+1238339,137956,3078490,2024-04-30,Javelin Throw,outdoor,59.95,metres,1.0,finals,huelva,rebekah walton,W         ,gbr,gbr,distance_based,-59.95
+1238339,133831,2968480,2023-06-25,Javelin Throw,outdoor,59.76,metres,3.0,finals,chorzw,rebekah walton,W         ,gbr,gbr,distance_based,-59.76
+1238339,136090,3104435,2024-05-19,Javelin Throw,outdoor,59.36,metres,1.0,finals,loughborough,rebekah walton,W         ,gbr,gbr,distance_based,-59.36
+1161128,123294,2757928,2022-03-26,Long Jump,outdoor,8.45,metres,1.0,finals,austin tx,jacob finchamdukes,M         ,gbr,gbr,distance_based,-8.45
+1161128,138414,3094108,2024-05-11,Long Jump,outdoor,8.3,metres,1.0,finals,clermont fl,jacob finchamdukes,M         ,gbr,gbr,distance_based,-8.3
+1161128,129217,2912217,2023-04-15,Long Jump,outdoor,8.25,metres,1.0,finals,long beach ca,jacob finchamdukes,M         ,gbr,gbr,distance_based,-8.25
+1102347,129310,2887118,2023-03-05,Long Jump,indoor,7.0,metres,1.0,finals,istanbul,jazmin sawyers,W         ,gbr,gbr,distance_based,-7.0
+1110593,104801,2641601,2021-06-11,Long Jump,outdoor,6.94,metres,1.0,finals,marietta ga,lorraine ugen,W         ,gbr,gbr,distance_based,-6.94
+1102347,105221,2636323,2021-06-06,Long Jump,outdoor,6.9,metres,1.0,finals,chula vista ca,jazmin sawyers,W         ,gbr,gbr,distance_based,-6.9
+1147711,84330,2474149,2020-09-04,Pole Vault,outdoor,5.85,metres,1.0,finals,manchester,harry coppell,M         ,gbr,gbr,distance_based,-5.85
+1147711,103869,2490293,2020-02-23,Pole Vault,indoor,5.8,metres,5.0,finals,clermontferrand,harry coppell,M         ,gbr,gbr,distance_based,-5.8
+1147711,103924,2496915,2020-02-08,Pole Vault,indoor,5.8,metres,2.0,finals,rouen,harry coppell,M         ,gbr,gbr,distance_based,-5.8
+1184793,135708,3128652,2024-06-22,Pole Vault,outdoor,4.92,metres,1.0,finals,toulouse,molly caudery,W         ,gbr,gbr,distance_based,-4.92
+1123895,112051,2646135,2021-06-26,Pole Vault,outdoor,4.9,metres,1.0,finals,manchester,holly bradshaw,W         ,gbr,gbr,distance_based,-4.9
+1184793,135543,3007861,2024-02-24,Pole Vault,indoor,4.86,metres,1.0,finals,rouen,molly caudery,W         ,gbr,gbr,distance_based,-4.86
+1146493,134959,3110143,2024-05-28,Shot Put,outdoor,21.31,metres,4.0,finals,ostrava,scott lincoln,M         ,gbr,gbr,distance_based,-21.31
+1146493,111761,2638399,2021-06-13,Shot Put,outdoor,21.28,metres,2.0,finals,brno,scott lincoln,M         ,gbr,gbr,distance_based,-21.28
+1146493,134950,3107439,2024-05-25,Shot Put,outdoor,21.28,metres,2.0,finals,halle,scott lincoln,M         ,gbr,gbr,distance_based,-21.28
+1127668,122569,2745682,2022-02-27,Shot Put,indoor,18.82,metres,1.0,finals,birmingham,sophie mckinna,W         ,gbr,gbr,distance_based,-18.82
+1127668,123073,2753554,2022-03-18,Shot Put,indoor,18.62,metres,8.0,finals,beograd,sophie mckinna,W         ,gbr,gbr,distance_based,-18.62
+1127668,89537,2533129,2021-02-21,Shot Put,indoor,18.54,metres,1.0,finals,loughborough,sophie mckinna,W         ,gbr,gbr,distance_based,-18.54
+1108470,77603,2445636,2019-08-25,Triple Jump,outdoor,17.27,metres,1.0,finals,birmingham,ben williams,M         ,gbr,gbr,distance_based,-17.27
+1108470,80076,2446326,2019-08-11,Triple Jump,outdoor,17.14,metres,1.0,finals,bydgoszcz,ben williams,M         ,gbr,gbr,distance_based,-17.14
+1048012,77603,2445636,2019-08-25,Triple Jump,outdoor,16.88,metres,2.0,finals,birmingham,nathan douglas,M         ,gbr,gbr,distance_based,-16.88
+1167473,111761,2638385,2021-06-13,Triple Jump,outdoor,14.38,metres,1.0,finals,brno,naomi metzger,W         ,gbr,gbr,distance_based,-14.38
+1167473,127058,2835529,2022-08-05,Triple Jump,outdoor,14.37,metres,3.0,finals,birmingham,naomi metzger,W         ,gbr,gbr,distance_based,-14.37
+1167473,127131,2838002,2022-08-19,Triple Jump,outdoor,14.33,metres,6.0,finals,mnchen,naomi metzger,W         ,gbr,gbr,distance_based,-14.33

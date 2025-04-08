@@ -1,0 +1,39 @@
+EventName,AthleteGender,GBR_Top3_Count
+10000m,M         ,3
+10000m,W         ,3
+100m,M         ,3
+100m,W         ,3
+100m Hurdles,M         ,0
+100m Hurdles,W         ,3
+110m Hurdles,M         ,3
+110m Hurdles,W         ,0
+1500m,M         ,3
+1500m,W         ,3
+200m,M         ,3
+200m,W         ,3
+3000m Steeplechase,M         ,3
+3000m Steeplechase,W         ,3
+400m,M         ,3
+400m,W         ,3
+400m Hurdles,M         ,3
+400m Hurdles,W         ,3
+5000m,M         ,3
+5000m,W         ,3
+800m,M         ,3
+800m,W         ,3
+Discus Throw,M         ,3
+Discus Throw,W         ,3
+Hammer Throw,M         ,3
+Hammer Throw,W         ,3
+High Jump,M         ,3
+High Jump,W         ,3
+Javelin Throw,M         ,3
+Javelin Throw,W         ,3
+Long Jump,M         ,3
+Long Jump,W         ,3
+Pole Vault,M         ,3
+Pole Vault,W         ,3
+Shot Put,M         ,3
+Shot Put,W         ,3
+Triple Jump,M         ,3
+Triple Jump,W         ,3
